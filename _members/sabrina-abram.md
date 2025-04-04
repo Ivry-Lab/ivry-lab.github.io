@@ -1,6 +1,6 @@
 ---
 name: Sabrina Abram
-image: images/sabrina_photo.jpg
+image: images/sabrina.jpg
 role: Postdoctoral Fellow
 email: abramsabrina@berkeley.edu
 office: 2121 Berkeley Way, 3rd floor
