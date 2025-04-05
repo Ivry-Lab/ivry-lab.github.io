@@ -9,7 +9,7 @@ nav:
 
 Our research focuses on how people become efficient and coordinated in their movement and thought, and how that may be impacted by neurological disorders.
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=6jRXx9GArkM&t=7s" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6jRXx9GArkM?start=7" frameborder="0" allowfullscreen></iframe>
 
 ---
 
