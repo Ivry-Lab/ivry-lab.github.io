@@ -38,7 +38,8 @@
     {% endif %}
   </a>
 
-  <!-- Move the navigation bar here, directly below the title -->
+  <input class="nav-toggle" type="checkbox" aria-label="show/hide nav">
+
   <nav>
     {% assign pages = site.pages
       | where_exp: "page", "page.nav"
@@ -56,35 +57,3 @@
     {% endfor %}
   </nav>
 </header>
-
-<style>
-/* Reduce the height of the header background */
-header.background {
-  background-size: cover;
-  background-position: center;
-  height: 300px; /* Adjust this value to reduce the height */
-}
-
-header.background[data-big] {
-  height: 200px; /* Adjust this for the homepage if needed */
-}
-
-/* Style the navigation bar */
-header nav {
-  display: flex;
-  justify-content: center;
-  gap: 20px; /* Space between links */
-  margin-top: 10px; /* Space between the title and the nav */
-}
-
-header nav a {
-  text-decoration: none;
-  font-size: 16px;
-  color: white; /* Adjust color as needed */
-  font-weight: bold;
-}
-
-header nav a:hover {
-  text-decoration: underline;
-}
-</style>
