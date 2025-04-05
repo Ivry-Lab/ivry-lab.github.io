@@ -1,3 +1,5 @@
+---
+---
 
 $logo-big: 80px;
 $logo: 40px;
@@ -97,21 +99,17 @@ nav {
   justify-content: center;
   align-items: center;
   flex-wrap: wrap;
-  gap: 20px; // Increased spacing between links
-  margin-top: 10px; // Add spacing between the title and the nav
+  gap: 10px;
   font-family: var(--heading);
   text-transform: uppercase;
 }
 
 nav > a {
-  padding: 5px 10px; // Add padding for better spacing
-  text-decoration: none;
-  color: var(--text);
-  font-weight: bold;
+  padding: 5px;
 }
 
 nav > a:hover {
-  color: var(--primary); // Change color on hover
+  color: var(--primary);
 }
 
 header:not([data-big]) {
@@ -138,8 +136,7 @@ header[data-big] {
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  padding: 50px 20px; // Reduced from $big-padding
-  height: 300px; // Add this line to explicitly set the height
+  padding: $big-padding 20px;
 
   @if $sticky {
     top: unset;
