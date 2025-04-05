@@ -1,174 +1,828 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1093/nar/gkad1082
-  title: "The Monarch Initiative in 2024: an analytic platform integrating phenotypes,\
-    \ genes\_and diseases across species"
+- id: doi:10.1162/nol_a_00083
+  title: No Evidence for Semantic Prediction Deficits in Individuals With Cerebellar
+    Degeneration
   authors:
-  - Tim E Putman
-  - Kevin Schaper
-  - Nicolas Matentzoglu
-  - "Vincent\_P Rubinetti"
-  - "Faisal\_S Alquaddoomi"
-  - Corey Cox
-  - J Harry Caufield
-  - Glass Elsarboukh
-  - Sarah Gehrke
-  - Harshad Hegde
-  - "Justin\_T Reese"
-  - Ian Braun
-  - "Richard\_M Bruskiewich"
-  - Luca Cappelletti
-  - Seth Carbon
-  - "Anita\_R Caron"
-  - "Lauren\_E Chan"
-  - "Christopher\_G Chute"
-  - "Katherina\_G Cortes"
-  - "Vin\xEDcius De\_Souza"
-  - Tommaso Fontana
-  - "Nomi\_L Harris"
-  - "Emily\_L Hartley"
-  - Eric Hurwitz
-  - "Julius\_O B Jacobsen"
-  - Madan Krishnamurthy
-  - "Bryan\_J Laraway"
-  - "James\_A McLaughlin"
-  - "Julie\_A McMurry"
-  - "Sierra\_A T Moxon"
-  - "Kathleen\_R Mullen"
-  - "Shawn\_T O\u2019Neil"
-  - "Kent\_A Shefchek"
-  - Ray Stefancsik
-  - Sabrina Toro
-  - "Nicole\_A Vasilevsky"
-  - "Ramona\_L Walls"
-  - "Patricia\_L Whetzel"
-  - David Osumi-Sutherland
-  - Damian Smedley
-  - "Peter\_N Robinson"
-  - "Christopher\_J Mungall"
-  - "Melissa\_A Haendel"
-  - "Monica\_C Munoz-Torres"
-  publisher: Nucleic Acids Research
-  date: '2023-11-24'
-  link: https://doi.org/gs6kmr
-  orcid: 0000-0002-4655-3773
+  - Maedbh King
+  - Sienna Bruinsma
+  - Richard B. Ivry
+  publisher: Neurobiology of Language
+  date: '2024-01-01'
+  link: https://doi.org/g9cg2x
+  orcid: 0000-0003-4728-5130
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.10.11.560955
-  title: Integration of 168,000 samples reveals global patterns of the human gut microbiome
+- id: doi:10.7554/eLife.91839
+  title: 'Fundamental processes in sensorimotor learning: Reasoning, refinement, and
+    retrieval'
   authors:
-  - Richard J. Abdill
-  - Samantha P. Graham
-  - Vincent Rubinetti
-  - Frank W. Albert
-  - Casey S. Greene
-  - Sean Davis
-  - Ran Blekhman
+  - Jonathan S Tsay
+  - Hyosub E Kim
+  - Samuel D McDougle
+  - Jordan A Taylor
+  - Adrian Haith
+  - Guy Avraham
+  - John W Krakauer
+  - Anne GE Collins
+  - Richard B Ivry
+  publisher: eLife
+  date: '2024-08-01'
+  link: https://doi.org/g9cg2z
+  orcid: 0000-0003-4728-5130
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.7554/eLife.96386.3
+  title: Selective recruitment of the cerebellum evidenced by task-dependent gating
+    of inputs
+  authors:
+  - Ladan Shahshahani
+  - Maedbh King
+  - Caroline Nettekoven
+  - Richard B Ivry
+  - "J\xF6rn Diedrichsen"
+  publisher: eLife
+  date: '2024-07-09'
+  link: https://doi.org/g9cg23
+  orcid: 0000-0003-4728-5130
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.7554/eLife.96386
+  title: Selective recruitment of the cerebellum evidenced by task-dependent gating
+    of inputs
+  authors:
+  - Ladan Shahshahani
+  - Maedbh King
+  - Caroline Nettekoven
+  - Richard B Ivry
+  - "J\xF6rn Diedrichsen"
+  publisher: eLife
+  date: '2024-07-09'
+  link: https://doi.org/g9cg24
+  orcid: 0000-0003-4728-5130
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2024.07.02.601091
+  title: Differential Aging Effects on Implicit and Explicit Sensorimotor Learning
+  authors:
+  - Elizabeth Cisneros
+  - Sheer Karny
+  - Richard B. Ivry
+  - Jonathan S. Tsay
   publisher: Cold Spring Harbor Laboratory
-  date: '2023-10-11'
-  link: https://doi.org/gsvf5z
-  orcid: 0000-0002-4655-3773
+  date: '2024-07-04'
+  link: https://doi.org/g9cg25
+  orcid: 0000-0003-4728-5130
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/nar/gkad289
-  title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
-    and user-created collections of genes'
+- id: doi:10.1101/2024.06.28.601293
+  title: Motor adaptation is reduced by symbolic compared to sensory feedback
   authors:
-  - Ricardo Avila
-  - Vincent Rubinetti
-  - Xinghua Zhou
-  - Dongbo Hu
-  - Zhongchao Qian
-  - Marco Alvarado Cano
-  - Everaldo Rodolpho
-  - Ginger Tsueng
-  - Casey Greene
-  - Chunlei Wu
-  publisher: Nucleic Acids Research
-  date: '2023-04-18'
-  link: https://doi.org/gr5hb5
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2023.01.05.522941
-  title: Hetnet connectivity search provides rapid insights into how two biomedical
-    entities are related
-  authors:
-  - Daniel S. Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J. Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N. Nicholson
-  - Yun Hao
-  - Blair D. Sullivan
-  - Michael W. Nagle
-  - Casey S. Greene
+  - Yifei Chen
+  - Sabrina J. Abram
+  - Richard B. Ivry
+  - Jonathan S. Tsay
   publisher: Cold Spring Harbor Laboratory
-  date: '2023-01-07'
-  link: https://doi.org/grmcb9
-  orcid: 0000-0002-4655-3773
+  date: '2024-07-01'
+  link: https://doi.org/g9cg27
+  orcid: 0000-0003-4728-5130
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/gigascience/giad047
-  title: Hetnet connectivity search provides rapid insights into how biomedical entities
-    are related
+- id: doi:10.7554/eLife.96386.2
+  title: 'Selective recruitment: Evidence for task-dependent gating of inputs to the
+    cerebellum'
   authors:
-  - Daniel S Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N Nicholson
-  - Yun Hao
-  - Blair D Sullivan
-  - Michael W Nagle
-  - Casey S Greene
-  publisher: GigaScience
-  date: '2022-12-28'
-  link: https://doi.org/gsd85n
-  orcid: 0000-0002-4655-3773
+  - Ladan Shahshahani
+  - Maedbh King
+  - Caroline Nettekoven
+  - Richard Ivry
+  - "J\xF6rn Diedrichsen"
+  publisher: eLife Sciences Publications, Ltd
+  date: '2024-06-13'
+  link: https://doi.org/g9cg28
+  orcid: 0000-0003-4728-5130
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2022.02.18.461833
-  title: 'MolEvolvR: A web-app for characterizing proteins using molecular evolution
-    and phylogeny'
+- id: doi:10.1101/2024.05.27.596118
+  title: Interference underlies attenuation upon relearning in sensorimotor adaptation
   authors:
-  - Jacob D Krol
-  - Joseph T Burke
-  - Samuel Z Chen
-  - Lo M Sosinski
-  - Faisal S Alquaddoomi
-  - Evan P Brenner
-  - Ethan P Wolfe
-  - Vincent P Rubinetti
-  - Shaddai Amolitos
-  - Kellen M Reason
-  - John B Johnston
-  - Janani Ravi
+  - Guy Avraham
+  - Richard B Ivry
   publisher: Cold Spring Harbor Laboratory
-  date: '2022-02-22'
-  link: https://doi.org/gstx7j
-  orcid: 0000-0002-4655-3773
+  date: '2024-06-01'
+  link: https://doi.org/g9cg29
+  orcid: 0000-0003-4728-5130
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1186/s13059-020-02021-3
-  title: Compressing gene expression data using multiple latent space dimensionalities
-    learns complementary biological representations
+- id: doi:10.7554/eLife.96386.1
+  title: 'Selective recruitment: Evidence for task-dependent gating of inputs to the
+    cerebellum'
   authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Genome Biology
-  date: '2020-05-11'
-  link: https://doi.org/gg2mjh
-  orcid: 0000-0002-4655-3773
+  - Ladan Shahshahani
+  - Maedbh King
+  - Caroline Nettekoven
+  - Richard Ivry
+  - "J\xF6rn Diedrichsen"
+  publisher: eLife Sciences Publications, Ltd
+  date: '2024-04-05'
+  link: https://doi.org/g9cg3c
+  orcid: 0000-0003-4728-5130
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1523/JNEUROSCI.1482-22.2023
+  title: Distinct Contributions of the Cerebellum and Basal Ganglia to Arithmetic
+    Procedures
+  authors:
+  - William Saban
+  - Pedro Pinheiro-Chagas
+  - Sravya Borra
+  - Richard B. Ivry
+  publisher: The Journal of Neuroscience
+  date: '2023-11-16'
+  link: https://doi.org/g9cg3d
+  orcid: 0000-0003-4728-5130
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s00221-023-06683-w
+  title: Implicit reward-based motor learning
+  authors:
+  - Nina M. van Mastrigt
+  - Jonathan S. Tsay
+  - Tianhe Wang
+  - Guy Avraham
+  - Sabrina J. Abram
+  - Katinka van der Kooij
+  - Jeroen B. J. Smeets
+  - Richard B. Ivry
+  publisher: Experimental Brain Research
+  date: '2023-08-14'
+  link: https://doi.org/g9cg3g
+  orcid: 0000-0003-4728-5130
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.31234/osf.io/x4652
+  title: 'Fundamental processes in sensorimotor learning: Reasoning, Refinement, and
+    Retrieval'
+  authors:
+  - Jonathan Sanching Tsay
+  - Hyosub E. Kim
+  - Samuel D McDougle
+  - Jordan A. Taylor
+  - Adrian Haith
+  - Guy Avraham
+  - John W. Krakauer
+  - Anne Collins
+  - Richard Ivry
+  publisher: Center for Open Science
+  date: '2023-08-02'
+  link: https://doi.org/g9cg3h
+  orcid: 0000-0003-4728-5130
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2023.07.04.547720
+  title: A cerebellar population coding model for sensorimotor learning
+  authors:
+  - Tianhe Wang
+  - Richard B. Ivry
+  publisher: Cold Spring Harbor Laboratory
+  date: '2023-07-04'
+  link: https://doi.org/g9cg3j
+  orcid: 0000-0003-4728-5130
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2023.06.27.546738
+  title: Implicit reward-based motor learning
+  authors:
+  - Nina M. van Mastrigt
+  - Jonathan S. Tsay
+  - Tianhe Wang
+  - Guy Avraham
+  - Sabrina J. Abram
+  - Katinka van der Kooij
+  - Jeroen B. J. Smeets
+  - Richard B. Ivry
+  publisher: Cold Spring Harbor Laboratory
+  date: '2023-06-28'
+  link: https://doi.org/g9cg3m
+  orcid: 0000-0003-4728-5130
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2023.05.23.542003
+  title: Differential Contribution of Sensorimotor Cortex and Subthalamic Nucleus
+    to Unimanual and Bimanual Hand Movements
+  authors:
+  - Christina M. Merrick
+  - Owen N. Doyle
+  - Natali E. Gallegos
+  - Zachary T. Irwin
+  - Joseph W. Olson
+  - Christopher L. Gonzalez
+  - Robert T. Knight
+  - Richard B. Ivry
+  - Harrison C. Walker
+  publisher: Cold Spring Harbor Laboratory
+  date: '2023-05-24'
+  link: https://doi.org/g9cg3n
+  orcid: 0000-0003-4728-5130
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.7554/eLife.81511
+  title: A task-general connectivity model reveals variation in convergence of cortical
+    inputs to functional regions of the cerebellum
+  authors:
+  - Maedbh King
+  - Ladan Shahshahani
+  - Richard B Ivry
+  - "J\xF6rn Diedrichsen"
+  publisher: eLife
+  date: '2023-04-21'
+  link: https://doi.org/g9cg3p
+  orcid: 0000-0003-4728-5130
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2023.01.25.525395
+  title: 'Selective recruitment: Evidence for task-dependent gating of inputs to the
+    cerebellum'
+  authors:
+  - Ladan Shahshahani
+  - Maedbh King
+  - Caroline Nettekoven
+  - Richard Ivry
+  - "J\xF6rn Diedrichsen"
+  publisher: Cold Spring Harbor Laboratory
+  date: '2023-01-26'
+  link: https://doi.org/g9cg3r
+  orcid: 0000-0003-4728-5130
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2023.01.19.524726
+  title: Minimal impact of proprioceptive loss on implicit sensorimotor adaptation
+    and perceived movement outcome
+  authors:
+  - Jonathan S. Tsay
+  - Anisha M. Chandy
+  - Romeo Chua
+  - R. Chris Miall
+  - Jonathan Cole
+  - "Alessandro Farn\xE8"
+  - Richard B. Ivry
+  - Fabrice R. Sarlegna
+  publisher: Cold Spring Harbor Laboratory
+  date: '2023-01-20'
+  link: https://doi.org/g9cg3s
+  orcid: 0000-0003-4728-5130
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2023.01.18.524634
+  title: 'Predictors of sensorimotor adaption: insights from over 100,000 reaches'
+  authors:
+  - Jonathan S. Tsay
+  - Hrach Asmerian
+  - Laura T. Germine
+  - Jeremy Wilmer
+  - Richard B. Ivry
+  - Ken Nakayama
+  publisher: Cold Spring Harbor Laboratory
+  date: '2023-01-20'
+  link: https://doi.org/gsxxw3
+  orcid: 0000-0003-4728-5130
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2022.10.07.511309
+  title: Cerebellar degeneration impairs strategy discovery but not strategy recall
+  authors:
+  - Jonathan S. Tsay
+  - Lauren Schuck
+  - Richard B. Ivry
+  publisher: Cold Spring Harbor Laboratory
+  date: '2022-10-07'
+  link: https://doi.org/g9cg3v
+  orcid: 0000-0003-4728-5130
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.7554/eLife.75801
+  title: Contextual effects in sensorimotor adaptation adhere to associative learning
+    rules
+  authors:
+  - Guy Avraham
+  - Jordan A Taylor
+  - Assaf Breska
+  - Richard B Ivry
+  - Samuel D McDougle
+  publisher: eLife
+  date: '2022-10-05'
+  link: https://doi.org/g86mcj
+  orcid: 0000-0003-4728-5130
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.7554/eLife.76639
+  title: Understanding implicit sensorimotor adaptation as a process of proprioceptive
+    re-alignment
+  authors:
+  - Jonathan S Tsay
+  - Hyosub Kim
+  - Adrian M Haith
+  - Richard B Ivry
+  publisher: eLife
+  date: '2022-08-15'
+  link: https://doi.org/g9cg3w
+  orcid: 0000-0003-4728-5130
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2022.07.03.498608
+  title: Signatures of contextual interference in implicit sensorimotor adaptation
+  authors:
+  - Jonathan S. Tsay
+  - Carolyn Irving
+  - Richard B. Ivry
+  publisher: Cold Spring Harbor Laboratory
+  date: '2022-07-04'
+  link: https://doi.org/g9cg3z
+  orcid: 0000-0003-4728-5130
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2022.05.07.490946
+  title: A task-general connectivity model reveals variation in convergence of cortical
+    inputs to functional regions of the cerebellum
+  authors:
+  - Maedbh King
+  - Ladan Shahshahani
+  - Richard Ivry
+  - "J\xF6rn Diedrichsen"
+  publisher: Cold Spring Harbor Laboratory
+  date: '2022-05-08'
+  link: https://doi.org/gsx5sn
+  orcid: 0000-0003-4728-5130
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1162/jocn_a_01824
+  title: Distinct Neural Signatures of Outcome Monitoring After Selection and Execution
+    Errors
+  authors:
+  - Faisal Mushtaq
+  - Samuel D. McDougle
+  - Matt P. Craddock
+  - Darius E. Parvin
+  - Jack Brookes
+  - Alexandre Schaefer
+  - Mark Mon-Williams
+  - Jordan A. Taylor
+  - Richard B. Ivry
+  publisher: Journal of Cognitive Neuroscience
+  date: '2022-03-31'
+  link: https://doi.org/gpcw6m
+  orcid: 0000-0003-4728-5130
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pcbi.1010005
+  title: Interactions between sensory prediction error and task error during implicit
+    motor learning
+  authors:
+  - Jonathan S. Tsay
+  - Adrian M. Haith
+  - Richard B. Ivry
+  - Hyosub E. Kim
+  publisher: PLOS Computational Biology
+  date: '2022-03-23'
+  link: https://doi.org/g86qhw
+  orcid: 0000-0003-4728-5130
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2022.03.11.484047
+  title: "Implicit sensorimotor adaptation is preserved in Parkinson\u2019s Disease"
+  authors:
+  - Jonathan S. Tsay
+  - Tara Najafi
+  - Lauren Schuck
+  - Tianhe Wang
+  - Richard B. Ivry
+  publisher: Cold Spring Harbor Laboratory
+  date: '2022-03-14'
+  link: https://doi.org/gszgpb
+  orcid: 0000-0003-4728-5130
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2022.01.19.476924
+  title: Implicit adaptation is modulated by the relevance of feedback
+  authors:
+  - Darius E. Parvin
+  - Jonathan Tsay
+  - Kristy V. Dang
+  - Alissa R. Stover
+  - Richard B. Ivry
+  - J. Ryan Morehead
+  publisher: Cold Spring Harbor Laboratory
+  date: '2022-01-21'
+  link: https://doi.org/gsz4vj
+  orcid: 0000-0003-4728-5130
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2022.01.03.474829
+  title: Low vision impairs implicit sensorimotor adaptation in response to small
+    errors, but not large errors
+  authors:
+  - Jonathan S. Tsay
+  - Steven Tan
+  - Marlena Chu
+  - Richard B. Ivry
+  - Emily A. Cooper
+  publisher: Cold Spring Harbor Laboratory
+  date: '2022-01-04'
+  link: https://doi.org/gszfdj
+  orcid: 0000-0003-4728-5130
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2021.12.21.473747
+  title: Understanding implicit sensorimotor adaptation as a process of proprioceptive
+    re-alignment
+  authors:
+  - Jonathan S. Tsay
+  - Hyosub E. Kim
+  - Adrian M. Haith
+  - Richard B. Ivry
+  publisher: Cold Spring Harbor Laboratory
+  date: '2021-12-23'
+  link: https://doi.org/gsxbcp
+  orcid: 0000-0003-4728-5130
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pcbi.1009615
+  title: Hybrid dedicated and distributed coding in PMd/M1 provides separation and
+    interaction of bilateral arm signals
+  authors:
+  - Tanner C. Dixon
+  - Christina M. Merrick
+  - Joni D. Wallis
+  - Richard B. Ivry
+  - Jose M. Carmena
+  publisher: PLOS Computational Biology
+  date: '2021-11-22'
+  link: https://doi.org/gsz3xt
+  orcid: 0000-0003-4728-5130
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2021.10.21.465112
+  title: Use-dependent biases primarily originate from a contaminated motor plan
+  authors:
+  - Jonathan S Tsay
+  - Hyosub E Kim
+  - Arohi Saxena
+  - Darius E Parvin
+  - Timothy Verstynen
+  - Richard B Ivry
+  publisher: Cold Spring Harbor Laboratory
+  date: '2021-10-22'
+  link: https://doi.org/gm7xrq
+  orcid: 0000-0003-4728-5130
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1523/JNEUROSCI.0739-21.2021
+  title: Differential Effects of Cerebellar Degeneration on Feedforward versus Feedback
+    Control across Speech and Reaching Movements
+  authors:
+  - Benjamin Parrell
+  - Hyosub E. Kim
+  - Assaf Breska
+  - Arohi Saxena
+  - Richard Ivry
+  publisher: The Journal of Neuroscience
+  date: '2021-08-26'
+  link: https://doi.org/g9cg36
+  orcid: 0000-0003-4728-5130
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.51628/001c.26985
+  title: 'Moving outside the lab: The viability of conducting sensorimotor learning
+    studies online'
+  authors:
+  - Jonathan S Tsay
+  - Alan Lee
+  - Richard B Ivry
+  - Guy Avraham
+  publisher: Neurons, Behavior, Data analysis, and Theory
+  date: '2021-07-30'
+  link: https://doi.org/g9cg37
+  orcid: 0000-0003-4728-5130
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.7554/eLife.66743
+  title: The human cerebellum is essential for modulating perceptual sensitivity based
+    on temporal expectations
+  authors:
+  - Assaf Breska
+  - Richard B Ivry
+  publisher: eLife
+  date: '2021-06-24'
+  link: https://doi.org/g9cg39
+  orcid: 0000-0003-4728-5130
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2021.06.20.449180
+  title: Interactions between sensory prediction error and task error during implicit
+    motor learning
+  authors:
+  - Jonathan S. Tsay
+  - Adrian M. Haith
+  - Richard B. Ivry
+  - Hyosub E. Kim
+  publisher: Cold Spring Harbor Laboratory
+  date: '2021-06-20'
+  link: https://doi.org/gsw973
+  orcid: 0000-0003-4728-5130
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2021.04.05.438454
+  title: Differential effects of cerebellar degeneration on feedforward versus feedback
+    control across speech and reaching movements
+  authors:
+  - Benjamin Parrell
+  - Hyosub E. Kim
+  - Assaf Breska
+  - Arohi Saxena
+  - Richard B. Ivry
+  publisher: Cold Spring Harbor Laboratory
+  date: '2021-04-06'
+  link: https://doi.org/g9cg4b
+  orcid: 0000-0003-4728-5130
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2021.01.30.181370
+  title: 'Moving outside the lab: The viability of conducting sensorimotor learning
+    studies online'
+  authors:
+  - Jonathan S. Tsay
+  - Alan S. Lee
+  - Richard B. Ivry
+  - Guy Avraham
+  publisher: Cold Spring Harbor Laboratory
+  date: '2021-02-01'
+  link: https://doi.org/gsvr5t
+  orcid: 0000-0003-4728-5130
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2021.01.15.426903
+  title: The human cerebellum is essential for modulating perceptual sensitivity based
+    on temporal expectations
+  authors:
+  - Assaf Breska
+  - Richard B. Ivry
+  publisher: Cold Spring Harbor Laboratory
+  date: '2021-01-15'
+  link: https://doi.org/g9cg4d
+  orcid: 0000-0003-4728-5130
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1037/xhp0000868
+  title: Prioritized verbal working memory content biases ongoing action.
+  authors:
+  - Jacob A. Miller
+  - Anastasia Kiyonaga
+  - Richard B. Ivry
+  - Mark D'Esposito
+  publisher: 'Journal of Experimental Psychology: Human Perception and Performance'
+  date: '2020-12-01'
+  link: https://doi.org/g9cg4g
+  orcid: 0000-0003-4728-5130
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1126/sciadv.abb1141
+  title: Context-specific control over the neural dynamics of temporal attention by
+    the human cerebellum
+  authors:
+  - Assaf Breska
+  - Richard B. Ivry
+  publisher: Science Advances
+  date: '2020-12-04'
+  link: https://doi.org/gjrxz3
+  orcid: 0000-0003-4728-5130
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1523/JNEUROSCI.0607-20.2020
+  title: A Single Mechanism for Global and Selective Response Inhibition under the
+    Influence of Motor Preparation
+  authors:
+  - Liisa Raud
+  - "Ren\xE9 J. Huster"
+  - Richard B. Ivry
+  - Ludovica Labruna
+  - Mari S. Messel
+  - Ian Greenhouse
+  publisher: The Journal of Neuroscience
+  date: '2020-09-14'
+  link: https://doi.org/gts88k
+  orcid: 0000-0003-4728-5130
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2020.10.03.324855
+  title: Individual differences in proprioception predict the extent of implicit sensorimotor
+    adaptation
+  authors:
+  - Jonathan S. Tsay
+  - Hyosub E. Kim
+  - Darius E. Parvin
+  - Alissa R. Stover
+  - Richard B. Ivry
+  publisher: Cold Spring Harbor Laboratory
+  date: '2020-10-03'
+  link: https://doi.org/g9cg4j
+  orcid: 0000-0003-4728-5130
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1523/JNEUROSCI.0078-20.2020
+  title: Duration Selectivity in Right Parietal Cortex Reflects the Subjective Experience
+    of Time
+  authors:
+  - Masamichi J. Hayashi
+  - Richard B. Ivry
+  publisher: The Journal of Neuroscience
+  date: '2020-09-14'
+  link: https://doi.org/d844
+  orcid: 0000-0003-4728-5130
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2020.09.23.310664
+  title: Hybrid dedicated and distributed coding in PMd/M1 provides separation and
+    interaction of bilateral arm signals
+  authors:
+  - Tanner C. Dixon
+  - Christina M. Merrick
+  - Joni D. Wallis
+  - Richard B. Ivry
+  - Jose M. Carmena
+  publisher: Cold Spring Harbor Laboratory
+  date: '2020-09-23'
+  link: https://doi.org/gk6kxn
+  orcid: 0000-0003-4728-5130
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2020.09.14.297143
+  title: Contextual effects in sensorimotor adaptation adhere to associative learning
+    rules
+  authors:
+  - Guy Avraham
+  - Jordan A. Taylor
+  - Assaf Breska
+  - Richard B. Ivry
+  - Samuel D. McDougle
+  publisher: Cold Spring Harbor Laboratory
+  date: '2020-09-15'
+  link: https://doi.org/gpbndz
+  orcid: 0000-0003-4728-5130
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2020.07.16.205609
+  title: Re-exposure to a sensorimotor perturbation produces opposite effects on explicit
+    and implicit learning processes
+  authors:
+  - Guy Avraham
+  - J Ryan Morehead
+  - Hyosub E Kim
+  - Richard B Ivry
+  publisher: Cold Spring Harbor Laboratory
+  date: '2020-07-16'
+  link: https://doi.org/g9cg4m
+  orcid: 0000-0003-4728-5130
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2020.04.29.068197
+  title: Continuous Reports of Sensed Hand Position During Sensorimotor Adaptation
+  authors:
+  - Jonathan S. Tsay
+  - Darius E. Parvin
+  - Richard B. Ivry
+  publisher: Cold Spring Harbor Laboratory
+  date: '2020-04-30'
+  link: https://doi.org/g9cg4p
+  orcid: 0000-0003-4728-5130
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2020.03.15.992008
+  title: The Effect of Visual Uncertainty on Implicit Motor Adaptation
+  authors:
+  - Jonathan S. Tsay
+  - Guy Avraham
+  - Hyosub E. Kim
+  - Darius E. Parvin
+  - Zixuan Wang
+  - Richard B. Ivry
+  publisher: Cold Spring Harbor Laboratory
+  date: '2020-03-17'
+  link: https://doi.org/gk3shc
+  orcid: 0000-0003-4728-5130
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/853317
+  title: Distinct Neural Signatures of Outcome Monitoring following Selection and
+    Execution Errors
+  authors:
+  - Faisal Mushtaq
+  - Samuel D. McDougle
+  - Matt P. Craddock
+  - Darius E. Parvin
+  - Jack Brookes
+  - Alexandre Schaefer
+  - Mark Mon-Williams
+  - Jordan A. Taylor
+  - Richard B. Ivry
+  publisher: Cold Spring Harbor Laboratory
+  date: '2019-11-25'
+  link: https://doi.org/ggzhfp
+  orcid: 0000-0003-4728-5130
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/644211
+  title: Exploring Contextual Interference in Implicit and Explicit Motor Learning
+  authors:
+  - Kristy V. Dang
+  - Darius E. Parvin
+  - Richard B. Ivry
+  publisher: Cold Spring Harbor Laboratory
+  date: '2019-05-20'
+  link: https://doi.org/gkxm88
+  orcid: 0000-0003-4728-5130
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.7554/eLife.39882
+  title: The influence of task outcome on implicit motor learning
+  authors:
+  - Hyosub E Kim
+  - Darius E Parvin
+  - Richard B Ivry
+  publisher: eLife
+  date: '2019-04-29'
+  link: https://doi.org/ghcspc
+  orcid: 0000-0003-4728-5130
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/423509
+  title: A Multi-Domain Task Battery Reveals Functional Boundaries in the Human Cerebellum
+  authors:
+  - Maedbh King
+  - Carlos R. Hernandez-Castillo
+  - Russell A. Poldrack
+  - Richard B. Ivry
+  - "J\xF6rn Diedrichsen"
+  publisher: Cold Spring Harbor Laboratory
+  date: '2018-09-21'
+  link: https://doi.org/gkvng4
+  orcid: 0000-0003-4728-5130
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/363606
+  title: The influence of task outcome on implicit motor learning
+  authors:
+  - Hyosub Kim
+  - Darius Parvin
+  - Richard Ivry
+  publisher: Cold Spring Harbor Laboratory
+  date: '2018-07-06'
+  link: https://doi.org/gkwmz5
+  orcid: 0000-0003-4728-5130
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1523/JNEUROSCI.3601-17.2018
+  title: Credit Assignment in a Motor Decision Making Task Is Influenced by Agency
+    and Not Sensory Prediction Errors
+  authors:
+  - Darius E. Parvin
+  - Samuel D. McDougle
+  - Jordan A. Taylor
+  - Richard B. Ivry
+  publisher: The Journal of Neuroscience
+  date: '2018-04-12'
+  link: https://doi.org/gdjhhd
+  orcid: 0000-0003-4728-5130
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/189597
+  title: Invariant errors reveal limitations in motor correction rather than constraints
+    on error sensitivity
+  authors:
+  - Hyosub E. Kim
+  - J. Ryan Morehead
+  - Darius E. Parvin
+  - Reza Moazzezi
+  - Richard B. Ivry
+  publisher: Cold Spring Harbor Laboratory
+  date: '2017-09-15'
+  link: https://doi.org/gktrdb
+  orcid: 0000-0003-4728-5130
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/139337
+  title: The cerebellum does more than sensory-prediction-error-based learning in
+    sensorimotor adaptation tasks
+  authors:
+  - Peter A. Butcher
+  - Richard B. Ivry
+  - Sheng-Han Kuo
+  - David Rydz
+  - John W. Krakauer
+  - Jordan A. Taylor
+  publisher: Cold Spring Harbor Laboratory
+  date: '2017-05-17'
+  link: https://doi.org/gkvnzm
+  orcid: 0000-0003-4728-5130
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1371/journal.pcbi.1007128
@@ -184,9 +838,6 @@
   publisher: PLOS Computational Biology
   date: '2020-12-04'
   link: https://doi.org/c7np
-  orcid: 0000-0002-4655-3773
-  plugin: sources.py
-  file: sources.yaml
   type: paper
   description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
     do eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -203,21 +854,8 @@
   - open science
   - collaboration
   repo: greenelab/meta-review
-- id: doi:10.1101/573782
-  title: Sequential compression of gene expression across dimensionalities and methods
-    reveals no single best method or dimensionality
-  authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2019-03-11'
-  link: https://doi.org/gfxjxf
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.csbj.2020.05.017
   title: Constructing knowledge graphs and their biomedical applications
   authors:
