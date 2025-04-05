@@ -15,11 +15,8 @@ speech; and motor coordination.
 
 Experiments incorporate a combination of behavioral, perceptual and cognitive tasks with both healthy participants and patient populations. Neuroimaging techniques such as functional magnetic resonance imaging (fMRI), and non-invasive brain stimulation such as transcranial magnetic stimulation (TMS) are also used. Several researchers are invovled in collaborative work with neuroscientsists and/or physicians located at other research and hospital facilities located in the United States and around the world.
 
-<video controls width="800"
-  style="float: right; margin-left: 20px;"> 
-  <source src="/videos/congac_lab_promo_sep2022.mov" type="video/quicktime">
-  Your browser does not support the video tag.
-</video>
+<iframe width="560" height="315" src="hhttps://www.youtube.com/watch?v=NYpHXUbTKmI&t=153s frameborder="0" allowfullscreen></iframe>
+---
 
 {% include section.html %}
 
@@ -27,7 +24,7 @@ Experiments incorporate a combination of behavioral, perceptual and cognitive ta
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Work in progress! Check back soon for our latest updates.
 
 {%
   include button.html
@@ -50,7 +47,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Our research focuses on the cognitive neuroscience of action, skilled movement, and cognition. We conduct experiments involving neurologically healthy and impaired individuals, using a range of methods to develop psychological models of how people produce and learn movements.
 
 {%
   include button.html
@@ -75,7 +72,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Research projects in the lab involve: motor learning and control, action selection and execution, language and speech, and more. 
 
 {%
   include button.html
