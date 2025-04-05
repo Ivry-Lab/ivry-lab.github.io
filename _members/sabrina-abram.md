@@ -3,7 +3,7 @@ name: Sabrina Abram
 image: images/sabrina.jpg
 role: Postdoctoral Fellow
 email: abramsabrina@berkeley.edu
-office: 2121 Berkeley Way, 3rd floor
+order: 2
 ---
 
 I study how people learn new movements. This involves identifying the objective that governs movement, the steps that the nervous
