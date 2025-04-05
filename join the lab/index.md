@@ -2,7 +2,7 @@
 title: Join the lab
 nav:
   order: 4
-  tooltip: Email, address, and location
+  tooltip: How to get involved
 ---
 
 # Join the Lab
