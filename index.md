@@ -15,7 +15,7 @@ speech; and motor coordination.
 
 Experiments incorporate a combination of behavioral, perceptual and cognitive tasks with both healthy participants and patient populations. Neuroimaging techniques such as functional magnetic resonance imaging (fMRI), and non-invasive brain stimulation such as transcranial magnetic stimulation (TMS) are also used. Several researchers are invovled in collaborative work with neuroscientsists and/or physicians located at other research and hospital facilities located in the United States and around the world.
 
-<iframe width="560" height="315" src="hhttps://www.youtube.com/watch?v=NYpHXUbTKmI&t=153s frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=NYpHXUbTKmI&t=153s frameborder="0" allowfullscreen></iframe>
 ---
 
 {% include section.html %}
@@ -24,7 +24,7 @@ Experiments incorporate a combination of behavioral, perceptual and cognitive ta
 
 {% capture text %}
 
-Work in progress! Check back soon for our latest updates.
+Our research focuses on the cognitive neuroscience of action, skilled movement, and cognition. We conduct experiments involving neurologically healthy and impaired individuals, using a range of methods to develop psychological models of how people produce and learn movements.
 
 {%
   include button.html
@@ -37,6 +37,7 @@ Work in progress! Check back soon for our latest updates.
 
 {% endcapture %}
 
+
 {%
   include feature.html
   image="images/photo.jpg"
@@ -46,8 +47,7 @@ Work in progress! Check back soon for our latest updates.
 %}
 
 {% capture text %}
-
-Our research focuses on the cognitive neuroscience of action, skilled movement, and cognition. We conduct experiments involving neurologically healthy and impaired individuals, using a range of methods to develop psychological models of how people produce and learn movements.
+Research projects in the lab involve: motor learning and control, action selection and execution, language and speech, and more. 
 
 {%
   include button.html
@@ -72,7 +72,7 @@ Our research focuses on the cognitive neuroscience of action, skilled movement, 
 
 {% capture text %}
 
-Research projects in the lab involve: motor learning and control, action selection and execution, language and speech, and more. 
+Meet the current members of the CognAc Lab.
 
 {%
   include button.html
