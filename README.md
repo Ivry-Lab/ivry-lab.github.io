@@ -5,6 +5,6 @@
 
   # Ivry-Lab's Website
 
-  Visit **[website url](#)** 🚀
+  Visit **[carolynirving.github.io/ivrylab-website](https://carolynirving.github.io/ivrylab-website)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
