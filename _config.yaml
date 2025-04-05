@@ -1,5 +1,5 @@
 # site properties and page defaults
-title: Ivry-Lab
+title: CognAc Lab
 subtitle: 
 description: An engaging 1-3 sentence description of your lab.
 header: images/background.jpg
@@ -11,7 +11,7 @@ links:
   email: contact@Ivry-Lab.com
   orcid: 0000-0001-8713-9213
   google-scholar: ETJoidYAAAAJ
-  github: Ivry-Lab
+  github: https://github.com/Ivry-Lab
   twitter: Ivry-Lab
   youtube: Ivry-Lab
 
