@@ -1,6 +1,6 @@
 ---
 name: Carolyn Irving
-image: images/Carolynjpg
+image: images/Carolyn.jpg
 role: PhD Student
 email:  cirving@berkeley.edu
 ---

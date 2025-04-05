@@ -1,6 +1,6 @@
 ---
 name: Richard Ivry
-image: images/ri_photo.jpg
+image: images/Rich_org.jpg
 role: principal-investigator
 affiliation: University of California, Berkeley
 

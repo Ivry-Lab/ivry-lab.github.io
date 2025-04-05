@@ -1,6 +1,6 @@
 ---
 name: Shruthi Sukumar
-image: images/Shruthi.jpg
+image: images/Shruthi.png
 role: Postdoctoral Fellow
 email: shruthisukumar@berkeley.edu
 ---

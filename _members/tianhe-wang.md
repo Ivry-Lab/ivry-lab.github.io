@@ -1,6 +1,6 @@
 ---
 name: Tianhe Wang
-image: images/Tianhe.jpg
+image: images/Tianhe.JPG
 role: PhD Student
 email: tianhewang@berkeley.edu
 ---

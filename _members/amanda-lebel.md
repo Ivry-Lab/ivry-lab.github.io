@@ -1,6 +1,6 @@
 ---
 name: Amanda LeBel
-image: images/amanda_l.jpg
+image: images/amanda_l.jpeg
 role: PhD Student
 email: amanda_lebel@berkeley.edu ​
 ---
