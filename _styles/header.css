@@ -1,10 +1,3 @@
-
-$logo-big: 80px;
-$logo: 40px;
-$big-padding: 100px;
-$collapse: 700px;
-$sticky: true;
-
 header {
   display: flex;
   justify-content: space-between;
@@ -13,12 +6,9 @@ header {
   gap: 20px;
   padding: 20px;
   box-shadow: var(--shadow);
-
-  @if $sticky {
-    position: sticky !important;
-    top: 0;
-    z-index: 10 !important;
-  }
+  position: sticky !important;
+  top: 0;
+  z-index: 10 !important;
 }
 
 header a {
@@ -37,7 +27,7 @@ header a {
 }
 
 .logo {
-  height: $logo;
+  height: 40px;
 }
 
 .logo > * {
@@ -97,40 +87,33 @@ nav {
   justify-content: center;
   align-items: center;
   flex-wrap: wrap;
-  gap: 20px; // Increased spacing between links
-  margin-top: 10px; // Add spacing between the title and the nav
+  gap: 10px;
   font-family: var(--heading);
   text-transform: uppercase;
 }
 
 nav > a {
-  padding: 5px 10px; // Add padding for better spacing
-  text-decoration: none;
-  color: var(--text);
-  font-weight: bold;
+  padding: 5px;
 }
 
 nav > a:hover {
-  color: var(--primary); // Change color on hover
+  color: var(--primary);
 }
 
-header:not([data-big]) {
-  @media (max-width: $collapse) {
+@media (max-width: 700px) {
+  header:not([data-big]) {
     justify-content: flex-end;
-
-    .nav-toggle {
-      display: flex;
-    }
-
-    .nav-toggle:not(:checked) + nav {
-      display: none;
-    }
-
-    nav {
-      align-items: flex-end;
-      flex-direction: column;
-      width: 100%;
-    }
+  }
+  header:not([data-big]) .nav-toggle {
+    display: flex;
+  }
+  header:not([data-big]) .nav-toggle:not(:checked) + nav {
+    display: none;
+  }
+  header:not([data-big]) nav {
+    align-items: flex-end;
+    flex-direction: column;
+    width: 100%;
   }
 }
 
@@ -138,34 +121,27 @@ header[data-big] {
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  padding: 50px 20px; // Reduced from $big-padding
-  height: 300px; // Add this line to explicitly set the height
-
-  @if $sticky {
-    top: unset;
-  }
-
-  .home {
-    flex-direction: column;
-    flex-grow: 0;
-  }
-
-  .logo {
-    height: $logo-big;
-    flex-shrink: 0;
-  }
-
-  .title-text {
-    flex-direction: column;
-    align-items: center;
-    text-align: center;
-  }
-
-  .title {
-    font-size: var(--xxl);
-  }
-
-  .subtitle {
-    font-size: var(--large);
-  }
+  padding: 100px 20px;
+  top: unset;
 }
+header[data-big] .home {
+  flex-direction: column;
+  flex-grow: 0;
+}
+header[data-big] .logo {
+  height: 80px;
+  flex-shrink: 0;
+}
+header[data-big] .title-text {
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+header[data-big] .title {
+  font-size: var(--xxl);
+}
+header[data-big] .subtitle {
+  font-size: var(--large);
+}
+
+/*# sourceMappingURL=header.css.map */
