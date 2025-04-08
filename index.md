@@ -30,7 +30,7 @@ Our research focuses on the cognitive neuroscience of action, skilled movement, 
 
 {%
   include feature.html
-  image="https://img.youtube.com/vi/NYpHXUbTKmI/maxresdefault.jpg"
+  image='<iframe width="560" height="315" src="https://www.youtube.com/embed/NYpHXUbTKmI?start=153" frameborder="0" allowfullscreen></iframe>'
   link="https://www.youtube.com/embed/NYpHXUbTKmI?start=153"
   title="Our Research"
   text=text
