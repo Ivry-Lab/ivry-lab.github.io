@@ -1,6 +1,6 @@
 ---
 ---
-## Welcome to the Cognition and Action lab at the University of California, Berkeley.
+## Welcome to the Cognition and Action Lab at the University of California, Berkeley.
 
 Under the direction of Professor Richard Ivry, The
 Cognition and Action Lab currently supports
@@ -14,19 +14,18 @@ speech; and motor coordination.
 
 Experiments incorporate a combination of behavioral, perceptual and cognitive tasks with both healthy participants and patient populations. Neuroimaging techniques such as functional magnetic resonance imaging (fMRI), and non-invasive brain stimulation such as transcranial magnetic stimulation (TMS) are also used. Several researchers are invovled in collaborative work with neuroscientsists and/or physicians located at other research and hospital facilities located in the United States and around the world.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NYpHXUbTKmI?start=153" frameborder="0" allowfullscreen></iframe>
 ---
 
 ## Highlights
 
 {% capture text %}
 
-Our research focuses on the cognitive neuroscience of action, skilled movement, and cognition. We conduct experiments involving neurologically healthy and impaired individuals, using a range of methods to develop psychological models of how people produce and learn movements.
+Our research focuses on the cognitive neuroscience of action, skilled movement, and cognition. We conduct experiments involving neurologically healthy and impaired individuals, using a range of methods to develop psychological models of how people produce and learn movements. Learn more by watching this short video! 
 
 {%
   include button.html
-  link="research"
-  text="See our publications"
+  link="https://www.youtube.com/embed/NYpHXUbTKmI?start=153"
+  text="Watch the video"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -34,11 +33,10 @@ Our research focuses on the cognitive neuroscience of action, skilled movement, 
 
 {% endcapture %}
 
-
 {%
   include feature.html
-  image="images/photo.jpg"
-  link="research"
+  image="https://img.youtube.com/vi/NYpHXUbTKmI/maxresdefault.jpg"
+  link="https://www.youtube.com/embed/NYpHXUbTKmI?start=153"
   title="Our Research"
   text=text
 %}

@@ -3,7 +3,6 @@ name: Richard Ivry
 image: images/Rich_org.jpg
 role: principal-investigator
 email: ivry@berkeley.edu
-affiliation: University of California, Berkeley
 order: 1
 
 ---
