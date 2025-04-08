@@ -85,7 +85,7 @@ Meet the current members of the CognAc Lab.
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/lab_photo.jpg"
   link="team"
   title="Our Team"
   text=text
