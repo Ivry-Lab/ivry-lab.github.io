@@ -7,24 +7,15 @@
 - title: Lab Newsletter
   description: Stay updated with the latest news from our lab.
   link: /files/cognac_newsletter_2020.pdf
-  group: featured
+  group: newsletter
 
 - title: Neuroscience of Ataxia
   description: Explore our research on the neuroscience of ataxia.
   link: /files/atx_newsletter_issue1.pdf
-  group: featured
+  group: newsletter
 
 - title: Neuroscience of Parkinson's Disease
   description: Learn about our work on Parkinson's disease.
   link: /files/pd_newsletter_issue_1.pdf
-  group: featured
+  group: newsletter
 
-- title: Cool Package
-  subtitle: a subtitle
-  group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
