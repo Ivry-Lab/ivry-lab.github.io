@@ -5,7 +5,7 @@
   <div class="button-wrapper">
     <a
       class="button"
-      href="{{ button.link | replace: "$LINK", button.link | relative_url }}"
+      href="{% if button.link contains '://' %}{{ button.link }}{% else %}{{ button.link | relative_url }}{% endif %}"
       {% if button.tooltip %}
         data-tooltip="{{ button.tooltip | xml_escape }}"
       {% endif %}
@@ -13,10 +13,10 @@
       {% if include.flip %}
         data-flip
       {% endif %}
-      aria-label="{{ button.tooltip | default: button.icon | default: "button" | regex_strip }}"
+      aria-label="{{ button.tooltip | default: button.icon | default: 'button' | regex_strip }}"
     >
       {% include icon.html icon=button.icon %}
-      {% if button.text and button.text != "" %}
+      {% if button.text and button.text != '' %}
         <span>{{ button.text }}</span>
       {% endif %}
     </a>
