@@ -24,7 +24,7 @@ Contact us below:
 {%
   include button.html
   type="2121 Berkeley Way West, Berkeley, CA"
-  tooltip="Our location on Google Maps for easy navigation"
+  text="Our location on Google Maps for easy navigation"
   link="https://www.google.com/maps"
 %}
 
@@ -35,7 +35,7 @@ Contact us below:
 {%
   include figure.html
   image="images/photo.jpg"
-  caption="Lorem ipsum"
+  caption=""
 %}
 
 {% endcapture %}
@@ -45,7 +45,7 @@ Contact us below:
 {%
   include figure.html
   image="images/photo.jpg"
-  caption="Lorem ipsum"
+  caption=""
 %}
 
 {% endcapture %}
@@ -54,22 +54,3 @@ Contact us below:
 
 {% include section.html dark=true %}
 
-{% capture col1 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
-{% endcapture %}
-
-{% capture col2 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
-{% endcapture %}
-
-{% capture col3 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
-{% endcapture %}
-
-{% include cols.html col1=col1 col2=col2 col3=col3 %}
