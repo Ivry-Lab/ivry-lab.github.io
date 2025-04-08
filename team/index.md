@@ -27,7 +27,7 @@ Our lab at recent events including the 2025 National Ataxia Foundation Conferenc
 
 {% capture content %}
 
-{% include figure.html image="images/NAF.jpg" %}
+{% include figure.html image="images/NAF.JPG" %}
 {% include figure.html image="images/lab_party.jpg" %}
 {% include figure.html image="images/tahoe_lab_trip.jpg" %}
 
