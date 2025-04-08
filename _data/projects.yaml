@@ -1,12 +1,23 @@
-- title: Cool Dataset
-  subtitle: a subtitle
+- title: Podcase
+  subtitle: BRAIN PONDERINGS podcase with Mark Mattson
   group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
+  link: https://www.youtube.com/watch?v=2n7e04cgaho
+  description: Check out Prof. Ivry discussing the role of the cerebellum in timing, error correction, and cogntion
+
+- title: Lab Newsletter
+  description: Stay updated with the latest news from our lab.
+  link: /pdfs/lab-newsletter.pdf
+  group: featured
+
+- title: Neuroscience of Ataxia
+  description: Explore our research on the neuroscience of ataxia.
+  link: /pdfs/neuroscience-of-ataxia.pdf
+  group: featured
+
+- title: Neuroscience of Parkinson's Disease
+  description: Learn about our work on Parkinson's disease.
+  link: /pdfs/neuroscience-of-parkinsons.pdf
+  group: featured
 
 - title: Cool Package
   subtitle: a subtitle
@@ -17,31 +28,3 @@
   repo: greenelab/lab-website-template
   tags:
     - resource
-
-- title: Cool Tutorial
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
-    - publication
-
-- title: Cool Web App
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - software
-
-- title: Cool Web Server
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - software

@@ -26,3 +26,5 @@ If you are interested in participating, [**click here**](https://docs.google.com
 
 ## Thank you!
 ![CognAc Logo](/images/cognac_logo.png)
+
+​We want to emphasize that this research will not interfere with any on-going medical treatment nor is there any direct benefit to you. We hope that this work will, in the long run, prove beneficial to physicians by increasing our knowledge of how movement and cognition are processed in the brain and how it can be disturbed by different neural disorders.

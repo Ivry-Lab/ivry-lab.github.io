@@ -21,6 +21,6 @@ Work in progress! Check back soon for our latest updates.
 
 {% include section.html %}
 
-## More
+## Newsletters
 
-{% include list.html component="card" data="projects" filter="!group" style="small" %}
+{% include list.html component="card" data="projects" filter="group == 'newsletter'" style="small" %}
