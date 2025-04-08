@@ -6,17 +6,17 @@
 
 - title: Lab Newsletter
   description: Stay updated with the latest news from our lab.
-  link: /pdfs/lab-newsletter.pdf
+  link: /files/cognac_newsletter_2020.pdf
   group: featured
 
 - title: Neuroscience of Ataxia
   description: Explore our research on the neuroscience of ataxia.
-  link: /pdfs/neuroscience-of-ataxia.pdf
+  link: /files/atx_newsletter_issue1.pdf
   group: featured
 
 - title: Neuroscience of Parkinson's Disease
   description: Learn about our work on Parkinson's disease.
-  link: /pdfs/neuroscience-of-parkinsons.pdf
+  link: /files/pd_newsletter_issue_1.pdf
   group: featured
 
 - title: Cool Package
