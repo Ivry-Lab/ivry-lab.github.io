@@ -14,7 +14,7 @@ Our research focuses on how people become efficient and coordinated in their mov
 ---
 
 - Currently, we are recruiting people with **ataxia**, **Parkinson's disease**, or **stroke**.
-- Our studies are conducted either [**in-person**](#) in the Bay Area, or [**online**](#), where they can be completed **from your home computer**.
+- Our studies are conducted either **in-person** in the Bay Area, or **online**, where they can be completed **from your home computer**.
 - Experiments take **between 40-60 minutes**.
 - Participation in the experiment will be compensated.
 
@@ -25,6 +25,6 @@ If you are interested in participating, [**click here**](https://docs.google.com
 ---
 
 ## Thank you!
-![CognAc Logo](/images/cognac_logo.png)
+![CognAc Logo](../images/cognac_logo.png)
 
 ​We want to emphasize that this research will not interfere with any on-going medical treatment nor is there any direct benefit to you. We hope that this work will, in the long run, prove beneficial to physicians by increasing our knowledge of how movement and cognition are processed in the brain and how it can be disturbed by different neural disorders.

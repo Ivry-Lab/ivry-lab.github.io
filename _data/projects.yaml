@@ -1,8 +1,9 @@
-- title: Podcase
-  subtitle: BRAIN PONDERINGS podcase with Mark Mattson
+- title: Podcast
+  subtitle: BRAIN PONDERINGS podcast with Mark Mattson
   group: featured
   link: https://www.youtube.com/watch?v=2n7e04cgaho
-  description: Check out Prof. Ivry discussing the role of the cerebellum in timing, error correction, and cogntion
+  description: Check out Prof. Ivry discussing the role of the cerebellum in timing, error correction, and cognition
+  image: https://img.youtube.com/vi/2n7e04cgaho/maxresdefault.jpg
 
 - title: Lab Newsletter
   description: Stay updated with the latest news from our lab.

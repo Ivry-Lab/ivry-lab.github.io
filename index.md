@@ -18,11 +18,6 @@ Experiments incorporate a combination of behavioral, perceptual and cognitive ta
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NYpHXUbTKmI?start=153" frameborder="0" allowfullscreen></iframe>
 ---
 
-### Image Credit
-Cerebellum neuroart image by [Greg Dunn](https://www.gregadunn.com/self-reflected/self-reflected-gallery/).
-
-{% include section.html %}
-
 ## Highlights
 
 {% capture text %}
@@ -99,5 +94,10 @@ Meet the current members of the CognAc Lab.
 ---
 
 If you have any questions, please send us an email to [ivrylab@berkeley.edu](mailto:ivrylab@berkeley.edu).
+
+{% include section.html %}
+
+### Image Credit
+Cerebellum neuroart thumbnail image by [Greg Dunn](https://www.gregadunn.com/self-reflected/self-reflected-gallery/).
 
 {% include section.html %}

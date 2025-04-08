@@ -5,9 +5,9 @@ nav:
   tooltip: About our team
 ---
 
-# {% include icon.html icon="fa-solid fa-users" %}Team
-
-Meet the members of the CognAc lab!
+<div style="text-align: center; font-size: 1.5rem; margin-bottom: 16px;">
+  Meet the members of the CognAc lab!
+</div>
 
 {% include section.html %}
 
@@ -17,8 +17,8 @@ Meet the members of the CognAc lab!
 {% include section.html background="images/background.jpg" dark=true %}
 {% include section.html %}
 
-<div style="text-align: center;">
-Our lab at recent events including the 2025 National Ataxia Foundation Conference and a lab retreat in Lake Tahoe last year!
+<div style="text-align: center; font-size: 1.5rem; margin-bottom: 16px;">
+Our lab at recent events including the 2025 National Ataxia Foundation Conference, lab dinner at Prof Ivry's house, and a lab retreat in Lake Tahoe last year!
 </div>
 
 {% include section.html %}
