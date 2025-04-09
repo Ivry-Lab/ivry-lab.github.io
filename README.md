@@ -3,7 +3,7 @@
   ![on-pull-request](../../actions/workflows/on-pull-request.yaml/badge.svg)
   ![on-schedule](../../actions/workflows/on-schedule.yaml/badge.svg)
 
-  # Ivry-Lab's Website
+  # Cognition and Action Lab Website
 
   Visit **[carolynirving.github.io/ivrylab-website](https://carolynirving.github.io/ivrylab-website)** 🚀
 
