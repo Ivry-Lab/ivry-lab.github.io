@@ -26,7 +26,6 @@ Experiments incorporate a combination of behavioral, perceptual and cognitive ta
   </div>
   <!-- Add the text content on the right -->
   <div style="flex: 1;">
-    <h3>Our Research</h3>
     <p>Our research focuses on the cognitive neuroscience of action, skilled movement, and cognition. We conduct experiments involving neurologically healthy and impaired individuals, using a range of methods to develop psychological models of how people produce and learn movements.</p>
     <a href="https://www.youtube.com/watch?v=NYpHXUbTKmI&t=153s" class="button">Watch the video</a>
   </div>
@@ -34,7 +33,6 @@ Experiments incorporate a combination of behavioral, perceptual and cognitive ta
 {% endcapture %}
 
 {%
-  include feature.html
   title="Our Research"
   text=text
 %}
