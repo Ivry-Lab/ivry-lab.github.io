@@ -7,19 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
-Work in progress - check back soon for updated research projects!
-
-{% include section.html %}
-
-## Highlighted
-
-<!-- 
-{% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
-
-{% include section.html %}
--->
-
-## All
+## Publications
 
 {% include search-box.html %}
 
