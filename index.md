@@ -19,9 +19,6 @@ Experiments incorporate a combination of behavioral, perceptual and cognitive ta
 ## Highlights
 
 {% capture text %}
-
-Our research focuses on the cognitive neuroscience of action, skilled movement, and cognition. We conduct experiments involving neurologically healthy and impaired individuals, using a range of methods to develop psychological models of how people produce and learn movements. Learn more by watching this short video about our research.
-
 <div style="display: flex; align-items: center; gap: 20px;">
   <!-- Embed the YouTube video on the left -->
   <div style="flex: 1;">
@@ -31,10 +28,9 @@ Our research focuses on the cognitive neuroscience of action, skilled movement, 
   <div style="flex: 1;">
     <h3>Our Research</h3>
     <p>Our research focuses on the cognitive neuroscience of action, skilled movement, and cognition. We conduct experiments involving neurologically healthy and impaired individuals, using a range of methods to develop psychological models of how people produce and learn movements.</p>
-    <a href="https://www.youtube.com/embed/NYpHXUbTKmI?start=153" class="button">Watch the video</a>
+    <a href="https://www.youtube.com/watch?v=NYpHXUbTKmI&t=153s" class="button">Watch the video</a>
   </div>
 </div>
-
 {% endcapture %}
 
 {%
