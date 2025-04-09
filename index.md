@@ -33,7 +33,9 @@ Experiments incorporate a combination of behavioral, perceptual and cognitive ta
 {% endcapture %}
 
 {%
+  include feature.html
   title="Our Research"
+  image= false
   text=text
 %}
 
