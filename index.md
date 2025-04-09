@@ -18,26 +18,17 @@ Experiments incorporate a combination of behavioral, perceptual and cognitive ta
 
 ## Highlights
 
-{% capture text %}
-<div style="display: flex; align-items: center; gap: 20px;">
-  <!-- Embed the YouTube video on the left -->
-  <div style="flex: 1;">
-    <iframe width="100%" height="315" src="https://www.youtube.com/embed/NYpHXUbTKmI?start=153" frameborder="0" allowfullscreen></iframe>
+<!-- Replace the entire feature include with this custom HTML -->
+<div class="feature">
+  <div class="feature-video" style="flex: 1;">
+    <iframe width="100%" height="315" src="https://www.youtube.com/embed/NYpHXUbTKmI" frameborder="0" allowfullscreen></iframe>
   </div>
-  <!-- Add the text content on the right -->
-  <div style="flex: 1;">
+  <div class="feature-text">
+    <p class="feature-title">Our Research</p>
     <p>Our research focuses on the cognitive neuroscience of action, skilled movement, and cognition. We conduct experiments involving neurologically healthy and impaired individuals, using a range of methods to develop psychological models of how people produce and learn movements.</p>
-    <a href="https://www.youtube.com/watch?v=NYpHXUbTKmI&t=153s" class="button">Watch the video</a>
+    <a href="https://www.youtube.com/watch?v=NYpHXUbTKmI" class="button">Watch the video</a>
   </div>
 </div>
-{% endcapture %}
-
-{%
-  include feature.html
-  title="Our Research"
-  image= false
-  text=text
-%}
 
 {% capture text %}
 Research projects in the lab involve: motor learning and control, action selection and execution, language and speech, and more. 
@@ -92,7 +83,8 @@ If you have any questions, please send us an email to [ivrylab@berkeley.edu](mai
 
 {% include section.html %}
 
-### Image Credit
+#### Image Credit
 Cerebellum neuroart thumbnail image by [Greg Dunn](https://www.gregadunn.com/self-reflected/self-reflected-gallery/).
+
 
 {% include section.html %}
