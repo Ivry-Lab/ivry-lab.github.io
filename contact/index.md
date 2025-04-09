@@ -7,12 +7,10 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-Contact us below:
-
 {%
   include button.html
   type="email"
-  text="ivry@berkeley.edu"
+  text="ivry[at]berkeley.edu"
   link="ivry@berkeley.edu"
 %}
 
