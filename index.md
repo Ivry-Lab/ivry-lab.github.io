@@ -10,7 +10,9 @@ behavior and cognition, including visual,
 auditory, and time perception; language and
 speech; and motor coordination.
 
-![CognAc Lab Logo](images/cognac_website_photo.png)
+<div style="float: right; margin: 0 0 10px 20px;">
+  <img src="images/cognac_website_photo.png" alt="CognAc Lab Logo" width="300">
+</div>
 
 Experiments incorporate a combination of behavioral, perceptual and cognitive tasks with both healthy participants and patient populations. Neuroimaging techniques such as functional magnetic resonance imaging (fMRI), and non-invasive brain stimulation such as transcranial magnetic stimulation (TMS) are also used. Several researchers are invovled in collaborative work with neuroscientsists and/or physicians located at other research and hospital facilities located in the United States and around the world.
 
