@@ -15,12 +15,7 @@ Contact us below:
   text="ivry@berkeley.edu"
   link="ivry@berkeley.edu"
 %}
-{%
-  include button.html
-  type="phone"
-  text="(510) 642-7146"
-  link="+1-510-642-7146"
-%}
+
 {%
   include button.html
   type="2121 Berkeley Way West, Berkeley, CA"
