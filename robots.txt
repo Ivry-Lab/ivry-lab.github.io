@@ -1,1 +1,1 @@
-Sitemap: https://carolynirving.github.io/ivrylab-website/sitemap.xml
+Sitemap: https://ivry-lab.github.io/ivrylab-website/sitemap.xml
