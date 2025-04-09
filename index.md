@@ -20,18 +20,25 @@ Experiments incorporate a combination of behavioral, perceptual and cognitive ta
 
 {% capture text %}
 
-Our research focuses on the cognitive neuroscience of action, skilled movement, and cognition. We conduct experiments involving neurologically healthy and impaired individuals, using a range of methods to develop psychological models of how people produce and learn movements. Learn more by watching this short video about our research .
+Our research focuses on the cognitive neuroscience of action, skilled movement, and cognition. We conduct experiments involving neurologically healthy and impaired individuals, using a range of methods to develop psychological models of how people produce and learn movements. Learn more by watching this short video about our research.
 
-<div style="text-align: center; margin-top: 20px;">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/NYpHXUbTKmI?start=153" frameborder="0" allowfullscreen></iframe>
+<div style="display: flex; align-items: center; gap: 20px;">
+  <!-- Embed the YouTube video on the left -->
+  <div style="flex: 1;">
+    <iframe width="100%" height="315" src="https://www.youtube.com/embed/NYpHXUbTKmI?start=153" frameborder="0" allowfullscreen></iframe>
+  </div>
+  <!-- Add the text content on the right -->
+  <div style="flex: 1;">
+    <h3>Our Research</h3>
+    <p>Our research focuses on the cognitive neuroscience of action, skilled movement, and cognition. We conduct experiments involving neurologically healthy and impaired individuals, using a range of methods to develop psychological models of how people produce and learn movements.</p>
+    <a href="https://www.youtube.com/embed/NYpHXUbTKmI?start=153" class="button">Watch the video</a>
+  </div>
 </div>
 
 {% endcapture %}
 
 {%
   include feature.html
-  image='<iframe width="560" height="315" src="https://www.youtube.com/embed/NYpHXUbTKmI?start=153" frameborder="0" allowfullscreen></iframe>'
-  link="https://www.youtube.com/embed/NYpHXUbTKmI?start=153"
   title="Our Research"
   text=text
 %}
