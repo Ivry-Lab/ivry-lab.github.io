@@ -1,1 +1,1 @@
-Sitemap: https://ivry-lab.github.io/sitemap.xml
+Sitemap: https://ivrylab.berkeley.edu/sitemap.xml
