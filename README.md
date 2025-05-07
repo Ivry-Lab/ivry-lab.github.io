@@ -5,6 +5,6 @@
 
   # Cognition and Action Lab Website
 
-  Visit **[ivry-lab.github.io](https://ivry-lab.github.io)** 🚀
+  Visit **[ivrylab.berkeley.edu](https://ivrylab.berkeley.edu)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
