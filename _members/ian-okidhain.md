@@ -1,6 +1,6 @@
 ---
 name: Ian OKidhain
-image: images/iano_o.jpg
+image: images/ian_o.jpg
 role: PhD Student
 email: iokidhain@berkeley.edu  ​
 order: 7
