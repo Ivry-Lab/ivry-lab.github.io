@@ -7,28 +7,34 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
-## Recent Publications (2017-Present)
-*Automatically updated from ORCID*
+## Publications
 
 {% include search-box.html %}
 
 {% include search-info.html %}
 
+<!-- First, let's see ALL publications to debug -->
+{% include list.html data="citations" component="citation" style="rich" %}
+
+<!-- Commented out the filter temporarily to see if publications show up at all
 {% include list.html data="citations" component="citation" style="rich" filter="author =~ /Ivry/" %}
+-->
 
----
+{% assign older_pdfs = site.static_files | where: "extname", ".pdf" | where_exp: "file", "file.path contains '/files/publications/'" %}
 
-## Earlier Publications (Pre-2017)
-
-{% assign pdf_files = site.static_files | where: "extname", ".pdf" | where_exp: "file", "file.path contains '/files/publications/'" %}
-
-{% for file in pdf_files %}
-  {% assign filename = file.name | remove: ".pdf" %}
-  {% assign clean_name = filename | replace: "_", " " | replace: "-", " " | split: "." | first | capitalize %}
+{% if older_pdfs.size > 0 %}
+  {% assign sorted_pdfs = older_pdfs | sort: "name" %}
   
-  **{{ clean_name }}**  
-  [PDF]({{ file.path }})  
+  {% for file in sorted_pdfs %}
+    {% assign filename = file.name | remove: ".pdf" %}
+    {% assign clean_name = filename | replace: "_", " " | replace: "-", " " | replace: "ivry", "Ivry" %}
+    
+    **{{ clean_name }}**  
+    [PDF]({{ file.path }})  
+    
+  {% endfor %}
   
-{% endfor %}
-
----
+  <p><em>{{ older_pdfs.size }} earlier publications available</em></p>
+{% else %}
+  <p><em>Loading older publications...</em></p>
+{% endif %}
