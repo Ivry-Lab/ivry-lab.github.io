@@ -1,0 +1,21 @@
+- title: Podcast
+  subtitle: BRAIN PONDERINGS podcast with Mark Mattson
+  group: featured
+  link: https://www.youtube.com/watch?v=2n7e04cgaho
+  description: Check out Prof. Ivry discussing the role of the cerebellum in timing, error correction, and cognition
+  image: https://img.youtube.com/vi/2n7e04cgaho/maxresdefault.jpg
+
+- title: Lab Newsletter
+  description: Stay updated with the latest news from our lab.
+  link: /files/cognac_newsletter_2020.pdf
+  group: newsletter
+
+- title: Neuroscience of Ataxia
+  description: Explore our research on the neuroscience of ataxia.
+  link: /files/atx_newsletter_issue1.pdf
+  group: newsletter
+
+- title: Neuroscience of Parkinson's Disease
+  description: Learn about our work on Parkinson's disease.
+  link: /files/pd_newsletter_issue_1.pdf
+  group: newsletter

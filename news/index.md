@@ -7,10 +7,18 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-newspaper" %}News
 
-Lab updates, announcements, and featured content from the Cognition and Action Lab.
+Lab updates, announcements, and newsletters from the Cognition and Action Lab.
 
 {% include section.html %}
 
 ## Featured
 
-{% include list.html data="projects" component="card" %}
+{% include list.html data="news" component="card" filter="group == 'featured'" %}
+
+{% include section.html %}
+
+## Newsletters
+
+{% include list.html data="news" component="card" filter="group == 'newsletter'"%}
+
+{% include section.html %}
