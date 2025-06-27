@@ -21,21 +21,10 @@ nav:
 -->
 
 ## Earlier Publications (Pre-2017)
+
 {% assign older_pdfs = site.static_files | where: "extname", ".pdf" | where_exp: "file", "file.path contains '/files/pre2017_publications/'" %}
 
-{% if older_pdfs.size > 0 %}
-  {% assign sorted_pdfs = older_pdfs | sort: "name" %}
-  
-  {% for file in sorted_pdfs %}
-    {% assign filename = file.name | remove: ".pdf" %}
-    {% assign clean_name = filename | replace: "_", " " | replace: "-", " " | replace: "ivry", "Ivry" %}
-    
-    **{{ clean_name }}**  
-    [PDF]({{ site.baseurl }}{{ file.path }})  
-    
-  {% endfor %}
-  
-  <p><em>{{ older_pdfs.size }} earlier publications available</em></p>
-{% else %}
-  <p><em>Loading older publications...</em></p>
-{% endif %}
+**[Browse {{ older_pdfs.size }} Earlier Publications (PDF Archive)]({{ site.baseurl }}/files/pre2017_publications/)**
+
+*Click the link above to access the complete archive of Ivry Lab publications from before 2017. You can browse and download individual PDFs from the archive.*
+
