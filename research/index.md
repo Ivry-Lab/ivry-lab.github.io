@@ -20,7 +20,7 @@ nav:
 {% include list.html data="citations" component="citation" style="rich" filter="author =~ /Ivry/" %}
 -->
 
-{% assign older_pdfs = site.static_files | where: "extname", ".pdf" | where_exp: "file", "file.path contains '/files/publications/'" %}
+{% assign older_pdfs = site.static_files | where: "extname", ".pdf" | where_exp: "file", "file.path contains '/files/pre2017_publications/'" %}
 
 {% if older_pdfs.size > 0 %}
   {% assign sorted_pdfs = older_pdfs | sort: "name" %}
