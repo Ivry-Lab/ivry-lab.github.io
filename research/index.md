@@ -2,23 +2,21 @@
 title: Research
 nav:
   order: 1
-  tooltip: Published works
+  tooltip: Research projects and publications
 ---
 
-# {% include icon.html icon="fa-solid fa-microscope" %}Research
+# {% include icon.html icon="fa-solid fa-microscope" %} Research
 
+Our research focuses on the cognitive neuroscience of action, skilled movement, and cognition. Experiments involve healthy participants and patient populations, using a combination of behavioral and neuroimaging methods to develop models of human behavior and cognition.
+
+{% include section.html %}
 ## Publications
 
+### Recent Publications (2017 - Present)
 {% include search-box.html %}
-
 {% include search-info.html %}
 
-<!-- First, let's see ALL publications to debug -->
 {% include list.html data="citations" component="citation" style="rich" %}
-
-<!-- Commented out the filter temporarily to see if publications show up at all
-{% include list.html data="citations" component="citation" style="rich" filter="author =~ /Ivry/" %}
--->
 
 ## Earlier Publications (Pre-2017)
 
