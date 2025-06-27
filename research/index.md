@@ -13,4 +13,9 @@ nav:
 
 {% include search-info.html %}
 
+<!-- First, let's see ALL publications to debug -->
+{% include list.html data="citations" component="citation" style="rich" %}
+
+<!-- Commented out the filter temporarily to see if publications show up at all
 {% include list.html data="citations" component="citation" style="rich" filter="author =~ /Ivry/" %}
+-->
