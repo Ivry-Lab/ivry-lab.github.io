@@ -20,6 +20,7 @@ nav:
 {% include list.html data="citations" component="citation" style="rich" filter="author =~ /Ivry/" %}
 -->
 
+## Earlier Publications (Pre-2017)
 {% assign older_pdfs = site.static_files | where: "extname", ".pdf" | where_exp: "file", "file.path contains '/files/pre2017_publications/'" %}
 
 {% if older_pdfs.size > 0 %}
@@ -30,7 +31,7 @@ nav:
     {% assign clean_name = filename | replace: "_", " " | replace: "-", " " | replace: "ivry", "Ivry" %}
     
     **{{ clean_name }}**  
-    [PDF]({{ file.path }})  
+    [PDF]({{ site.baseurl }}{{ file.path }})  
     
   {% endfor %}
   
