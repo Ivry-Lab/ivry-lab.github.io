@@ -38,7 +38,7 @@ Wang, T. & Ivry, R.B. (2023)
 ## All Publications
 
 <div style="background-color: #f8f9fa; border: 2px solid #007cba; border-radius: 8px; padding: 20px; margin: 20px 0; text-align: center;">
-  <h3 style="margin-top: 0; color: #007cba;">Complete Publications Archive</h3>
+  <h3 style="margin-top: 0; color: #007cba;">Publications Archive</h3>
   <p style="font-size: 1.1em; margin: 10px 0;">Access all lab publications with full-text PDFs</p>
   <p style="margin: 15px 0; color: #666;">Papers organized chronologically from 1985 to present</p>
   <a href="{{ site.baseurl }}/files/organized_pubs_pdfs/" 
@@ -47,9 +47,11 @@ Wang, T. & Ivry, R.B. (2023)
     Browse Publications Archive →
   </a>
 </div>
+{% include section.html %}
 
 ### Additional Resources
 Keep up to date with Professor Ivry's research and publications on the following platforms:
+
 **[Google Scholar Profile](https://scholar.google.com/citations?user=nicnuy4AAAAJ&hl=en)**  
 Complete publication list with citation metrics
 

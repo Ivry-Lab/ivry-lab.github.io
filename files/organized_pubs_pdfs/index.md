@@ -11,7 +11,7 @@ permalink: /files/organized_pubs_pdfs/
 {% if older_pdfs.size > 0 %}
 {% assign sorted_pdfs = older_pdfs | sort: "name" %}
 
-**{{ older_pdfs.size }} publications available for download:**
+**Publications available for download:**
 
 <ul>
 {% for file in sorted_pdfs %}
