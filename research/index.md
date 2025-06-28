@@ -11,7 +11,7 @@ Our research focuses on the cognitive neuroscience of action, skilled movement, 
 
 {% include section.html %}
 
-## Reecent Featured Publications
+## Recent Featured Publications
 
 **Fundamental processes in sensorimotor learning: Reasoning, refinement, and retrieval**  
 Tsay, J.S., Kim, H.E., McDougle, S.D., Taylor, J.A., Haith, A., Avraham, G., Krakauer, J.W., Collins, A.G.E., Ivry, R.B. (2024)  
@@ -37,15 +37,21 @@ Wang, T. & Ivry, R.B. (2023)
 
 ## All Publications
 
-## All Publications
+<div style="background-color: #f8f9fa; border: 2px solid #007cba; border-radius: 8px; padding: 20px; margin: 20px 0; text-align: center;">
+  <h3 style="margin-top: 0; color: #007cba;">Complete Publications Archive</h3>
+  <p style="font-size: 1.1em; margin: 10px 0;">Access all lab publications with full-text PDFs</p>
+  <p style="margin: 15px 0; color: #666;">Papers organized chronologically from 1985 to present</p>
+  <a href="{{ site.baseurl }}/files/organized_pubs_pdfs/" 
+     style="display: inline-block; background-color: #007cba; color: white; padding: 12px 24px; 
+            text-decoration: none; border-radius: 5px; font-weight: bold; font-size: 1.1em;">
+    Browse Publications Archive →
+  </a>
+</div>
 
+### Additional Resources
+Keep up to date with Professor Ivry's research and publications on the following platforms:
 **[Google Scholar Profile](https://scholar.google.com/citations?user=nicnuy4AAAAJ&hl=en)**  
 Complete publication list with citation metrics
 
 **[PubMed Author Search](https://pubmed.ncbi.nlm.nih.gov/?term=Ivry+RB%5BAuthor%5D)**  
 Search medical literature database
-
-{% assign pub_pdfs = site.static_files | where: "extname", ".pdf" | where_exp: "file", "file.path contains '/files/organized_pubs_pdfs/'" %}
-
-**[Publications Archive]({{ site.baseurl }}/files/organized_pubs_pdfs/)**  
-Browse and download {{ pub_pdfs.size }} lab publications
