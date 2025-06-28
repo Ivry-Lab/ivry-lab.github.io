@@ -17,6 +17,8 @@ If you are interested in participating, please fill out the form below:
   link="https://docs.google.com/forms/d/e/1FAIpQLSeqczTWpAuCJiM4m00mB69djfiEqjthzJpqFbo3NYYuS5Gayg/viewform"
 %}
 
+{% include section.html %}
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6jRXx9GArkM?start=7" frameborder="0" allowfullscreen></iframe>
 
 ---
