@@ -13,98 +13,60 @@ Our research focuses on the cognitive neuroscience of action, skilled movement, 
 
 ## Publications
 
-<div id="publications-container">
-  <div class="loading-message">Loading publications...</div>
-</div>
+{% assign publications_by_year = site.data.publications | group_by: "published.year" | sort: "name" | reverse %}
 
-<script>
-async function loadPublications() {
-  try {
-    // Fetch the Paperpile JSON file
-    const response = await fetch('{{ site.baseurl }}/data/publications.json');
-    const publications = await response.json();
-    
-    // Group publications by year
-    const publicationsByYear = {};
-    
-    publications.forEach(pub => {
-      const year = pub.published?.year || 'Unknown';
-      if (!publicationsByYear[year]) {
-        publicationsByYear[year] = [];
-      }
-      publicationsByYear[year].push(pub);
-    });
-    
-    // Sort years in descending order
-    const sortedYears = Object.keys(publicationsByYear).sort((a, b) => {
-      if (a === 'Unknown') return 1;
-      if (b === 'Unknown') return -1;
-      return parseInt(b) - parseInt(a);
-    });
-    
-    // Generate HTML
-    let html = '';
-    
-    sortedYears.forEach(year => {
-      html += `<div class="year-section">
-        <h3 class="year-header">${year}</h3>
-        <div class="publications-list">`;
-      
-      // Sort publications within year by title
-      const yearPubs = publicationsByYear[year].sort((a, b) => 
-        (a.title || '').localeCompare(b.title || '')
-      );
-      
-      yearPubs.forEach(pub => {
-        // Format authors
-        const authors = pub.author ? pub.author.map(a => a.formatted || `${a.first} ${a.last}`).join(', ') : '';
-        
-        // Get PDF attachment
-        const pdfAttachment = pub.attachments ? pub.attachments.find(att => att.article_pdf === 1) : null;
-        const pdfLink = pdfAttachment ? `{{ site.baseurl }}/files/organized_pubs_pdfs/${pdfAttachment.filename.split('/').pop()}` : null;
-        
-        // Build publication HTML
-        html += `<div class="publication-item">
+{% for year_group in publications_by_year %}
+  {% assign year = year_group.name %}
+  {% if year == "" or year == nil %}
+    {% assign year = "Unknown" %}
+  {% endif %}
+  
+  <div class="year-section">
+    <h3 class="year-header">{{ year }}</h3>
+    <div class="publications-list">
+      {% assign sorted_pubs = year_group.items | sort: "title" %}
+      {% for pub in sorted_pubs %}
+        <div class="publication-item">
           <div class="publication-title">
-            ${pdfLink ? `<a href="${pdfLink}" target="_blank" class="pdf-link">` : ''}
-            ${pub.title || 'Untitled'}
-            ${pdfLink ? ' <i class="fa-solid fa-file-pdf pdf-icon"></i></a>' : ''}
-          </div>`;
-        
-        if (authors) {
-          html += `<div class="publication-authors">${authors}</div>`;
-        }
-        
-        if (pub.journal) {
-          html += `<div class="publication-journal"><em>${pub.journal}</em></div>`;
-        }
-        
-        // Add DOI link if available
-        if (pub.doi) {
-          html += `<div class="publication-links">
-            <a href="https://doi.org/${pub.doi}" target="_blank" class="doi-link">DOI</a>
-          </div>`;
-        }
-        
-        html += '</div>';
-      });
-      
-      html += '</div></div>';
-    });
-    
-    // Update the container
-    document.getElementById('publications-container').innerHTML = html;
-    
-  } catch (error) {
-    console.error('Error loading publications:', error);
-    document.getElementById('publications-container').innerHTML = 
-      '<div class="error-message">Error loading publications. Please check that the publications.json file is available.</div>';
-  }
-}
-
-// Load publications when page loads
-document.addEventListener('DOMContentLoaded', loadPublications);
-</script>
+            {% assign pdf_attachment = pub.attachments | where: "article_pdf", 1 | first %}
+            {% if pdf_attachment %}
+              {% assign filename = pdf_attachment.filename | split: "/" | last %}
+              <a href="{{ site.baseurl }}/files/organized_pubs_pdfs/{{ filename }}" target="_blank" class="pdf-link">
+                {{ pub.title | default: "Untitled" }}
+                <i class="fa-solid fa-file-pdf pdf-icon"></i>
+              </a>
+            {% else %}
+              {{ pub.title | default: "Untitled" }}
+            {% endif %}
+          </div>
+          
+          {% if pub.author %}
+            <div class="publication-authors">
+              {% for author in pub.author %}
+                {% if author.formatted %}
+                  {{ author.formatted }}
+                {% else %}
+                  {{ author.first }} {{ author.last }}
+                {% endif %}
+                {% unless forloop.last %}, {% endunless %}
+              {% endfor %}
+            </div>
+          {% endif %}
+          
+          {% if pub.journal %}
+            <div class="publication-journal"><em>{{ pub.journal }}</em></div>
+          {% endif %}
+          
+          {% if pub.doi %}
+            <div class="publication-links">
+              <a href="https://doi.org/{{ pub.doi }}" target="_blank" class="doi-link">DOI</a>
+            </div>
+          {% endif %}
+        </div>
+      {% endfor %}
+    </div>
+  </div>
+{% endfor %}
 
 <style>
 .year-section {
@@ -183,20 +145,6 @@ document.addEventListener('DOMContentLoaded', loadPublications);
 .doi-link:hover {
   background-color: #005a8b;
   color: white;
-}
-
-.loading-message, .error-message {
-  text-align: center;
-  padding: 2rem;
-  color: #666;
-  font-style: italic;
-}
-
-.error-message {
-  color: #dc3545;
-  background-color: #f8f9fa;
-  border: 1px solid #dc3545;
-  border-radius: 5px;
 }
 </style>
 
