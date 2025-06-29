@@ -477,51 +477,194 @@
   <size></size>
 -->
 
-<h2 id="recent-featured-publications">Recent Featured Publications</h2>
+<h2 id="publications">Publications</h2>
 
-<p><strong>Fundamental processes in sensorimotor learning: Reasoning, refinement, and retrieval</strong><br>
-Tsay, J.S., Kim, H.E., McDougle, S.D., Taylor, J.A., Haith, A., Avraham, G., Krakauer, J.W., Collins, A.G.E., Ivry, R.B. (2024)<br>
-<em>eLife</em> • <a href="https://doi.org/10.7554/eLife.91839">DOI</a> • <a href="/files/organized_pubs_pdfs/_2024_tsay_et_al_fundamental_pr.pdf">PDF</a></p>
-
-<p><strong>Interference underlies attenuation upon relearning in sensorimotor adaptation</strong><br>
-Avraham, G. &amp; Ivry, R.B. (2024)<br>
-<em>bioRxiv</em> • <a href="https://doi.org/10.1101/2024.05.27.596118">DOI</a> • <a href="/files/organized_pubs_pdfs/_2024_avraham_and_ivryinterfere.pdf">PDF</a></p>
-
-<p><strong>No Evidence for Semantic Prediction Deficits in Individuals With Cerebellar Degeneration</strong><br>
-King, M., Bruinsma, S., &amp; Ivry, R.B. (2024)<br>
-<em>Neurobiology of Language</em> • <a href="https://doi.org/10.1162/nol_a_00083">DOI</a> • <a href="/files/organized_pubs_pdfs/_2022_king_et_al_no_evidence_fo.pdf">PDF</a></p>
-
-<p><strong>Distinct Contributions of the Cerebellum and Basal Ganglia to Arithmetic Procedures</strong><br>
-Saban, W., Pinheiro-Chagas, P., Borra, S., &amp; Ivry, R.B. (2023)<br>
-<em>Journal of Neuroscience</em> • <a href="https://doi.org/10.1523/JNEUROSCI.1482-22.2023">DOI</a> • <a href="/files/organized_pubs_pdfs/_2024_saban_et_al_distinct_cont.pdf">PDF</a></p>
-
-<p><strong>A cerebellar population coding model for sensorimotor learning</strong><br>
-Wang, T. &amp; Ivry, R.B. (2023)<br>
-<em>bioRxiv</em> • <a href="https://doi.org/10.1101/2023.07.04.547720">DOI</a> • <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10349940/">PMC</a> • <a href="/files/organized_pubs_pdfs/_2023_wang_and_ivrya_cerebellar.pdf">PDF</a></p>
-  </section>
-
-  
-  
-  
-
-  <section class="background" data-size="page">
-    <!--
-  <background></background>
-  <dark></dark>
-  <size></size>
--->
-
-<h2 id="all-publications">All Publications</h2>
-
-<div style="background-color: #f8f9fa; border: 2px solid #007cba; border-radius: 8px; padding: 20px; margin: 20px 0; text-align: center;">
-  <h3 style="margin-top: 0; color: #007cba;">Publications Archive</h3>
-  <p style="font-size: 1.1em; margin: 10px 0;">Access all lab publications with full-text PDFs</p>
-  <p style="margin: 15px 0; color: #666;">Papers organized chronologically from 1985 to present</p>
-  <a href="/files/organized_pubs_pdfs/" style="display: inline-block; background-color: #007cba; color: white; padding: 12px 24px; 
-            text-decoration: none; border-radius: 5px; font-weight: bold; font-size: 1.1em;">
-    Browse Publications Archive →
-  </a>
+<div id="publications-container">
+  <div class="loading-message">Loading publications...</div>
 </div>
+
+<script>
+async function loadPublications() {
+  try {
+    // Fetch the Paperpile JSON file
+    const response = await fetch('/data/publications.json');
+    const publications = await response.json();
+    
+    // Group publications by year
+    const publicationsByYear = {};
+    
+    publications.forEach(pub => {
+      const year = pub.published?.year \|| 'Unknown';
+      if (!publicationsByYear[year]) {
+        publicationsByYear[year] = [];
+      }
+      publicationsByYear[year].push(pub);
+    });
+    
+    // Sort years in descending order
+    const sortedYears = Object.keys(publicationsByYear).sort((a, b) => {
+      if (a === 'Unknown') return 1;
+      if (b === 'Unknown') return -1;
+      return parseInt(b) - parseInt(a);
+    });
+    
+    // Generate HTML
+    let html = '';
+    
+    sortedYears.forEach(year => {
+      html += `<div class="year-section">
+        <h3 class="year-header">${year}</h3>
+        <div class="publications-list">`;
+      
+      // Sort publications within year by title
+      const yearPubs = publicationsByYear[year].sort((a, b) => 
+        \(a.title \|| '').localeCompare\(b.title \|| '')
+      );
+      
+      yearPubs.forEach(pub => {
+        // Format authors
+        const authors = pub.author ? pub.author.map\(a => a.formatted \|| `${a.first} ${a.last}`).join\(', ') : '';
+        
+        // Get PDF attachment
+        const pdfAttachment = pub.attachments ? pub.attachments.find(att => att.article_pdf === 1) : null;
+        const pdfLink = pdfAttachment ? `/files/organized_pubs_pdfs/${pdfAttachment.filename.split('/').pop()}` : null;
+        
+        // Build publication HTML
+        html += `<div class="publication-item">
+          <div class="publication-title">
+            ${pdfLink ? `<a href="${pdfLink}" target="_blank" class="pdf-link">` : ''}
+            ${pub.title || 'Untitled'}
+            ${pdfLink ? ' <i class="fa-solid fa-file-pdf pdf-icon"></i></a>' : ''}
+          </div>`;
+        
+        if (authors) {
+          html += `<div class="publication-authors">${authors}</div>`;
+        }
+        
+        if (pub.journal) {
+          html += `<div class="publication-journal"><em>${pub.journal}</em></div>`;
+        }
+        
+        // Add DOI link if available
+        if (pub.doi) {
+          html += `<div class="publication-links">
+            <a href="https://doi.org/${pub.doi}" target="_blank" class="doi-link">DOI</a>
+          </div>`;
+        }
+        
+        html += '</div>';
+      });
+      
+      html += '</div></div>';
+    });
+    
+    // Update the container
+    document.getElementById('publications-container').innerHTML = html;
+    
+  } catch (error) {
+    console.error('Error loading publications:', error);
+    document.getElementById('publications-container').innerHTML = 
+      '<div class="error-message">Error loading publications. Please check that the publications.json file is available.</div>';
+  }
+}
+
+// Load publications when page loads
+document.addEventListener('DOMContentLoaded', loadPublications);
+</script>
+
+<style>
+.year-section {
+  margin-bottom: 2rem;
+}
+
+.year-header {
+  color: #007cba;
+  border-bottom: 2px solid #007cba;
+  padding-bottom: 0.5rem;
+  margin-bottom: 1rem;
+  font-size: 1.5rem;
+}
+
+.publications-list {
+  margin-left: 1rem;
+}
+
+.publication-item {
+  margin-bottom: 1.5rem;
+  padding: 1rem;
+  background-color: #f8f9fa;
+  border-radius: 5px;
+  border-left: 4px solid #007cba;
+}
+
+.publication-title {
+  font-size: 1.1rem;
+  font-weight: 600;
+  margin-bottom: 0.5rem;
+  line-height: 1.3;
+}
+
+.publication-title a.pdf-link {
+  color: #007cba;
+  text-decoration: none;
+}
+
+.publication-title a.pdf-link:hover {
+  color: #005a8b;
+  text-decoration: underline;
+}
+
+.pdf-icon {
+  color: #dc3545;
+  margin-left: 0.3rem;
+  font-size: 0.9rem;
+}
+
+.publication-authors {
+  color: #666;
+  margin-bottom: 0.3rem;
+  font-size: 0.95rem;
+}
+
+.publication-journal {
+  color: #555;
+  margin-bottom: 0.5rem;
+  font-size: 0.9rem;
+}
+
+.publication-links {
+  margin-top: 0.5rem;
+}
+
+.doi-link {
+  background-color: #007cba;
+  color: white;
+  padding: 0.2rem 0.5rem;
+  border-radius: 3px;
+  text-decoration: none;
+  font-size: 0.8rem;
+  font-weight: 500;
+}
+
+.doi-link:hover {
+  background-color: #005a8b;
+  color: white;
+}
+
+.loading-message, .error-message {
+  text-align: center;
+  padding: 2rem;
+  color: #666;
+  font-style: italic;
+}
+
+.error-message {
+  color: #dc3545;
+  background-color: #f8f9fa;
+  border: 1px solid #dc3545;
+  border-radius: 5px;
+}
+</style>
   </section>
 
   
