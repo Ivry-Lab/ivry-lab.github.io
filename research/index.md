@@ -29,9 +29,8 @@ Our research focuses on the cognitive neuroscience of action, skilled movement, 
         <div class="publication-item">
           <div class="publication-title">
             {% assign pdf_attachment = pub.attachments | where: "article_pdf", 1 | first %}
-            {% if pdf_attachment %}
-              {% assign filename = pdf_attachment.filename | split: "/" | last %}
-              <a href="{{ site.baseurl }}/files/organized_pubs_pdfs/{{ filename }}" target="_blank" class="pdf-link">
+            {% if pdf_attachment and pdf_attachment.source_filename %}
+              <a href="{{ site.baseurl }}/files/organized_pubs_pdfs/{{ pdf_attachment.source_filename }}" target="_blank" class="pdf-link">
                 {{ pub.title | default: "Untitled" }}
                 <i class="fa-solid fa-file-pdf pdf-icon"></i>
               </a>
