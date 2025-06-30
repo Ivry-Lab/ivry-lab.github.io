@@ -16941,7 +16941,7 @@
         "article_pdf": 1,
         "created": 1751222798.469,
         "filesize": 812276,
-        "filename": "All Papers/Other/2006_spencer_et_al_psychonomic - 2006_spencer_et_al_psychonomic.pdf",
+        "filename": "All Papers/S/Spencer, R.M.C., Semjen, A., Yang, S.... 2006 - An event-based account of coordination stability.pdf",
         "source_filename": "2006_spencer_et_al_psychonomic.pdf",
         "pub_id": "c500874a-f926-42be-b075-0550c6dbd522",
         "mimeType": "application/pdf",
@@ -16949,20 +16949,38 @@
         "s3_md5": "7b6a0c0a65ed0ceec9d2c90b10bf1ab6"
       }
     ],
-    "citekey": "noauthor_undated-cq",
+    "author": [
+      {
+        "collective": "Spencer, R.M.C., Semjen, A., Yang, S., & Ivry, R.B.",
+        "formatted": "Spencer, R.M.C., Semjen, A., Yang, S., & Ivry, R.B.",
+        "initials": ""
+      }
+    ],
+    "citekey": "Spencer-RMC-Semjen-A-Yang-S-Ivry-RB2006-sh",
     "created": 1751222798.436,
+    "dup_sha1": "a065e8493170706b5e312860c80fc10aea937188",
     "folders": [
       "2be42804-adb1-4867-87ff-9d438a7d6d1a"
     ],
     "foldersNamed": [
       "ivry publications"
     ],
-    "id_list": [],
-    "incomplete": 1,
+    "id_list": [
+      "sha1:74876423098474c0541583d6a540f6066056b304",
+      "dup_sha1:a065e8493170706b5e312860c80fc10aea937188"
+    ],
+    "incomplete": 0,
+    "issue": "4",
+    "journal": "Psychonomic Bulletin & Review",
     "labels": [],
     "owner": "778D449898E211EC881CD318FB271251",
-    "pubtype": "PP_MISC",
-    "title": "2006_spencer_et_al_psychonomic"
+    "published": {
+      "year": "2006"
+    },
+    "pubtype": "PP_ARTICLE",
+    "sha1": "74876423098474c0541583d6a540f6066056b304",
+    "title": "An event-based account of coordination stability",
+    "volume": "13"
   },
   {
     "_id": "2f786774-ac1c-0c6e-a049-0d4f983867e5",
@@ -17058,7 +17076,7 @@
         "article_pdf": 1,
         "created": 1751222798.356,
         "filesize": 4032431,
-        "filename": "All Papers/Other/2005_zelaznik_spencer_ivryjour - 2005_zelaznik_spencer_ivryjour.pdf",
+        "filename": "All Papers/Z/Zelaznik, H. N., Spencer, R. M., Ivry... 2005 - Timing variability in ci ... tapping - probing the relationship between event and emergent timing.pdf",
         "source_filename": "2005_zelaznik_spencer_ivryjour.pdf",
         "pub_id": "5caea206-b3cf-4fa2-939e-de43e99bbfed",
         "mimeType": "application/pdf",
@@ -17066,20 +17084,46 @@
         "s3_md5": "093f30938c6e8e318af055ac6ef61162"
       }
     ],
-    "citekey": "noauthor_undated-rh",
+    "author": [
+      {
+        "collective": "Zelaznik, H. N., Spencer, R. M., Ivry, R. B., Baria, A., Bloom, M., Dolansky, L., Justice, S., Patterson, K., & Whetter, E.",
+        "formatted": "Zelaznik, H. N., Spencer, R. M., Ivry, R. B., Baria, A., Bloom, M., Dolansky, L., Justice, S., Patterson, K., & Whetter, E.",
+        "initials": ""
+      }
+    ],
+    "citedByLink": "http://scholar.google.com/scholar?hl=en&lr=&num=30&cites=http://dx.doi.org/10.3200/JMBR.37.5.395-403",
+    "citekey": "Zelaznik-H-N-Spencer-R-M-Ivry-R-B-Baria-A-Bloom-M-Dolansky-L-Justice-S-Patterson-K-Whetter-E2005-fw",
     "created": 1751222798.32,
+    "doi": "10.3200/JMBR.37.5.395-403",
+    "dup_sha1": "5943735ffc63b0b1e60d32b9045ee63cee4531ec",
     "folders": [
       "2be42804-adb1-4867-87ff-9d438a7d6d1a"
     ],
     "foldersNamed": [
       "ivry publications"
     ],
-    "id_list": [],
-    "incomplete": 1,
+    "id_list": [
+      "sha1:aeceb51afc2a09dfa5303154abe07bef87b7b3fb",
+      "dup_sha1:5943735ffc63b0b1e60d32b9045ee63cee4531ec",
+      "doi:10.3200/JMBR.37.5.395-403",
+      "url:http://dx.doi.org/10.3200/JMBR.37.5.395-403"
+    ],
+    "incomplete": 0,
+    "issue": "5",
+    "journal": "Journal of motor behavior",
     "labels": [],
     "owner": "778D449898E211EC881CD318FB271251",
-    "pubtype": "PP_MISC",
-    "title": "2005_zelaznik_spencer_ivryjour"
+    "pages": "395–403",
+    "published": {
+      "year": "2005"
+    },
+    "pubtype": "PP_ARTICLE",
+    "sha1": "aeceb51afc2a09dfa5303154abe07bef87b7b3fb",
+    "title": "Timing variability in circle drawing and tapping: probing the relationship between event and emergent timing",
+    "url": [
+      "http://dx.doi.org/10.3200/JMBR.37.5.395-403"
+    ],
+    "volume": "37"
   },
   {
     "_id": "4df0f006-62a9-02ae-9227-2bf3650e0903",
@@ -18376,7 +18420,7 @@
         "article_pdf": 1,
         "created": 1751222794.185,
         "filesize": 3937566,
-        "filename": "All Papers/Other/2003_deouell_ivry_knightbehavi - 2003_deouell_ivry_knightbehavi.pdf",
+        "filename": "All Papers/D/Deouell, L.Y., Ivry, R.B., & Knight, ... 2003 - Electrophysiological met ... nial magnetic stimulation in behavioral neurology and neuropsychology.pdf",
         "source_filename": "2003_deouell_ivry_knightbehavi.pdf",
         "pub_id": "a377c3fd-962b-482c-802c-cc8f42baf314",
         "mimeType": "application/pdf",
@@ -18384,20 +18428,35 @@
         "s3_md5": "f0fbd271d1dd495aef15a2fb983771cf"
       }
     ],
-    "citekey": "noauthor_undated-ma",
+    "author": [
+      {
+        "collective": "Deouell, L.Y., Ivry, R.B., & Knight, R.T.",
+        "formatted": "Deouell, L.Y., Ivry, R.B., & Knight, R.T.",
+        "initials": ""
+      }
+    ],
+    "citekey": "Deouell-LY-Ivry-RB-Knight-RT2003-oq",
     "created": 1751222794.154,
+    "dup_sha1": "05073459c1596227d0491c88cb379803c0d48b2d",
     "folders": [
       "2be42804-adb1-4867-87ff-9d438a7d6d1a"
     ],
     "foldersNamed": [
       "ivry publications"
     ],
-    "id_list": [],
-    "incomplete": 1,
+    "id_list": [
+      "sha1:8fb7ed61ba54f1501fc384c786fa3387a4597c68",
+      "dup_sha1:05073459c1596227d0491c88cb379803c0d48b2d"
+    ],
+    "incomplete": 0,
     "labels": [],
     "owner": "778D449898E211EC881CD318FB271251",
-    "pubtype": "PP_MISC",
-    "title": "2003_deouell_ivry_knightbehavi"
+    "published": {
+      "year": "2003"
+    },
+    "pubtype": "PP_BOOK_CHAPTER",
+    "sha1": "8fb7ed61ba54f1501fc384c786fa3387a4597c68",
+    "title": "Electrophysiological methods and transcranial magnetic stimulation in behavioral neurology and neuropsychology"
   },
   {
     "_id": "11cca513-7a7e-03f8-be9a-dd7345631a5f",
@@ -19636,7 +19695,7 @@
         "article_pdf": 1,
         "created": 1751222790.574,
         "filesize": 249200,
-        "filename": "All Papers/Other/2001_ivry_justus_middletondysl - 2001_ivry_justus_middletondysl.pdf",
+        "filename": "All Papers/I/Ivry, R.B., Justus, T.C., & Middleton... 2001 - The Cerebellum, Timing, and Language - Implications for the Study of Dyslexia.pdf",
         "source_filename": "2001_ivry_justus_middletondysl.pdf",
         "pub_id": "61d00fba-d34d-49a7-8668-59d6880822da",
         "mimeType": "application/pdf",
@@ -19644,20 +19703,46 @@
         "s3_md5": "8dcfb2e72a41c07800866087ae3308ff"
       }
     ],
-    "citekey": "noauthor_undated-qj",
+    "author": [
+      {
+        "collective": "Ivry, R.B., Justus, T.C., & Middleton, C.",
+        "formatted": "Ivry, R.B., Justus, T.C., & Middleton, C.",
+        "initials": ""
+      }
+    ],
+    "booktitle": "Dyslexia, Fluency, and the Brain",
+    "citekey": "Ivry-RB-Justus-TC-Middleton-C2001-ve",
     "created": 1751222790.534,
+    "dup_sha1": "efa46d2804eff35cf047043bd57673c7e3c457b0",
+    "editor": [
+      {
+        "first": "M",
+        "last": "Wolf",
+        "initials": "M",
+        "formatted": "Wolf M"
+      }
+    ],
     "folders": [
       "2be42804-adb1-4867-87ff-9d438a7d6d1a"
     ],
     "foldersNamed": [
       "ivry publications"
     ],
-    "id_list": [],
-    "incomplete": 1,
+    "id_list": [
+      "sha1:a3b4c1b3f05b95e3c83886de40798eb2befbbc71",
+      "dup_sha1:efa46d2804eff35cf047043bd57673c7e3c457b0"
+    ],
+    "incomplete": 0,
     "labels": [],
     "owner": "778D449898E211EC881CD318FB271251",
-    "pubtype": "PP_MISC",
-    "title": "2001_ivry_justus_middletondysl"
+    "pages": "189-211",
+    "published": {
+      "year": "2001"
+    },
+    "publisher": "Timonium, MD: York Press",
+    "pubtype": "PP_BOOK_CHAPTER",
+    "sha1": "a3b4c1b3f05b95e3c83886de40798eb2befbbc71",
+    "title": "The Cerebellum, Timing, and Language: Implications for the Study of Dyslexia"
   },
   {
     "_id": "eb234e1e-142a-0a16-ae7e-1bdeffabe7bb",
@@ -19832,7 +19917,7 @@
         "article_pdf": 1,
         "created": 1751222789.895,
         "filesize": 1559177,
-        "filename": "All Papers/Other/2000_ivry_fiez_thecogneuro - 2000_ivry_fiez_thecogneuro.pdf",
+        "filename": "All Papers/I/Ivry, R.B., & Fiez, J.A. 2000 - Cerebellar Contributions to Cognition and Imagery.pdf",
         "source_filename": "2000_ivry_fiez_thecogneuro.pdf",
         "pub_id": "306edd6f-3d72-43f3-8d25-cca1796c1dd8",
         "mimeType": "application/pdf",
@@ -19840,20 +19925,38 @@
         "s3_md5": "c91e92919ad313c70d4dcc8f546840f1"
       }
     ],
-    "citekey": "noauthor_undated-ov",
+    "author": [
+      {
+        "collective": "Ivry, R.B., & Fiez, J.A.",
+        "formatted": "Ivry, R.B., & Fiez, J.A.",
+        "initials": ""
+      }
+    ],
+    "booktitle": "The new cognitive neurosciences",
+    "citekey": "Ivry-RB-Fiez-JA2000-gz",
     "created": 1751222789.857,
+    "dup_sha1": "7d083836be3dc5b491611d344d7414fb77dcbc87",
     "folders": [
       "2be42804-adb1-4867-87ff-9d438a7d6d1a"
     ],
     "foldersNamed": [
       "ivry publications"
     ],
-    "id_list": [],
-    "incomplete": 1,
+    "id_list": [
+      "sha1:1055ea157444d3f2a5adb8a91ef3821bac98b7f8",
+      "dup_sha1:7d083836be3dc5b491611d344d7414fb77dcbc87"
+    ],
+    "incomplete": 0,
     "labels": [],
     "owner": "778D449898E211EC881CD318FB271251",
-    "pubtype": "PP_MISC",
-    "title": "2000_ivry_fiez_thecogneuro"
+    "pages": "999-1011",
+    "published": {
+      "year": "2000"
+    },
+    "publisher": "Cambridge, Mass.: MIT Press",
+    "pubtype": "PP_BOOK_CHAPTER",
+    "sha1": "1055ea157444d3f2a5adb8a91ef3821bac98b7f8",
+    "title": "Cerebellar Contributions to Cognition and Imagery"
   },
   {
     "_id": "caa2efa0-f3fa-4a0f-8e3f-67e4446b2552",
@@ -19864,7 +19967,7 @@
         "article_pdf": 1,
         "created": 1751222789.918,
         "filesize": 13285125,
-        "filename": "All Papers/Other/1995_cohen_a_ivry_r_rafal_r_an - 1995_cohen_a_ivry_r_rafal_r_an.pdf",
+        "filename": "All Papers/C/Cohen, A., Rafal, R.D., Ivry, R.B., K... 1995 - Activating Response Codes by Stimuli in the Neglected Visual Field.pdf",
         "source_filename": "1995_cohen_a_ivry_r_rafal_r_an.pdf",
         "pub_id": "caa2efa0-f3fa-4a0f-8e3f-67e4446b2552",
         "mimeType": "application/pdf",
@@ -19872,20 +19975,39 @@
         "s3_md5": "60f51e3de11ec7b8f815e59036f3a5ed"
       }
     ],
-    "citekey": "noauthor_undated-ib",
+    "author": [
+      {
+        "collective": "Cohen, A., Rafal, R.D., Ivry, R.B., Kohn, C.",
+        "formatted": "Cohen, A., Rafal, R.D., Ivry, R.B., Kohn, C.",
+        "initials": ""
+      }
+    ],
+    "citekey": "Cohen-A-Rafal-RD-Ivry-RB-Kohn-C1995-oo",
     "created": 1751222789.854,
+    "dup_sha1": "a08d8a9a7a6f570e235f18b971e6befde0928abb",
     "folders": [
       "2be42804-adb1-4867-87ff-9d438a7d6d1a"
     ],
     "foldersNamed": [
       "ivry publications"
     ],
-    "id_list": [],
-    "incomplete": 1,
+    "id_list": [
+      "sha1:0faa67363f71936f35e00af87e64f3535e54e4eb",
+      "dup_sha1:a08d8a9a7a6f570e235f18b971e6befde0928abb"
+    ],
+    "incomplete": 0,
+    "issue": "2",
+    "journal": "Neuropsychology",
     "labels": [],
     "owner": "778D449898E211EC881CD318FB271251",
-    "pubtype": "PP_MISC",
-    "title": "1995_cohen_a_ivry_r_rafal_r_an"
+    "pages": "165-173",
+    "published": {
+      "year": "1995"
+    },
+    "pubtype": "PP_ARTICLE",
+    "sha1": "0faa67363f71936f35e00af87e64f3535e54e4eb",
+    "title": "Activating Response Codes by Stimuli in the Neglected Visual Field",
+    "volume": "9"
   },
   {
     "_id": "9b760d4c-fd46-475f-86e4-a7821803057f",
@@ -19896,7 +20018,7 @@
         "article_pdf": 1,
         "created": 1751222789.6,
         "filesize": 16686036,
-        "filename": "All Papers/Other/1993_ivry_corcos_slicingthevariability - 1993_ivry_corcos_slicingthevariability.pdf",
+        "filename": "All Papers/I/Ivry, R., & Corcos, D.M 1993 - Slicing the Variability Pie - Component Analysis of Coordination and Motor Dysfunction.pdf",
         "source_filename": "1993_ivry_corcos_slicingthevariability.pdf",
         "pub_id": "9b760d4c-fd46-475f-86e4-a7821803057f",
         "mimeType": "application/pdf",
@@ -19904,20 +20026,35 @@
         "s3_md5": "8224f206f5e82f6e3b01e3e52720e3fa"
       }
     ],
-    "citekey": "noauthor_undated-py",
+    "author": [
+      {
+        "collective": "Ivry, R., & Corcos, D.M",
+        "formatted": "Ivry, R., & Corcos, D.M",
+        "initials": ""
+      }
+    ],
+    "citekey": "Ivry-R-Corcos-DM1993-kx",
     "created": 1751222789.557,
+    "dup_sha1": "e094e583faa6f3e131009195b00f7efc25bcdf71",
     "folders": [
       "2be42804-adb1-4867-87ff-9d438a7d6d1a"
     ],
     "foldersNamed": [
       "ivry publications"
     ],
-    "id_list": [],
-    "incomplete": 1,
+    "id_list": [
+      "sha1:af9b5e5b8195e02563a2ba1a6ab5effe0ae35372",
+      "dup_sha1:e094e583faa6f3e131009195b00f7efc25bcdf71"
+    ],
+    "incomplete": 0,
     "labels": [],
     "owner": "778D449898E211EC881CD318FB271251",
-    "pubtype": "PP_MISC",
-    "title": "1993_ivry_corcos_slicingthevariability"
+    "published": {
+      "year": "1993"
+    },
+    "pubtype": "PP_BOOK_CHAPTER",
+    "sha1": "af9b5e5b8195e02563a2ba1a6ab5effe0ae35372",
+    "title": "Slicing the Variability Pie: Component Analysis of Coordination and Motor Dysfunction"
   },
   {
     "_id": "75170f9f-bbbd-446f-b744-7a6cceb582aa",
@@ -19928,7 +20065,7 @@
         "article_pdf": 1,
         "created": 1751222789.583,
         "filesize": 1214836,
-        "filename": "All Papers/Other/2000_ivrynature_neuroscience - 2000_ivrynature_neuroscience.pdf",
+        "filename": "All Papers/I/Ivry 2000 - The neurosciences from A to Z.pdf",
         "source_filename": "2000_ivrynature_neuroscience.pdf",
         "pub_id": "75170f9f-bbbd-446f-b744-7a6cceb582aa",
         "mimeType": "application/pdf",
@@ -19936,20 +20073,41 @@
         "s3_md5": "759db3dc3d9dae33145b8a7ced5a4f7e"
       }
     ],
-    "citekey": "noauthor_undated-gw",
+    "author": [
+      {
+        "first": "R B",
+        "last": "Ivry",
+        "initials": "RB",
+        "formatted": "Ivry RB"
+      }
+    ],
+    "booktitle": "Elsevier's Encyclopedia of Neuroscience, 2nd edition",
+    "citekey": "Ivry2000-zc",
     "created": 1751222789.551,
+    "dup_sha1": "a4058d6f367653d5c33c1b2deae3bacc877e0620",
     "folders": [
       "2be42804-adb1-4867-87ff-9d438a7d6d1a"
     ],
     "foldersNamed": [
       "ivry publications"
     ],
-    "id_list": [],
-    "incomplete": 1,
+    "id_list": [
+      "sha1:11020062a97a3cd7ceacff524c51af40ed8109a6",
+      "dup_sha1:a4058d6f367653d5c33c1b2deae3bacc877e0620"
+    ],
+    "incomplete": 0,
+    "issue": "11",
+    "journal": "Nature Neuroscience",
     "labels": [],
     "owner": "778D449898E211EC881CD318FB271251",
-    "pubtype": "PP_MISC",
-    "title": "2000_ivrynature_neuroscience"
+    "pages": "1071-1072",
+    "published": {
+      "year": "2000"
+    },
+    "pubtype": "PP_REVIEW",
+    "sha1": "11020062a97a3cd7ceacff524c51af40ed8109a6",
+    "title": "The neurosciences from A to Z",
+    "volume": "3"
   },
   {
     "_id": "a7c195fc-d8e6-04ea-acae-dc3285a4f245",
@@ -20151,7 +20309,7 @@
         "article_pdf": 1,
         "created": 1751222789.08,
         "filesize": 1819048,
-        "filename": "All Papers/Other/1999_kim_ivry_robertsonjournal - 1999_kim_ivry_robertsonjournal.pdf",
+        "filename": "All Papers/K/Kim, N., Ivry, R.B., & Robertson, L.C. 1999 - Sequential Priming in Hier ... lly Organized Figures - Effects of Target Level and Target Resolution.pdf",
         "source_filename": "1999_kim_ivry_robertsonjournal.pdf",
         "pub_id": "745eb2be-498b-423a-b49f-4fcebb393a3d",
         "mimeType": "application/pdf",
@@ -20159,20 +20317,39 @@
         "s3_md5": "e692f92618b38f7222edc64a6ae394bc"
       }
     ],
-    "citekey": "noauthor_undated-ip",
+    "author": [
+      {
+        "collective": "Kim, N., Ivry, R.B., & Robertson, L.C.",
+        "formatted": "Kim, N., Ivry, R.B., & Robertson, L.C.",
+        "initials": ""
+      }
+    ],
+    "citekey": "Kim-N-Ivry-RB-Robertson-LC1999-xx",
     "created": 1751222789.013,
+    "dup_sha1": "ed81afb69d56a882c2e60c5bb9e78875b15484d1",
     "folders": [
       "2be42804-adb1-4867-87ff-9d438a7d6d1a"
     ],
     "foldersNamed": [
       "ivry publications"
     ],
-    "id_list": [],
-    "incomplete": 1,
+    "id_list": [
+      "sha1:db78206ad455866ff2d1d9ef787c72151ad12e6b",
+      "dup_sha1:ed81afb69d56a882c2e60c5bb9e78875b15484d1"
+    ],
+    "incomplete": 0,
+    "issue": "3",
+    "journal": "Journal of Experimental Psychology: Human Perception and Performance",
     "labels": [],
     "owner": "778D449898E211EC881CD318FB271251",
-    "pubtype": "PP_MISC",
-    "title": "1999_kim_ivry_robertsonjournal"
+    "pages": "715-729",
+    "published": {
+      "year": "1999"
+    },
+    "pubtype": "PP_ARTICLE",
+    "sha1": "db78206ad455866ff2d1d9ef787c72151ad12e6b",
+    "title": "Sequential Priming in Hierarchically Organized Figures: Effects of Target Level and Target Resolution",
+    "volume": "25"
   },
   {
     "_id": "035ce8b9-dc66-4a23-919b-e79c78f33dd0",
@@ -20183,7 +20360,7 @@
         "article_pdf": 1,
         "created": 1751222788.3,
         "filesize": 2085869,
-        "filename": "All Papers/Other/1999_casini_ivry_neuropsych - 1999_casini_ivry_neuropsych.pdf",
+        "filename": "All Papers/C/Casini, L., & Ivry, R.B. 1999 - Effects of Divided Attention on Temporal Processing in Patients With Lesions of the Cerebellum or Frontal Lobe.pdf",
         "source_filename": "1999_casini_ivry_neuropsych.pdf",
         "pub_id": "035ce8b9-dc66-4a23-919b-e79c78f33dd0",
         "mimeType": "application/pdf",
@@ -20191,20 +20368,39 @@
         "s3_md5": "77ed09c73e64fa6989a5bbd7e59c9005"
       }
     ],
-    "citekey": "noauthor_undated-qe",
+    "author": [
+      {
+        "collective": "Casini, L., & Ivry, R.B.",
+        "formatted": "Casini, L., & Ivry, R.B.",
+        "initials": ""
+      }
+    ],
+    "citekey": "Casini-L-Ivry-RB1999-qe",
     "created": 1751222788.248,
+    "dup_sha1": "ed5995c6c9d4f28a176e4e69e6dde0f68047b9a2",
     "folders": [
       "2be42804-adb1-4867-87ff-9d438a7d6d1a"
     ],
     "foldersNamed": [
       "ivry publications"
     ],
-    "id_list": [],
-    "incomplete": 1,
+    "id_list": [
+      "sha1:bf27c2ba33f180a6b39451dcd2cd7e65c93dc3ad",
+      "dup_sha1:ed5995c6c9d4f28a176e4e69e6dde0f68047b9a2"
+    ],
+    "incomplete": 0,
+    "issue": "1",
+    "journal": "Neuropsychology",
     "labels": [],
     "owner": "778D449898E211EC881CD318FB271251",
-    "pubtype": "PP_MISC",
-    "title": "1999_casini_ivry_neuropsych"
+    "pages": "10-21",
+    "published": {
+      "year": "1999"
+    },
+    "pubtype": "PP_ARTICLE",
+    "sha1": "bf27c2ba33f180a6b39451dcd2cd7e65c93dc3ad",
+    "title": "Effects of Divided Attention on Temporal Processing in Patients With Lesions of the Cerebellum or Frontal Lobe",
+    "volume": "13"
   },
   {
     "_id": "e99bfd2f-44d8-4f68-a4df-f73dc0c0afb9",
@@ -20215,7 +20411,7 @@
         "article_pdf": 1,
         "created": 1751222787.191,
         "filesize": 691211,
-        "filename": "All Papers/Other/1996_ivrycurrent_opinion_in_ne - 1996_ivrycurrent_opinion_in_ne.pdf",
+        "filename": "All Papers/I/Ivry 1996 - The representation of temporal information in perception and motor control.pdf",
         "source_filename": "1996_ivrycurrent_opinion_in_ne.pdf",
         "pub_id": "e99bfd2f-44d8-4f68-a4df-f73dc0c0afb9",
         "mimeType": "application/pdf",
@@ -20223,20 +20419,43 @@
         "s3_md5": "4b69e79505178a87f4c9f0f7549aeba4"
       }
     ],
-    "citekey": "noauthor_undated-zy",
+    "author": [
+      {
+        "first": "R B",
+        "last": "Ivry",
+        "initials": "RB",
+        "formatted": "Ivry RB"
+      }
+    ],
+    "citekey": "Ivry1996-bp",
     "created": 1751222787.147,
+    "dup_sha1": "d38cfb31f606a60a97f5c0459140b694038f83f7",
     "folders": [
       "2be42804-adb1-4867-87ff-9d438a7d6d1a"
     ],
     "foldersNamed": [
       "ivry publications"
     ],
-    "id_list": [],
-    "incomplete": 1,
+    "id_list": [
+      "sha1:217d8bd1df3024ffd8c9214a4b8a6a8f4d37e0bf",
+      "dup_sha1:d38cfb31f606a60a97f5c0459140b694038f83f7"
+    ],
+    "incomplete": 0,
+    "issn": "0959-4388",
+    "issn_alt": "1873-6882",
+    "journal": "Curr. Opin. Neurobiol.",
+    "journalfull": "Current opinion in neurobiology",
+    "kind": "Opinion",
     "labels": [],
     "owner": "778D449898E211EC881CD318FB271251",
-    "pubtype": "PP_MISC",
-    "title": "1996_ivrycurrent_opinion_in_ne"
+    "pages": "851-857",
+    "published": {
+      "year": "1996"
+    },
+    "pubtype": "PP_ARTICLE",
+    "sha1": "217d8bd1df3024ffd8c9214a4b8a6a8f4d37e0bf",
+    "title": "The representation of temporal information in perception and motor control",
+    "volume": "6"
   },
   {
     "_id": "a9ca0892-e7b1-0b53-87b1-976677d503fd",
@@ -20556,7 +20775,7 @@
         "article_pdf": 1,
         "created": 1751222785.496,
         "filesize": 1749884,
-        "filename": "All Papers/P/Pastor and Artieda 1996 - Time, internal clocks, and movement.pdf",
+        "filename": "All Papers/C/Clarke, S., Ivry, R., Grinband, J., R... 1996 - Exploring the domain of the cerebellar timing system.pdf",
         "source_filename": "1996_clark_et_al_time_internal.pdf",
         "pub_id": "594f836f-04d1-023f-9937-f04b1e8da642",
         "mimeType": "application/pdf",
@@ -20566,23 +20785,31 @@
     ],
     "author": [
       {
-        "initials": "M",
-        "first": "M",
-        "formatted": "Pastor M",
-        "last": "Pastor"
-      },
-      {
-        "initials": "J",
-        "first": "J",
-        "formatted": "Artieda J",
-        "last": "Artieda"
+        "collective": "Clarke, S., Ivry, R., Grinband, J., Roberts, S., Shimizu, N.",
+        "formatted": "Clarke, S., Ivry, R., Grinband, J., Roberts, S., Shimizu, N.",
+        "initials": ""
       }
     ],
+    "booktitle": "Time, internal clocks, and movement",
     "citedByLink": "http://scholar.google.com/scholar?hl=en&lr=&num=30&cites=http://dx.doi.org/10.1016/s0166-4115(96)x8047-6",
-    "citekey": "Pastor1996-ys",
+    "citekey": "Clarke-S-Ivry-R-Grinband-J-Roberts-S-Shimizu-N1996-ev",
     "created": 1751222785.462,
     "doi": "10.1016/s0166-4115(96)x8047-6",
-    "dup_sha1": "d32e21c0f9c82cd94eaa4c753133ca99a5e378bc",
+    "dup_sha1": "91c57af99a7c340381f14fa7c05125d679c87749",
+    "editor": [
+      {
+        "first": "M",
+        "last": "Pastor",
+        "initials": "M",
+        "formatted": "Pastor M"
+      },
+      {
+        "first": "J",
+        "last": "Artieda",
+        "initials": "J",
+        "formatted": "Artieda J"
+      }
+    ],
     "folders": [
       "2be42804-adb1-4867-87ff-9d438a7d6d1a"
     ],
@@ -20590,21 +20817,22 @@
       "ivry publications"
     ],
     "id_list": [
-      "sha1:a269985c4ba57c8c87545beeff90bd96e2a47ecb",
-      "dup_sha1:d32e21c0f9c82cd94eaa4c753133ca99a5e378bc",
+      "sha1:5020720628146963bfb84e3394612b1b09cb7628",
+      "dup_sha1:91c57af99a7c340381f14fa7c05125d679c87749",
       "doi:10.1016/s0166-4115(96)x8047-6",
       "url:http://dx.doi.org/10.1016/s0166-4115(96)x8047-6",
       "url:https://linkinghub.elsevier.com/retrieve/pii/S0166411596X80476"
     ],
-    "incomplete": 1,
+    "incomplete": 0,
     "labels": [],
     "owner": "778D449898E211EC881CD318FB271251",
+    "pages": "257-280",
     "published": {
       "year": "1996"
     },
-    "pubtype": "PP_ARTICLE",
-    "sha1": "a269985c4ba57c8c87545beeff90bd96e2a47ecb",
-    "title": "Time, internal clocks, and movement",
+    "pubtype": "PP_BOOK_CHAPTER",
+    "sha1": "5020720628146963bfb84e3394612b1b09cb7628",
+    "title": "Exploring the domain of the cerebellar timing system",
     "url": [
       "https://linkinghub.elsevier.com/retrieve/pii/S0166411596X80476",
       "http://dx.doi.org/10.1016/s0166-4115(96)x8047-6"
@@ -21024,7 +21252,7 @@
         "article_pdf": 1,
         "created": 1751222783.897,
         "filesize": 2494322,
-        "filename": "All Papers/Other/1995_ivry_r_and_hazeltine_r_e_ - 1995_ivry_r_and_hazeltine_r_e_.pdf",
+        "filename": "All Papers/I/Ivry, R. B., & Hazeltine, R.E. 1995 - Perception and production of tempo ... across a range of durations - evidence for a common timing mechanism.pdf",
         "source_filename": "1995_ivry_r_and_hazeltine_r_e_.pdf",
         "pub_id": "68c7c3aa-2996-4c8d-aee6-71b92d534879",
         "mimeType": "application/pdf",
@@ -21032,20 +21260,46 @@
         "s3_md5": "ccc059a7f108dfb6fe76cbcdb5a339b7"
       }
     ],
-    "citekey": "noauthor_undated-xr",
+    "author": [
+      {
+        "collective": "Ivry, R. B., & Hazeltine, R.E.",
+        "formatted": "Ivry, R. B., & Hazeltine, R.E.",
+        "initials": ""
+      }
+    ],
+    "citedByLink": "http://scholar.google.com/scholar?hl=en&lr=&num=30&cites=http://dx.doi.org/10.1037//0096-1523.21.1.3",
+    "citekey": "Ivry-R-B-Hazeltine-RE1995-oq",
     "created": 1751222783.793,
+    "doi": "10.1037//0096-1523.21.1.3",
+    "dup_sha1": "bad64dda848a7547b85e48f3c58f4932346bdeb9",
     "folders": [
       "2be42804-adb1-4867-87ff-9d438a7d6d1a"
     ],
     "foldersNamed": [
       "ivry publications"
     ],
-    "id_list": [],
-    "incomplete": 1,
+    "id_list": [
+      "sha1:7a46da8b167cf6de62a920b8f95d03cdf41735bf",
+      "dup_sha1:bad64dda848a7547b85e48f3c58f4932346bdeb9",
+      "doi:10.1037//0096-1523.21.1.3",
+      "url:http://dx.doi.org/10.1037//0096-1523.21.1.3"
+    ],
+    "incomplete": 0,
+    "issue": "1",
+    "journal": "Journal of experimental psychology. Human perception and performance",
     "labels": [],
     "owner": "778D449898E211EC881CD318FB271251",
-    "pubtype": "PP_MISC",
-    "title": "1995_ivry_r_and_hazeltine_r_e_"
+    "pages": "3-18",
+    "published": {
+      "year": "1995"
+    },
+    "pubtype": "PP_ARTICLE",
+    "sha1": "7a46da8b167cf6de62a920b8f95d03cdf41735bf",
+    "title": "Perception and production of temporal intervals across a range of durations: evidence for a common timing mechanism",
+    "url": [
+      "http://dx.doi.org/10.1037//0096-1523.21.1.3"
+    ],
+    "volume": "21"
   },
   {
     "_id": "f5443948-d839-4ef7-8b32-b06536941567",
@@ -21056,7 +21310,7 @@
         "article_pdf": 1,
         "created": 1751222783.747,
         "filesize": 372222,
-        "filename": "All Papers/Other/1995_papka_ivry_l_m - 1995_papka_ivry_l_m.pdf",
+        "filename": "All Papers/P/Papka, M., Ivry, R. B., & Woodruff-Pa... 1995 - Selective disruption of eyeblink classical conditioning by concurrent tapping.pdf",
         "source_filename": "1995_papka_ivry_l_m.pdf",
         "pub_id": "f5443948-d839-4ef7-8b32-b06536941567",
         "mimeType": "application/pdf",
@@ -21064,20 +21318,46 @@
         "s3_md5": "48863ec541b9b5baa9d982c3e090b0ce"
       }
     ],
-    "citekey": "noauthor_undated-ql",
+    "author": [
+      {
+        "collective": "Papka, M., Ivry, R. B., & Woodruff-Pak, D. S.",
+        "formatted": "Papka, M., Ivry, R. B., & Woodruff-Pak, D. S.",
+        "initials": ""
+      }
+    ],
+    "citedByLink": "http://scholar.google.com/scholar?hl=en&lr=&num=30&cites=http://dx.doi.org/10.1097/00001756-199507310-00007",
+    "citekey": "Papka-M-Ivry-R-B-Woodruff-Pak-D-S1995-fx",
     "created": 1751222783.712,
+    "doi": "10.1097/00001756-199507310-00007",
+    "dup_sha1": "c5bbbbc3c7884624566b1da6d5638f67d8dcd1fb",
     "folders": [
       "2be42804-adb1-4867-87ff-9d438a7d6d1a"
     ],
     "foldersNamed": [
       "ivry publications"
     ],
-    "id_list": [],
-    "incomplete": 1,
+    "id_list": [
+      "sha1:6e944c6cfb5f5d1c50930182d7948f6832437d23",
+      "dup_sha1:c5bbbbc3c7884624566b1da6d5638f67d8dcd1fb",
+      "doi:10.1097/00001756-199507310-00007",
+      "url:http://dx.doi.org/10.1097/00001756-199507310-00007"
+    ],
+    "incomplete": 0,
+    "issue": "11",
+    "journal": "Neuroreport: An International Journal for the Rapid Communication of Research in Neuroscience",
     "labels": [],
     "owner": "778D449898E211EC881CD318FB271251",
-    "pubtype": "PP_MISC",
-    "title": "1995_papka_ivry_l_m"
+    "pages": "1493-1497",
+    "published": {
+      "year": "1995"
+    },
+    "pubtype": "PP_ARTICLE",
+    "sha1": "6e944c6cfb5f5d1c50930182d7948f6832437d23",
+    "title": "Selective disruption of eyeblink classical conditioning by concurrent tapping",
+    "url": [
+      "http://dx.doi.org/10.1097/00001756-199507310-00007"
+    ],
+    "volume": "6"
   },
   {
     "_id": "689bc576-25fa-0cee-9519-5fb48c1b4f16",
@@ -21307,7 +21587,7 @@
         "article_pdf": 1,
         "created": 1751222780.175,
         "filesize": 2206672,
-        "filename": "All Papers/Other/1992_ivry_r_and_cohen_a_aymmet - 1992_ivry_r_and_cohen_a_aymmet.pdf",
+        "filename": "All Papers/I/Ivry, R. B., & Cohen, A. 1992 - Asymmetry in visual search for targets defined by differences in movement speed.pdf",
         "source_filename": "1992_ivry_r_and_cohen_a_aymmet.pdf",
         "pub_id": "788fbd73-0f54-4b30-846d-5c671bbe8702",
         "mimeType": "application/pdf",
@@ -21315,20 +21595,49 @@
         "s3_md5": "ed09aad1cea17fb19c22bd9a8fc3a0df"
       }
     ],
-    "citekey": "noauthor_undated-bp",
+    "author": [
+      {
+        "collective": "Ivry, R. B., & Cohen, A.",
+        "formatted": "Ivry, R. B., & Cohen, A.",
+        "initials": ""
+      }
+    ],
+    "citedByLink": "http://scholar.google.com/scholar?hl=en&lr=&num=30&cites=http://dx.doi.org/10.1037/0096-1523.18.4.1045",
+    "citekey": "Ivry-R-B-Cohen-A1992-rc",
     "created": 1751222780.099,
+    "doi": "10.1037/0096-1523.18.4.1045",
+    "dup_sha1": "f9e8891b580ace1e904370f220c9845365379b1f",
     "folders": [
       "2be42804-adb1-4867-87ff-9d438a7d6d1a"
     ],
     "foldersNamed": [
       "ivry publications"
     ],
-    "id_list": [],
-    "incomplete": 1,
+    "id_list": [
+      "sha1:4526c6d67c5c71756602d5b310a381e1723f285c",
+      "dup_sha1:f9e8891b580ace1e904370f220c9845365379b1f",
+      "doi:10.1037/0096-1523.18.4.1045",
+      "url:http://dx.doi.org/10.1037/0096-1523.18.4.1045"
+    ],
+    "incomplete": 0,
+    "issn": "0096-1523",
+    "issn_alt": "1939-1277",
+    "issue": "4",
+    "journal": "J. Exp. Psychol. Hum. Percept. Perform.",
+    "journalfull": "Journal of experimental psychology. Human perception and performance",
     "labels": [],
     "owner": "778D449898E211EC881CD318FB271251",
-    "pubtype": "PP_MISC",
-    "title": "1992_ivry_r_and_cohen_a_aymmet"
+    "pages": "1045-1057",
+    "published": {
+      "year": "1992"
+    },
+    "pubtype": "PP_ARTICLE",
+    "sha1": "4526c6d67c5c71756602d5b310a381e1723f285c",
+    "title": "Asymmetry in visual search for targets defined by differences in movement speed",
+    "url": [
+      "http://dx.doi.org/10.1037/0096-1523.18.4.1045"
+    ],
+    "volume": "18"
   },
   {
     "_id": "9702670b-7a1b-4b06-b049-44224b80cfee",
@@ -21443,7 +21752,7 @@
         "article_pdf": 1,
         "created": 1751222764.456,
         "filesize": 10884714,
-        "filename": "All Papers/Other/1990_ivry_r_and_cohen_a_dissoc - 1990_ivry_r_and_cohen_a_dissoc.pdf",
+        "filename": "All Papers/I/Ivry, R. B., & Cohen, A. 1990 - Dissociation of short- and long-range apparent motion in visual search.pdf",
         "source_filename": "1990_ivry_r_and_cohen_a_dissoc.pdf",
         "pub_id": "93e47853-9770-44a7-aa8c-bd26c48e8dcc",
         "mimeType": "application/pdf",
@@ -21451,20 +21760,39 @@
         "s3_md5": "bba14c37df1a26997ac6da8322703a64"
       }
     ],
-    "citekey": "noauthor_undated-bk",
+    "author": [
+      {
+        "collective": "Ivry, R. B., & Cohen, A.",
+        "formatted": "Ivry, R. B., & Cohen, A.",
+        "initials": ""
+      }
+    ],
+    "citekey": "Ivry-R-B-Cohen-A1990-vf",
     "created": 1751222764.41,
+    "dup_sha1": "6491505680cd4ba7c502d550480fe05c985fadaf",
     "folders": [
       "2be42804-adb1-4867-87ff-9d438a7d6d1a"
     ],
     "foldersNamed": [
       "ivry publications"
     ],
-    "id_list": [],
-    "incomplete": 1,
+    "id_list": [
+      "sha1:09e54ae54e3f0c446566039515c444bbab4f4991",
+      "dup_sha1:6491505680cd4ba7c502d550480fe05c985fadaf"
+    ],
+    "incomplete": 0,
+    "issue": "2",
+    "journal": "ournal of Experimental Psychology: Human Perception and Performance",
     "labels": [],
     "owner": "778D449898E211EC881CD318FB271251",
-    "pubtype": "PP_MISC",
-    "title": "1990_ivry_r_and_cohen_a_dissoc"
+    "pages": "317-331",
+    "published": {
+      "year": "1990"
+    },
+    "pubtype": "PP_ARTICLE",
+    "sha1": "09e54ae54e3f0c446566039515c444bbab4f4991",
+    "title": "Dissociation of short- and long-range apparent motion in visual search",
+    "volume": "16"
   },
   {
     "_id": "b5e5d199-b8a1-46cf-b0b6-00c7f576d8dd",
@@ -21475,7 +21803,7 @@
         "article_pdf": 1,
         "created": 1751222763.495,
         "filesize": 8078734,
-        "filename": "All Papers/Other/1991_ivry_r_and_diener_h_c_imp - 1991_ivry_r_and_diener_h_c_imp.pdf",
+        "filename": "All Papers/I/Ivry, R. B., & Diener, H. C. 1991 - Impaired velocity perception in patients with lesions of the cerebellum.pdf",
         "source_filename": "1991_ivry_r_and_diener_h_c_imp.pdf",
         "pub_id": "b5e5d199-b8a1-46cf-b0b6-00c7f576d8dd",
         "mimeType": "application/pdf",
@@ -21483,20 +21811,46 @@
         "s3_md5": "16c8359d015593833cbd6fad03d3a985"
       }
     ],
-    "citekey": "noauthor_undated-kv",
+    "author": [
+      {
+        "collective": "Ivry, R. B., & Diener, H. C.",
+        "formatted": "Ivry, R. B., & Diener, H. C.",
+        "initials": ""
+      }
+    ],
+    "citedByLink": "http://scholar.google.com/scholar?hl=en&lr=&num=30&cites=http://dx.doi.org/10.1162/jocn.1991.3.4.355",
+    "citekey": "Ivry-R-B-Diener-H-C1991-qr",
     "created": 1751222763.448,
+    "doi": "10.1162/jocn.1991.3.4.355",
+    "dup_sha1": "0471c53b8a8f79b69a2bf92ef5838aa540f0b9ea",
     "folders": [
       "2be42804-adb1-4867-87ff-9d438a7d6d1a"
     ],
     "foldersNamed": [
       "ivry publications"
     ],
-    "id_list": [],
-    "incomplete": 1,
+    "id_list": [
+      "sha1:a0214287db2fe8c3f03b395dcf06d9a47db3b4ba",
+      "dup_sha1:0471c53b8a8f79b69a2bf92ef5838aa540f0b9ea",
+      "doi:10.1162/jocn.1991.3.4.355",
+      "url:http://dx.doi.org/10.1162/jocn.1991.3.4.355"
+    ],
+    "incomplete": 0,
+    "issue": "4",
+    "journal": "Journal of cognitive neuroscience",
     "labels": [],
     "owner": "778D449898E211EC881CD318FB271251",
-    "pubtype": "PP_MISC",
-    "title": "1991_ivry_r_and_diener_h_c_imp"
+    "pages": "355-366",
+    "published": {
+      "year": "1991"
+    },
+    "pubtype": "PP_ARTICLE",
+    "sha1": "a0214287db2fe8c3f03b395dcf06d9a47db3b4ba",
+    "title": "Impaired velocity perception in patients with lesions of the cerebellum",
+    "url": [
+      "http://dx.doi.org/10.1162/jocn.1991.3.4.355"
+    ],
+    "volume": "3"
   },
   {
     "_id": "d5795719-7701-4108-9fb0-399cfdcc50ac",
@@ -21507,7 +21861,7 @@
         "article_pdf": 1,
         "created": 1751222761.933,
         "filesize": 18880119,
-        "filename": "All Papers/Other/1986_ivry_forceandtiming - 1986_ivry_forceandtiming.pdf",
+        "filename": "All Papers/I/Ivry 1986 - Force and Timing Components of the Motor Program.pdf",
         "source_filename": "1986_ivry_forceandtiming.pdf",
         "pub_id": "d5795719-7701-4108-9fb0-399cfdcc50ac",
         "mimeType": "application/pdf",
@@ -21515,20 +21869,40 @@
         "s3_md5": "ca42eb82c981d645e275f55d0fc96d35"
       }
     ],
-    "citekey": "noauthor_undated-wl",
+    "author": [
+      {
+        "first": "R B",
+        "last": "Ivry",
+        "initials": "RB",
+        "formatted": "Ivry RB"
+      }
+    ],
+    "citekey": "Ivry1986-ne",
     "created": 1751222761.906,
+    "dup_sha1": "93bb1a7f24acbf95737c54ba592f88fff96edcda",
     "folders": [
       "2be42804-adb1-4867-87ff-9d438a7d6d1a"
     ],
     "foldersNamed": [
       "ivry publications"
     ],
-    "id_list": [],
-    "incomplete": 1,
+    "id_list": [
+      "sha1:9ed7d171b649f7d6ee19cdd0a9ddf96a10ec9b1a",
+      "dup_sha1:93bb1a7f24acbf95737c54ba592f88fff96edcda"
+    ],
+    "incomplete": 0,
+    "issue": "4",
+    "journal": "Journal of Motor Behavior",
     "labels": [],
     "owner": "778D449898E211EC881CD318FB271251",
-    "pubtype": "PP_MISC",
-    "title": "1986_ivry_forceandtiming"
+    "pages": "449-474",
+    "published": {
+      "year": "1986"
+    },
+    "pubtype": "PP_ARTICLE",
+    "sha1": "9ed7d171b649f7d6ee19cdd0a9ddf96a10ec9b1a",
+    "title": "Force and Timing Components of the Motor Program",
+    "volume": "18"
   },
   {
     "_id": "5f448243-9e5e-4a3b-8dce-15a1e602c82b",
@@ -21539,7 +21913,7 @@
         "article_pdf": 1,
         "created": 1751222761.382,
         "filesize": 12676508,
-        "filename": "All Papers/Other/1988_keeles_cohena_ivryr_liott - 1988_keeles_cohena_ivryr_liott.pdf",
+        "filename": "All Papers/K/Keele, S. W., Cohen, A., Ivry, R., Li... 1988 - Tests of a temporal theory of attentional binding.pdf",
         "source_filename": "1988_keeles_cohena_ivryr_liott.pdf",
         "pub_id": "5f448243-9e5e-4a3b-8dce-15a1e602c82b",
         "mimeType": "application/pdf",
@@ -21547,20 +21921,42 @@
         "s3_md5": "026adfeeeed2df80ce1a477596408cdf"
       }
     ],
-    "citekey": "noauthor_undated-jq",
+    "author": [
+      {
+        "collective": "Keele, S. W., Cohen, A., Ivry, R., Liotti, M., & Yee, P.",
+        "formatted": "Keele, S. W., Cohen, A., Ivry, R., Liotti, M., & Yee, P.",
+        "initials": ""
+      }
+    ],
+    "citekey": "Keele-S-W-Cohen-A-Ivry-R-Liotti-M-Yee-P1988-ah",
     "created": 1751222761.333,
+    "dup_sha1": "3eff3a16305febde176e5c3baddb88566cfb77e4",
     "folders": [
       "2be42804-adb1-4867-87ff-9d438a7d6d1a"
     ],
     "foldersNamed": [
       "ivry publications"
     ],
-    "id_list": [],
-    "incomplete": 1,
+    "id_list": [
+      "sha1:ff4488236f2198b7ea21c4c3c82aff33f3525c51",
+      "dup_sha1:3eff3a16305febde176e5c3baddb88566cfb77e4"
+    ],
+    "incomplete": 0,
+    "issn": "0096-1523",
+    "issn_alt": "1939-1277",
+    "issue": "3",
+    "journal": "J. Exp. Psychol. Hum. Percept. Perform.",
+    "journalfull": "Journal of experimental psychology. Human perception and performance",
     "labels": [],
     "owner": "778D449898E211EC881CD318FB271251",
-    "pubtype": "PP_MISC",
-    "title": "1988_keeles_cohena_ivryr_liott"
+    "pages": "444-452",
+    "published": {
+      "year": "1988"
+    },
+    "pubtype": "PP_ARTICLE",
+    "sha1": "ff4488236f2198b7ea21c4c3c82aff33f3525c51",
+    "title": "Tests of a temporal theory of attentional binding",
+    "volume": "14"
   },
   {
     "_id": "fcc8efff-7898-0b89-bdda-80fc83f71df3",
