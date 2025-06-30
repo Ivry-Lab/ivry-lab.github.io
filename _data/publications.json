@@ -383,93 +383,6 @@
     "volume": "85"
   },
   {
-    "_id": "6af9508a-c371-0d6f-8f27-31371ea33f7e",
-    "attachments": [
-      {
-        "_id": "2fe10df2-9dad-437c-b7b9-9f8d295ae1da",
-        "owner": "778D449898E211EC881CD318FB271251",
-        "article_pdf": 1,
-        "created": 1751222894.778,
-        "filesize": 1914356,
-        "filename": "All Papers/T/Tsay et al. - The Effect of Visual Uncertainty on Implicit Sensorimotor Adaptation.pdf",
-        "source_filename": "unknown_mlmcfinal.pdf",
-        "pub_id": "6af9508a-c371-0d6f-8f27-31371ea33f7e",
-        "mimeType": "application/pdf",
-        "md5": "e308d21f2499927f58982fa8c8be3e1d",
-        "s3_md5": "e308d21f2499927f58982fa8c8be3e1d"
-      }
-    ],
-    "author": [
-      {
-        "initials": "J",
-        "first": "Jonathan",
-        "level": "1.0 familyLast",
-        "bak": "Jonathan Tsay",
-        "formatted": "Tsay J",
-        "last": "Tsay"
-      },
-      {
-        "initials": "G",
-        "first": "Guy",
-        "level": "1.0 familyLast",
-        "bak": "Guy Avraham",
-        "formatted": "Avraham G",
-        "last": "Avraham"
-      },
-      {
-        "initials": "H",
-        "first": "Hyosub",
-        "level": "1.0 familyLast",
-        "bak": "Hyosub Kim",
-        "formatted": "Kim H",
-        "last": "Kim"
-      },
-      {
-        "initials": "D",
-        "first": "Darius",
-        "level": "1.0 familyLast",
-        "bak": "Darius Parvin",
-        "formatted": "Parvin D",
-        "last": "Parvin"
-      },
-      {
-        "initials": "Z",
-        "first": "Zixuan",
-        "level": "1.0 familyLast",
-        "bak": "Zixuan Wang",
-        "formatted": "Wang Z",
-        "last": "Wang"
-      },
-      {
-        "initials": "R",
-        "first": "Richard",
-        "level": "1.0 familyLast",
-        "bak": "Richard Ivry",
-        "formatted": "Ivry R",
-        "last": "Ivry"
-      }
-    ],
-    "citekey": "Tsay_undated-as",
-    "created": 1751222894.348,
-    "dup_sha1": "e0d0d2387cdc7efd2a3bb7125ad8221421e00422",
-    "folders": [
-      "2be42804-adb1-4867-87ff-9d438a7d6d1a"
-    ],
-    "foldersNamed": [
-      "ivry publications"
-    ],
-    "id_list": [
-      "sha1:6934bb73cbb466fa463779fd99e11433866a9893",
-      "dup_sha1:e0d0d2387cdc7efd2a3bb7125ad8221421e00422"
-    ],
-    "incomplete": 0,
-    "labels": [],
-    "owner": "778D449898E211EC881CD318FB271251",
-    "pubtype": "PP_MISC",
-    "sha1": "6934bb73cbb466fa463779fd99e11433866a9893",
-    "title": "The Effect of Visual Uncertainty on Implicit Sensorimotor Adaptation"
-  },
-  {
     "_id": "31d34fed-78ee-0777-b09f-33d5f4d573c0",
     "abstract": "AbstractGoal-directed movements can fail due to errors in our perceptual and motor systems. While these errors may arise from random noise within these sources, they also reflect systematic motor biases that vary with the location of the target. The origin of these systematic biases remains controversial. Drawing on data from an extensive array of reaching tasks conducted over the past 30 years, we evaluated the merits of various computational models regarding the origin of motor biases. Contrary to previous theories, we show that motor biases do not arise from systematic errors associated with the sensed hand position during motor planning or from the biomechanical constraints imposed during motor execution. Rather, motor biases are primarily caused by a misalignment between eye-centric and the body-centric representations of position. This model can account for motor biases across a wide range of contexts, encompassing movements with the right versus left hand, proximal and distal effectors, visible and occluded starting positions, as well as before and after sensorimotor adaptation.",
     "attachments": [
@@ -10479,7 +10392,7 @@
         "article_pdf": 1,
         "created": 1751222808.013,
         "filesize": 1027660,
-        "filename": "All Papers/I/Insts - Experiencing the future - the influence of self-initiation.pdf",
+        "filename": "All Papers/V/Verstynen, T., Oliver, M., & Ivry, R. B. 2010 - Experiencing the future - The influence of self-initiation on temporal perception.pdf",
         "source_filename": "2010_verstynen_oliver_ivryspac.pdf",
         "pub_id": "ca870d01-30b4-097a-823a-fc8ab6c5ac37",
         "mimeType": "application/pdf",
@@ -10489,17 +10402,15 @@
     ],
     "author": [
       {
-        "initials": "T",
-        "first": "True",
-        "level": "1.0 familyLast",
-        "bak": "true insts",
-        "formatted": "Insts T",
-        "last": "Insts"
+        "collective": "Verstynen, T., Oliver, M., & Ivry, R. B.",
+        "formatted": "Verstynen, T., Oliver, M., & Ivry, R. B.",
+        "initials": ""
       }
     ],
-    "citekey": "Insts_undated-cz",
+    "booktitle": "Space and Time in Perception and Action",
+    "citekey": "Verstynen-T-Oliver-M-Ivry-R-B2010-cf",
     "created": 1751222807.967,
-    "dup_sha1": "0f36defcf91c326b1e6770733c84eceedd8e11a9",
+    "dup_sha1": "72bc7ad110b9ba4c5494f90e0a8da01ecc65b2df",
     "folders": [
       "2be42804-adb1-4867-87ff-9d438a7d6d1a"
     ],
@@ -10507,15 +10418,20 @@
       "ivry publications"
     ],
     "id_list": [
-      "sha1:701c9aa21df1d947717307b034d7ecf5602818ba",
-      "dup_sha1:0f36defcf91c326b1e6770733c84eceedd8e11a9"
+      "sha1:39e71d0d83a75c045948b4a874edf4d8ce977a69",
+      "dup_sha1:72bc7ad110b9ba4c5494f90e0a8da01ecc65b2df"
     ],
     "incomplete": 0,
     "labels": [],
     "owner": "778D449898E211EC881CD318FB271251",
-    "pubtype": "PP_MISC",
-    "sha1": "701c9aa21df1d947717307b034d7ecf5602818ba",
-    "title": "Experiencing the future: the influence of self-initiation"
+    "pages": "164–180",
+    "published": {
+      "year": "2010"
+    },
+    "publisher": "Cambridge University Press",
+    "pubtype": "PP_BOOK_CHAPTER",
+    "sha1": "39e71d0d83a75c045948b4a874edf4d8ce977a69",
+    "title": "Experiencing the future: The influence of self-initiation on temporal perception"
   },
   {
     "_id": "34afcf42-1ad1-0369-abbd-8d3918ef1d8b",
@@ -13181,7 +13097,7 @@
         "article_pdf": 1,
         "created": 1751222804.994,
         "filesize": 205452,
-        "filename": "All Papers/D/Diedrichsen et al. - Independenton-linecontrolofthetwohandsduring bimanualreaching.pdf",
+        "filename": "All Papers/D/Diedrichsen, J., Nambisan, R., Kenner... 2004 - Independent on-line control of the two hands during bimanual reaching.pdf",
         "source_filename": "2004_diedrichsen_et_al_the_eur.pdf",
         "pub_id": "01572096-f28d-0396-8bbc-5327191d7bac",
         "mimeType": "application/pdf",
@@ -13191,41 +13107,16 @@
     ],
     "author": [
       {
-        "initials": "J",
-        "first": "Jorn",
-        "level": "1.0 familyLast",
-        "bak": "Jorn Diedrichsen",
-        "formatted": "Diedrichsen J",
-        "last": "Diedrichsen"
-      },
-      {
-        "initials": "R",
-        "first": "Rohit",
-        "level": "1.0 familyLast",
-        "bak": "Rohit Nambisan",
-        "formatted": "Nambisan R",
-        "last": "Nambisan"
-      },
-      {
-        "initials": "SW",
-        "first": "Steve W W",
-        "level": "2.3",
-        "bak": "Steve WW. Kennerley",
-        "formatted": "Kennerley SW",
-        "last": "Kennerley"
-      },
-      {
-        "initials": "RB",
-        "first": "Richard B",
-        "level": "2.1",
-        "bak": "Richard B. Ivry",
-        "formatted": "Ivry RB",
-        "last": "Ivry"
+        "collective": "Diedrichsen, J., Nambisan, R., Kennerley, S. W., & Ivry, R. B.",
+        "formatted": "Diedrichsen, J., Nambisan, R., Kennerley, S. W., & Ivry, R. B.",
+        "initials": ""
       }
     ],
-    "citekey": "Diedrichsen_undated-pi",
+    "citedByLink": "http://scholar.google.com/scholar?hl=en&lr=&num=30&cites=http://dx.doi.org/10.1111/j.1460-9568.2004.03242.x",
+    "citekey": "Diedrichsen-J-Nambisan-R-Kennerley-S-W-Ivry-R-B2004-lz",
     "created": 1751222804.933,
-    "dup_sha1": "b7d48e97a90139279af851a2274791eb55570740",
+    "doi": "10.1111/j.1460-9568.2004.03242.x",
+    "dup_sha1": "773807839318d70626b05182f21c519d12f87dd0",
     "folders": [
       "2be42804-adb1-4867-87ff-9d438a7d6d1a"
     ],
@@ -13233,15 +13124,27 @@
       "ivry publications"
     ],
     "id_list": [
-      "sha1:1f7ca15023f90068b1bed4a5a6ae5b4cd68b9803",
-      "dup_sha1:b7d48e97a90139279af851a2274791eb55570740"
+      "sha1:620637ab15c9e6f118acb7cff62b61d097d925cd",
+      "dup_sha1:773807839318d70626b05182f21c519d12f87dd0",
+      "doi:10.1111/j.1460-9568.2004.03242.x",
+      "url:http://dx.doi.org/10.1111/j.1460-9568.2004.03242.x"
     ],
     "incomplete": 0,
+    "issue": "6",
+    "journal": "The European journal of neuroscience",
     "labels": [],
     "owner": "778D449898E211EC881CD318FB271251",
-    "pubtype": "PP_MISC",
-    "sha1": "1f7ca15023f90068b1bed4a5a6ae5b4cd68b9803",
-    "title": "Independenton-linecontrolofthetwohandsduring bimanualreaching"
+    "pages": "1643–1652",
+    "published": {
+      "year": "2004"
+    },
+    "pubtype": "PP_ARTICLE",
+    "sha1": "620637ab15c9e6f118acb7cff62b61d097d925cd",
+    "title": "Independent on-line control of the two hands during bimanual reaching",
+    "url": [
+      "http://dx.doi.org/10.1111/j.1460-9568.2004.03242.x"
+    ],
+    "volume": "19"
   },
   {
     "_id": "732333a9-79fa-043c-a228-e67541e41a34",
