@@ -1,5 +1,1664 @@
 [
   {
+    "_id": "756357f2-b389-0d28-8005-ee6d62642a28",
+    "abstract": "Abstract In the past decade, there has been major interest in understanding the role of transcriptomics in the functional and anatomical layout of the human brain. To date, almost all of the work linking transcriptomics to human brain function and structure has been restricted to the cerebral cortex. The culmination of this work has identified transcriptomics as an important shared principle that can tie together function, structure, and gene expression. However, largely missing from this work is the subcortex - namely the cerebellum. Here, we investigate whether transcriptomics offer a link between function and structure in the human cerebellum, using gene expression data from post-mortem cerebella and multi-modal brain atlases. We find that transcriptomic gradients from a sparse subset of genes align with a macroanatomical - rather than a functional - parcellation of the cerebellum, and the transition of the main gradient occurs at the horizontal fissure for the group, as well as individual cerebella. Conversely, when filtering for cortex-specific genes, there is an alignment with continuous functional gradients of the cerebellum, but not discrete parcellated areas.",
+    "accessed": {
+      "year": "2025",
+      "month": "7",
+      "day": "29"
+    },
+    "attachments": [
+      {
+        "_id": "3131b4e8-4667-4404-a930-68b374a2ac96",
+        "mimeType": "application/pdf",
+        "pub_id": "756357f2-b389-0d28-8005-ee6d62642a28",
+        "source_filename": "imag_a_00494.pdf",
+        "filename": "All Papers/K/King et al. 2025 - Transcriptomic gradients of the human cerebellum.pdf",
+        "md5": "debf4e67157333dfbfc0113cc884ec2c",
+        "article_pdf": 1,
+        "filesize": 3332745,
+        "created": 1753826506.7659998,
+        "s3_md5": "debf4e67157333dfbfc0113cc884ec2c"
+      }
+    ],
+    "author": [
+      {
+        "last": "King",
+        "first": "Leana",
+        "orcid": "0000-0002-6338-3614",
+        "initials": "L",
+        "formatted": "King L"
+      },
+      {
+        "last": "King",
+        "first": "Maedbh",
+        "initials": "M",
+        "formatted": "King M"
+      },
+      {
+        "last": "Zhen",
+        "first": "Zonglei",
+        "initials": "Z",
+        "formatted": "Zhen Z"
+      },
+      {
+        "last": "Ivry",
+        "first": "Richard B",
+        "initials": "RB",
+        "formatted": "Ivry RB"
+      },
+      {
+        "last": "Weiner",
+        "first": "Kevin S",
+        "initials": "KS",
+        "formatted": "Weiner KS"
+      }
+    ],
+    "autoCleaned": 1,
+    "citedByLink": "http://scholar.google.com/scholar?hl=en&lr=&num=30&cites=http://dx.doi.org/10.1162/imag_a_00494",
+    "citekey": "King2025-rq",
+    "copyright": "https://creativecommons.org/licenses/by/4.0/",
+    "created": 1753826503.368,
+    "doi": "10.1162/imag_a_00494",
+    "dup_sha1": "6d49afa102c807abc9e1a904847f7be277e9c532",
+    "folders": [
+      "2be42804-adb1-4867-87ff-9d438a7d6d1a"
+    ],
+    "foldersNamed": [
+      "ivry publications"
+    ],
+    "id_list": [
+      "sha1:b0232a120cfa24f5730a62042c8e1122d8a16fa5",
+      "dup_sha1:6d49afa102c807abc9e1a904847f7be277e9c532",
+      "doi:10.1162/imag_a_00494",
+      "url:http://dx.doi.org/10.1162/imag_a_00494",
+      "url:https://dx.doi.org/10.1162/imag_a_00494",
+      "url:https://direct.mit.edu/imag/article/doi/10.1162/imag_a_00494/127974/Transcriptomic-gradients-of-the-human-cerebellum",
+      "url:https://direct.mit.edu/imag/article-pdf/doi/10.1162/imag_a_00494/2503332/imag_a_00494.pdf"
+    ],
+    "incomplete": 0,
+    "issn": "2837-6056",
+    "journal": "Imaging Neurosci. (Camb.)",
+    "journalfull": "Imaging neuroscience (Cambridge, Mass.)",
+    "labels": [],
+    "language": "en",
+    "owner": "778D449898E211EC881CD318FB271251",
+    "pages": "imag_a_00494",
+    "pdf_restricted": 0,
+    "published": {
+      "year": "2025",
+      "month": "2",
+      "day": "18"
+    },
+    "publisher": "MIT Press",
+    "pubtype": "PP_ARTICLE",
+    "sha1": "b0232a120cfa24f5730a62042c8e1122d8a16fa5",
+    "subfolders": [
+      "All Papers/K"
+    ],
+    "title": "Transcriptomic gradients of the human cerebellum",
+    "url": [
+      "https://dx.doi.org/10.1162/imag_a_00494",
+      "http://dx.doi.org/10.1162/imag_a_00494",
+      "https://direct.mit.edu/imag/article/doi/10.1162/imag_a_00494/127974/Transcriptomic-gradients-of-the-human-cerebellum",
+      "https://direct.mit.edu/imag/article-pdf/doi/10.1162/imag_a_00494/2503332/imag_a_00494.pdf"
+    ],
+    "volume": "3"
+  },
+  {
+    "_id": "97cb75e8-698e-0d02-bae7-37bc544d6add",
+    "abstract": "Abstract Non-invasive brain stimulation (NIBS) provides a method for safely perturbing brain activity, and has been employed in basic research to test hypotheses concerning brainbehavior relationships with increasing translational applications. We introduce and evaluate a novel subthreshold NIBS method: kilohertz transcranial magnetic perturbation (kTMP). kTMP is a magnetic induction method that delivers continuous kHz-frequency cortical electric fields (E-fields) which may be amplitude-modulated to potentially mimic electrical activity at endogenous frequencies. We used TMS to compare the amplitude of motor-evoked potentials (MEPs) in a hand muscle before and after kTMP. In Experiment 1, we applied kTMP for 10 min over motor cortex to induce an E-field amplitude of approximately 2.0 V/m, comparing the effects of waveforms at frequencies of 2.0, 3.5, or 5.0 kHz. In Experiments 2 and 3 we used two forms of amplitude-modulated kTMP with a carrier frequency at 3.5 kHz and modulation frequencies of either 20 or 140 Hz. The only percept associated with kTMP was an auditory tone, making kTMP amenable for doubleblind experimentation. Relative to sham stimulation, non-modulated kTMP at 2.0 and 3.5 kHz resulted in an increase in cortical excitability, with Experiments 2 and 3 providing a replication of this effect for the 3.5 kHz condition. Although amplitude-modulated kTMP increased MEP amplitude compared to sham, no enhancement was found compared to non-modulated kTMP. kTMP opens a new experimental NIBS space inducing relatively large amplitude subthreshold E-fields able to increase cortical excitability with minimal sensation.",
+    "accessed": {
+      "year": "2025",
+      "month": "7",
+      "day": "29"
+    },
+    "attachments": [
+      {
+        "_id": "b14617c3-8199-4d29-b131-e741a98660d4",
+        "mimeType": "application/pdf",
+        "pub_id": "97cb75e8-698e-0d02-bae7-37bc544d6add",
+        "source_filename": "92088-v2.pdf",
+        "filename": "All Papers/L/Labruna et al. 2024 - Kilohertz transcranial magnetic perturbation (kTMP) - A new non-invasive method to modulate cortical excitability.pdf",
+        "md5": "67cbd135fe5540e809745defff2bf947",
+        "article_pdf": 1,
+        "filesize": 1824583,
+        "created": 1753826412.241,
+        "s3_md5": "67cbd135fe5540e809745defff2bf947"
+      }
+    ],
+    "author": [
+      {
+        "last": "Labruna",
+        "first": "Ludovica",
+        "initials": "L",
+        "formatted": "Labruna L"
+      },
+      {
+        "last": "Merrick",
+        "first": "Christina",
+        "initials": "C",
+        "formatted": "Merrick C"
+      },
+      {
+        "last": "Peterchev",
+        "first": "Angel V",
+        "orcid": "0000-0002-4385-065X",
+        "initials": "AV",
+        "formatted": "Peterchev AV"
+      },
+      {
+        "last": "Inglis",
+        "first": "Ben",
+        "initials": "B",
+        "formatted": "Inglis B"
+      },
+      {
+        "last": "Ivry",
+        "first": "Richard B",
+        "initials": "RB",
+        "formatted": "Ivry RB"
+      },
+      {
+        "last": "Sheltraw",
+        "first": "Daniel",
+        "initials": "D",
+        "formatted": "Sheltraw D"
+      }
+    ],
+    "autoCleaned": 1,
+    "citedByLink": "http://scholar.google.com/scholar?hl=en&lr=&num=30&cites=http://dx.doi.org/10.7554/elife.92088.2",
+    "citekey": "Labruna2024-ao",
+    "created": 1753826409.9120002,
+    "doi": "10.7554/elife.92088.2",
+    "dup_sha1": "4d5169f594bd9e00bac81d3e41ccff790d18022f",
+    "folders": [
+      "2be42804-adb1-4867-87ff-9d438a7d6d1a"
+    ],
+    "foldersNamed": [
+      "ivry publications"
+    ],
+    "id_list": [
+      "sha1:8f2b46f50b1f7171704fb55c3312d766edc64814",
+      "dup_sha1:4d5169f594bd9e00bac81d3e41ccff790d18022f",
+      "doi:10.7554/elife.92088.2",
+      "url:http://dx.doi.org/10.7554/elife.92088.2",
+      "url:http://dx.doi.org/10.7554/eLife.92088.2",
+      "url:https://elifesciences.org/reviewed-preprints/92088",
+      "url:https://elifesciences.org/reviewed-preprints/92088v2",
+      "url:https://github.com/elifesciences/enhanced-preprints-data/raw/master/data/92088/v2/92088-v2.pdf"
+    ],
+    "incomplete": 0,
+    "journal": "eLife",
+    "labels": [],
+    "language": "en",
+    "owner": "778D449898E211EC881CD318FB271251",
+    "pdf_restricted": 0,
+    "published": {
+      "year": "2024",
+      "month": "9",
+      "day": "20"
+    },
+    "publisher": "eLife Sciences Publications, Ltd",
+    "pubtype": "PP_PREPRINT",
+    "sha1": "8f2b46f50b1f7171704fb55c3312d766edc64814",
+    "subfolders": [
+      "All Papers/L"
+    ],
+    "title": "Kilohertz transcranial magnetic perturbation (kTMP): A new non-invasive method to modulate cortical excitability",
+    "url": [
+      "http://dx.doi.org/10.7554/eLife.92088.2",
+      "http://dx.doi.org/10.7554/elife.92088.2",
+      "https://elifesciences.org/reviewed-preprints/92088",
+      "https://elifesciences.org/reviewed-preprints/92088v2",
+      "https://github.com/elifesciences/enhanced-preprints-data/raw/master/data/92088/v2/92088-v2.pdf"
+    ]
+  },
+  {
+    "_id": "05a1e5ac-7a87-0afe-958a-923841de52ca",
+    "abstract": "Working memory (WM) holds information temporarily in mind, imparting the ability to guide behavior based on internal goals rather than external stimuli. However, humans often maintain WM content for a future task while performing more immediate actions. Consequently, transient WM representations may inadvertently influence ongoing (but unrelated) motor behavior. Here, we tested the impact of WM on adult human action execution and examined how the attentional or \"activation\" state of WM content modulates that impact. In 3 dual-task experiments, verbal WM for directional words influenced the trajectory and speed of hand movements performed during WM maintenance. This movement bias was also modulated by the attentional state of the WM content. Prioritized WM content strongly influenced actions during WM maintenance, while de-prioritized WM content was less influential. In summary, WM can unintentionally shape ongoing motor behavior, but the behavioral relevance of WM content determines the degree of influence on motor output. (PsycInfo Database Record (c) 2020 APA, all rights reserved).",
+    "accessed": {
+      "year": "2025",
+      "month": "7",
+      "day": "29"
+    },
+    "attachments": [
+      {
+        "_id": "dc33bdb9-3374-4c63-8046-dd036baa6436",
+        "mimeType": "application/pdf",
+        "pub_id": "05a1e5ac-7a87-0afe-958a-923841de52ca",
+        "source_filename": "qt8z67r7mw.pdf",
+        "filename": "All Papers/M/Miller et al. 2020 - Prioritized verbal working memory content biases ongoing action.pdf",
+        "md5": "01a42885e8bb74a0ad89577b382d5036",
+        "article_pdf": 1,
+        "filesize": 1459829,
+        "created": 1753826391.657,
+        "s3_md5": "01a42885e8bb74a0ad89577b382d5036"
+      }
+    ],
+    "author": [
+      {
+        "first": "Jacob A",
+        "last": "Miller",
+        "initials": "JA",
+        "orcid": "0000-0001-6599-7321",
+        "formatted": "Miller JA"
+      },
+      {
+        "first": "Anastasia",
+        "last": "Kiyonaga",
+        "initials": "A",
+        "orcid": "0000-0002-7586-3447",
+        "formatted": "Kiyonaga A"
+      },
+      {
+        "first": "Richard B",
+        "last": "Ivry",
+        "initials": "RB",
+        "orcid": "0000-0003-4728-5130",
+        "formatted": "Ivry RB"
+      },
+      {
+        "first": "Mark",
+        "last": "D'Esposito",
+        "initials": "M",
+        "formatted": "D'Esposito M"
+      }
+    ],
+    "autoCleaned": 1,
+    "citedByLink": "http://scholar.google.com/scholar?hl=en&lr=&num=30&cites=http://dx.doi.org/10.1037/xhp0000868",
+    "citekey": "Miller2020-rg",
+    "created": 1753826385.799,
+    "doi": "10.1037/xhp0000868",
+    "dup_sha1": "db156339cc525735e07e41a3a541ee316f435def",
+    "folders": [
+      "2be42804-adb1-4867-87ff-9d438a7d6d1a"
+    ],
+    "foldersNamed": [
+      "ivry publications"
+    ],
+    "id_list": [
+      "sha1:da860615aee8eba767fc39eacdf034b3b3e63581",
+      "dup_sha1:db156339cc525735e07e41a3a541ee316f435def",
+      "doi:10.1037/xhp0000868",
+      "pmc:PMC8808692",
+      "pmid:33090834",
+      "url:http://dx.doi.org/10.1037/xhp0000868",
+      "url:https://pmc.ncbi.nlm.nih.gov/articles/PMC8808692/",
+      "url:https://www.ncbi.nlm.nih.gov/pubmed/33090834",
+      "url:https://doi.apa.org/doi/10.1037/xhp0000868",
+      "url:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8808692",
+      "url:https://pmc.ncbi.nlm.nih.gov/articles/PMC8808692/pdf/nihms-1675816.pdf"
+    ],
+    "incomplete": 0,
+    "issn": "0096-1523",
+    "issn_alt": "1939-1277",
+    "issue": "12",
+    "journal": "J. Exp. Psychol. Hum. Percept. Perform.",
+    "journalfull": "Journal of experimental psychology. Human perception and performance",
+    "kind": "Research Article",
+    "labels": [],
+    "language": "en",
+    "owner": "778D449898E211EC881CD318FB271251",
+    "pages": "1443-1457",
+    "pdf_restricted": 0,
+    "pmc": "PMC8808692",
+    "pmid": "33090834",
+    "published": {
+      "year": "2020",
+      "month": "10",
+      "day": "22"
+    },
+    "publisher": "American Psychological Association (APA)",
+    "pubtype": "PP_ARTICLE",
+    "sha1": "da860615aee8eba767fc39eacdf034b3b3e63581",
+    "subfolders": [
+      "All Papers/M"
+    ],
+    "title": "Prioritized verbal working memory content biases ongoing action",
+    "url": [
+      "http://dx.doi.org/10.1037/xhp0000868",
+      "https://doi.apa.org/doi/10.1037/xhp0000868",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC8808692/",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC8808692/pdf/nihms-1675816.pdf",
+      "https://www.ncbi.nlm.nih.gov/pubmed/33090834",
+      "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8808692"
+    ],
+    "volume": "46"
+  },
+  {
+    "_id": "7f37e891-f559-099e-8c8b-297f1e8bb219",
+    "abstract": "BACKGROUND: Transcranial direct current stimulation (tDCS) has become an important non-invasive brain stimulation tool for basic human brain physiology and cognitive neuroscience, with potential applications in cognitive and motor rehabilitation. To date, tDCS studies have employed a fixed stimulation level, without considering the impact of individual anatomy and physiology on the efficacy of the stimulation. This approach contrasts with the standard procedure for transcranial magnetic stimulation (TMS) where stimulation levels are usually tailored on an individual basis. OBJECTIVE/HYPOTHESIS: The present study tests whether the efficacy of tDCS-induced changes in corticospinal excitability varies as a function of individual differences in sensitivity to TMS. METHODS: We performed an archival review to examine the relationship between the TMS intensity required to induce 1 mV motor-evoked potentials (MEPs) and the efficacy of (fixed-intensity) tDCS over the primary motor cortex (M1). For the latter, we examined tDCS-induced changes in corticospinal excitability, operationalized by comparing MEPs before and after anodal or cathodal tDCS. For comparison, we performed a similar analysis on data sets in which MEPs had been obtained before and after paired associative stimulation (PAS), a non-invasive brain stimulation technique in which the stimulation intensity is adjusted on an individual basis. RESULTS: MEPs were enhanced following anodal tDCS. This effect was larger in participants more sensitive to TMS as compared to those less sensitive to TMS, with sensitivity defined as the TMS intensity required to produce MEPs amplitudes of the size of 1 mV. While MEPs were attenuated following cathodal tDCS, the magnitude of this attenuation was not related to TMS sensitivity nor was there a relationship between TMS sensitivity and responsiveness to PAS. CONCLUSION: Accounting for variation in individual sensitivity to non-invasive brain stimulation may enhance the utility of tDCS as a tool for understanding brain-behavior interactions and as a method for clinical interventions.",
+    "accessed": {
+      "year": "2025",
+      "month": "7",
+      "day": "29"
+    },
+    "attachments": [
+      {
+        "_id": "f26bbf60-d9e7-4387-be9c-bd225cd6f966",
+        "mimeType": "application/pdf",
+        "pub_id": "7f37e891-f559-099e-8c8b-297f1e8bb219",
+        "source_filename": "nihms720212.pdf",
+        "filename": "All Papers/L/Labruna et al. 2016 - Efficacy of anodal transcranial direct current stimulation is related to sensitivity to transcranial magnetic stimulation.pdf",
+        "md5": "0bee9f2904d158a86b6b3a34d25e926b",
+        "article_pdf": 1,
+        "filesize": 801681,
+        "created": 1753826366.263,
+        "s3_md5": "0bee9f2904d158a86b6b3a34d25e926b"
+      }
+    ],
+    "author": [
+      {
+        "first": "Ludovica",
+        "last": "Labruna",
+        "initials": "L",
+        "formatted": "Labruna L"
+      },
+      {
+        "first": "Asif",
+        "last": "Jamil",
+        "initials": "A",
+        "formatted": "Jamil A"
+      },
+      {
+        "first": "Shane",
+        "last": "Fresnoza",
+        "initials": "S",
+        "formatted": "Fresnoza S"
+      },
+      {
+        "first": "Giorgi",
+        "last": "Batsikadze",
+        "initials": "G",
+        "formatted": "Batsikadze G"
+      },
+      {
+        "first": "Min-Fang",
+        "last": "Kuo",
+        "initials": "MF",
+        "formatted": "Kuo MF"
+      },
+      {
+        "first": "Benjamin",
+        "last": "Vanderschelden",
+        "initials": "B",
+        "formatted": "Vanderschelden B"
+      },
+      {
+        "first": "Richard B",
+        "last": "Ivry",
+        "initials": "RB",
+        "formatted": "Ivry RB"
+      },
+      {
+        "first": "Michael A",
+        "last": "Nitsche",
+        "initials": "MA",
+        "formatted": "Nitsche MA"
+      }
+    ],
+    "autoCleaned": 1,
+    "citedByLink": "http://scholar.google.com/scholar?hl=en&lr=&num=30&cites=http://dx.doi.org/10.1016/j.brs.2015.08.014",
+    "citekey": "Labruna2016-ht",
+    "created": 1753826358.2770002,
+    "doi": "10.1016/j.brs.2015.08.014",
+    "dup_sha1": "c19d5a50be98c2f1cd07be1f3bfc0140760212ab",
+    "folders": [
+      "2be42804-adb1-4867-87ff-9d438a7d6d1a"
+    ],
+    "foldersNamed": [
+      "ivry publications"
+    ],
+    "id_list": [
+      "sha1:aa60ee6dbbc3f041b42c06693aaf417ec88ee6a9",
+      "dup_sha1:c19d5a50be98c2f1cd07be1f3bfc0140760212ab",
+      "doi:10.1016/j.brs.2015.08.014",
+      "pmc:PMC4724228",
+      "pmid:26493498",
+      "url:http://dx.doi.org/10.1016/j.brs.2015.08.014",
+      "url:https://pubmed.ncbi.nlm.nih.gov/26493498/",
+      "url:https://www.ncbi.nlm.nih.gov/pubmed/26493498",
+      "url:https://linkinghub.elsevier.com/retrieve/pii/S1935861X15011158",
+      "url:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4724228"
+    ],
+    "incomplete": 0,
+    "issn": "1876-4754",
+    "issn_alt": "1935-861X",
+    "issue": "1",
+    "journal": "Brain Stimul.",
+    "journalfull": "Brain stimulation",
+    "keywords": "Intensity; TMS; Variability; tDCS",
+    "kind": "Research Article",
+    "labels": [],
+    "language": "en",
+    "owner": "778D449898E211EC881CD318FB271251",
+    "pages": "8-15",
+    "pdf_restricted": 0,
+    "pmc": "PMC4724228",
+    "pmid": "26493498",
+    "published": {
+      "year": "2016",
+      "month": "1"
+    },
+    "publisher": "Elsevier BV",
+    "pubtype": "PP_ARTICLE",
+    "sha1": "aa60ee6dbbc3f041b42c06693aaf417ec88ee6a9",
+    "subfolders": [
+      "All Papers/L"
+    ],
+    "title": "Efficacy of anodal transcranial direct current stimulation is related to sensitivity to transcranial magnetic stimulation",
+    "url": [
+      "http://dx.doi.org/10.1016/j.brs.2015.08.014",
+      "https://linkinghub.elsevier.com/retrieve/pii/S1935861X15011158",
+      "https://pubmed.ncbi.nlm.nih.gov/26493498/",
+      "https://www.ncbi.nlm.nih.gov/pubmed/26493498",
+      "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4724228"
+    ],
+    "volume": "9"
+  },
+  {
+    "_id": "87a9a548-559a-0ce9-993f-9999ba0983a2",
+    "abstract": "In two experiments, Brookshire, Ivry, and Casasanto (2010) showed that words with positive and negative emotional valence can activate spatial representations with a high degree of automaticity, but also that this activation is highly context dependent. Lebois, Wilson-Mendenhall, and Barsalou (2015) reported that they \"aimed to replicate\" our study but found only null results in the \"Brookshire et al. replication\" conditions. Here we express concerns about three aspects of this paper. First, the study was not an attempt to replicate ours; it was a different study that adapted our method. Second, Lebois et al. did not accurately represent our theoretical position. Third, Lebois et al.'s main conclusion, that spatial congruity effects depend on the task context, was not supported by their data. Despite these concerns, we agree with Lebois et al.'s overall message that spatial aspects of words' meanings are activated differently in different contexts. This was a main conclusion of our study as well.",
+    "accessed": {
+      "year": "2025",
+      "month": "7",
+      "day": "29"
+    },
+    "attachments": [
+      {
+        "_id": "99fbf6b5-654c-4d96-9bbd-74eced5d02d8",
+        "mimeType": "application/pdf",
+        "pub_id": "87a9a548-559a-0ce9-993f-9999ba0983a2",
+        "source_filename": "Cognitive Science - 2015 - Casasanto - Meaning is Not a Reflex  Context Dependence of Spatial Congruity Effects.pdf",
+        "filename": "All Papers/C/Casasanto et al. 2015 - Meaning is not a reflex - Context dependence of spatial congruity effects.pdf",
+        "md5": "2da167db562147fcc96e01953e000915",
+        "article_pdf": 1,
+        "filesize": 82193,
+        "created": 1753826317.921,
+        "s3_md5": "2da167db562147fcc96e01953e000915"
+      }
+    ],
+    "author": [
+      {
+        "first": "Daniel",
+        "last": "Casasanto",
+        "initials": "D",
+        "formatted": "Casasanto D"
+      },
+      {
+        "first": "Geoffrey",
+        "last": "Brookshire",
+        "initials": "G",
+        "formatted": "Brookshire G"
+      },
+      {
+        "first": "Richard",
+        "last": "Ivry",
+        "initials": "R",
+        "formatted": "Ivry R"
+      }
+    ],
+    "autoCleaned": 1,
+    "citedByLink": "http://scholar.google.com/scholar?hl=en&lr=&num=30&cites=http://dx.doi.org/10.1111/cogs.12294",
+    "citekey": "Casasanto2015-ge",
+    "copyright": "http://onlinelibrary.wiley.com/termsAndConditions#vor",
+    "created": 1753826316.4780002,
+    "doi": "10.1111/cogs.12294",
+    "dup_sha1": "3bebf2d87ff319b0f56805ef48bae1421d84758c",
+    "folders": [
+      "2be42804-adb1-4867-87ff-9d438a7d6d1a"
+    ],
+    "foldersNamed": [
+      "ivry publications"
+    ],
+    "id_list": [
+      "sha1:2502d6d312e2e79d86650e4dbdf67ce988893ac8",
+      "dup_sha1:3bebf2d87ff319b0f56805ef48bae1421d84758c",
+      "doi:10.1111/cogs.12294",
+      "pmid:26432077",
+      "url:http://dx.doi.org/10.1111/cogs.12294",
+      "url:https://pubmed.ncbi.nlm.nih.gov/26432077/",
+      "url:https://www.ncbi.nlm.nih.gov/pubmed/26432077",
+      "url:https://onlinelibrary.wiley.com/doi/10.1111/cogs.12294"
+    ],
+    "incomplete": 0,
+    "issn": "1551-6709",
+    "issn_alt": "0364-0213",
+    "issue": "8",
+    "journal": "Cogn. Sci.",
+    "journalfull": "Cognitive science",
+    "keywords": "Conceptual metaphor; Context; Replication; Space; Valence",
+    "kind": "Commentary",
+    "labels": [],
+    "language": "en",
+    "owner": "778D449898E211EC881CD318FB271251",
+    "pages": "1979-1986",
+    "pmid": "26432077",
+    "published": {
+      "year": "2015",
+      "month": "11"
+    },
+    "publisher": "Wiley",
+    "pubtype": "PP_ARTICLE",
+    "sha1": "2502d6d312e2e79d86650e4dbdf67ce988893ac8",
+    "subfolders": [
+      "All Papers/C"
+    ],
+    "title": "Meaning is not a reflex: Context dependence of spatial congruity effects",
+    "url": [
+      "http://dx.doi.org/10.1111/cogs.12294",
+      "https://onlinelibrary.wiley.com/doi/10.1111/cogs.12294",
+      "https://pubmed.ncbi.nlm.nih.gov/26432077/",
+      "https://www.ncbi.nlm.nih.gov/pubmed/26432077"
+    ],
+    "volume": "39",
+    "xref": [
+      {
+        "type": "CommentIn",
+        "pmid": "26423324"
+      },
+      {
+        "type": "CommentOn",
+        "pmid": "25243925"
+      }
+    ]
+  },
+  {
+    "_id": "72738e77-67bf-00b6-aaf4-869ecf7aa76c",
+    "abstract": "Understanding actions based on either language or action observation is presumed to involve the motor system, reflecting the engagement of an embodied conceptual network. We examined how linguistic and gestural information were integrated in a series of cross-domain priming studies. We varied the task demands across three experiments in which symbolic gestures served as primes for verbal targets. Primes were clips of symbolic gestures taken from a rich set of emblems. Participants responded by making a lexical decision to the target (Experiment 1), naming the target (Experiment 2), or performing a semantic relatedness judgment (Experiment 3). The magnitude of semantic priming was larger in the relatedness judgment and lexical decision tasks compared to the naming task. Priming was also observed in a control task in which the primes were pictures of landscapes with conceptually related verbal targets. However, for these stimuli, the amount of priming was similar across the three tasks. We propose that action observation triggers an automatic, pre-lexical spread of activation, consistent with the idea that language-gesture integration occurs in an obligatory and automatic fashion.",
+    "attachments": [
+      {
+        "_id": "56df5547-990d-4747-85c8-316547053214",
+        "mimeType": "application/pdf",
+        "pub_id": "72738e77-67bf-00b6-aaf4-869ecf7aa76c",
+        "source_filename": "s00426-012-0475-3.pdf",
+        "filename": "All Papers/V/Vainiger et al. 2014 - Beyond words - evidence for automatic language-gesture integration of symbolic gestures but not dynamic landscapes.pdf",
+        "md5": "b21ebfe6b754c13e76dab44382c27b9f",
+        "article_pdf": 1,
+        "filesize": 772344,
+        "created": 1753826285.081,
+        "s3_md5": "b21ebfe6b754c13e76dab44382c27b9f"
+      }
+    ],
+    "author": [
+      {
+        "first": "Dana",
+        "last": "Vainiger",
+        "initials": "D",
+        "formatted": "Vainiger D"
+      },
+      {
+        "first": "Ludovica",
+        "last": "Labruna",
+        "initials": "L",
+        "formatted": "Labruna L"
+      },
+      {
+        "first": "Richard B",
+        "last": "Ivry",
+        "initials": "RB",
+        "formatted": "Ivry RB"
+      },
+      {
+        "first": "Michal",
+        "last": "Lavidor",
+        "initials": "M",
+        "formatted": "Lavidor M"
+      }
+    ],
+    "autoCleaned": 1,
+    "citedByLink": "http://scholar.google.com/scholar?hl=en&lr=&num=30&cites=http://dx.doi.org/10.1007/s00426-012-0475-3",
+    "citekey": "Vainiger2014-as",
+    "created": 1753826281.3560002,
+    "doi": "10.1007/s00426-012-0475-3",
+    "dup_sha1": "06c4640b062a12ce51abd314ae09202a87893d7b",
+    "folders": [
+      "2be42804-adb1-4867-87ff-9d438a7d6d1a"
+    ],
+    "foldersNamed": [
+      "ivry publications"
+    ],
+    "id_list": [
+      "sha1:af72afd67441f6561fea0a7a784460c20f3bcfa8",
+      "dup_sha1:06c4640b062a12ce51abd314ae09202a87893d7b",
+      "doi:10.1007/s00426-012-0475-3",
+      "pmid:23307151",
+      "url:http://dx.doi.org/10.1007/s00426-012-0475-3",
+      "url:https://psycnet.apa.org/fulltext/2013-01076-001.pdf",
+      "url:https://psycnet.apa.org/record/2013-01076-001",
+      "url:http://link.springer.com/10.1007/s00426-012-0475-3",
+      "url:https://www.ncbi.nlm.nih.gov/pubmed/23307151"
+    ],
+    "incomplete": 0,
+    "issn": "0340-0727",
+    "issn_alt": "1430-2772",
+    "issue": "1",
+    "journal": "Psychol. Res.",
+    "journalfull": "Psychological research",
+    "kind": "Research Article",
+    "labels": [],
+    "language": "en",
+    "owner": "778D449898E211EC881CD318FB271251",
+    "pages": "55-69",
+    "pdf_restricted": 0,
+    "pmid": "23307151",
+    "published": {
+      "year": "2014",
+      "month": "1"
+    },
+    "publisher": "Springer Science and Business Media LLC",
+    "pubtype": "PP_ARTICLE",
+    "sha1": "af72afd67441f6561fea0a7a784460c20f3bcfa8",
+    "subfolders": [
+      "All Papers/V"
+    ],
+    "title": "Beyond words: evidence for automatic language-gesture integration of symbolic gestures but not dynamic landscapes",
+    "url": [
+      "http://dx.doi.org/10.1007/s00426-012-0475-3",
+      "http://link.springer.com/10.1007/s00426-012-0475-3",
+      "https://psycnet.apa.org/record/2013-01076-001",
+      "https://psycnet.apa.org/fulltext/2013-01076-001.pdf",
+      "https://www.ncbi.nlm.nih.gov/pubmed/23307151"
+    ],
+    "volume": "78"
+  },
+  {
+    "_id": "32b9eaa7-b3d7-01b3-b1ac-94c9f59c595b",
+    "abstract": "Language processing and comprehension can be understood in terms of both linguistic and non-linguistic processes. To make a decision regarding the meaning of complex linguistic inputs such as idiomatic expressions, one has to perform multiple complex cognitive operations such as prediction, selection and inhibition. In the current study, we used transcranial direct current stimulation (tDCS) to test the hypotheses that (I) a prefrontal cognitive control network is involved in directing decisions required for the comprehension of idioms, and (II) that this prefrontal control may be biased by motivational mechanisms. Participants were randomly allocated to one of two stimulation groups (LH anodal/RH cathodal or RH anodal/LH Cathodal). Over a one-week interval, participants were tested twice, completing a semantic decision task after either receiving active or sham stimulation. The semantic decision task required participants to judge the relatedness of an idiom and a target word, with the idiom being predictable or not. The target word was either figuratively related, literally related, or unrelated to the idiom. Each participant also completed a trait motivation questionnaire and a control task. After DC stimulation, a general deceleration in reaction times to targets was found. In addition, the results indicate that the neural enhancement of a left lateralized prefrontal network improved performance when participants had to make decisions to figurative targets of highly predictable idioms, whereas the neural enhancement of the opposite network improved participants' performance to literal targets of unpredictable idioms. These effects were more pronounced in individuals rated as being most sensitive to reward likelihood. The results are discussed in terms of cognitive control over semantic processing.",
+    "accessed": {
+      "year": "2025",
+      "month": "7",
+      "day": "29"
+    },
+    "author": [
+      {
+        "first": "Tal",
+        "last": "Sela",
+        "initials": "T",
+        "formatted": "Sela T"
+      },
+      {
+        "first": "Richard B",
+        "last": "Ivry",
+        "initials": "RB",
+        "formatted": "Ivry RB"
+      },
+      {
+        "first": "Michal",
+        "last": "Lavidor",
+        "initials": "M",
+        "formatted": "Lavidor M"
+      }
+    ],
+    "autoCleaned": 1,
+    "citedByLink": "http://scholar.google.com/scholar?hl=en&lr=&num=30&cites=http://dx.doi.org/10.1016/j.neuropsychologia.2012.05.031",
+    "citekey": "Sela2012-zt",
+    "created": 1753826026.272,
+    "doi": "10.1016/j.neuropsychologia.2012.05.031",
+    "dup_sha1": "1c28f07249b058685eb9e2b29ebc872c9b854d63",
+    "folders": [
+      "2be42804-adb1-4867-87ff-9d438a7d6d1a"
+    ],
+    "foldersNamed": [
+      "ivry publications"
+    ],
+    "id_list": [
+      "sha1:a291b9dffd7844e0cc4c642ee71101418fe6ab5b",
+      "dup_sha1:1c28f07249b058685eb9e2b29ebc872c9b854d63",
+      "doi:10.1016/j.neuropsychologia.2012.05.031",
+      "pmid:22687558",
+      "url:http://dx.doi.org/10.1016/j.neuropsychologia.2012.05.031",
+      "url:https://pubmed.ncbi.nlm.nih.gov/22687558/",
+      "url:https://www.ncbi.nlm.nih.gov/pubmed/22687558",
+      "url:https://linkinghub.elsevier.com/retrieve/pii/S0028393212002333"
+    ],
+    "incomplete": 0,
+    "issn": "1873-3514",
+    "issn_alt": "0028-3932",
+    "issue": "9",
+    "journal": "Neuropsychologia",
+    "journalfull": "Neuropsychologia",
+    "kind": "Research Article",
+    "labels": [],
+    "language": "en",
+    "owner": "778D449898E211EC881CD318FB271251",
+    "pages": "2271-2280",
+    "pdf_restricted": 1,
+    "pmid": "22687558",
+    "published": {
+      "year": "2012",
+      "month": "7"
+    },
+    "publisher": "Elsevier BV",
+    "pubtype": "PP_ARTICLE",
+    "sha1": "a291b9dffd7844e0cc4c642ee71101418fe6ab5b",
+    "subfolders": [
+      "All Papers/S"
+    ],
+    "title": "Prefrontal control during a semantic decision task that involves idiom comprehension: a transcranial direct current stimulation study",
+    "url": [
+      "http://dx.doi.org/10.1016/j.neuropsychologia.2012.05.031",
+      "https://linkinghub.elsevier.com/retrieve/pii/S0028393212002333",
+      "https://pubmed.ncbi.nlm.nih.gov/22687558/",
+      "https://www.ncbi.nlm.nih.gov/pubmed/22687558"
+    ],
+    "volume": "50"
+  },
+  {
+    "_id": "2b446ef7-f983-0859-a2d6-b26ee2879a72",
+    "abstract": "Visual objects are perceived correctly only if their features are identified and then bound together. Illusory conjunctions result when feature identification is correct but an error occurs during feature binding. A new model is proposed that assumes feature binding errors occur because of uncertain …",
+    "accessed": {
+      "year": "2025",
+      "month": "7",
+      "day": "29"
+    },
+    "author": [
+      {
+        "last": "Ashby",
+        "first": "F Gregory",
+        "initials": "FG",
+        "formatted": "Ashby FG"
+      },
+      {
+        "last": "Prinzmetal",
+        "first": "William",
+        "initials": "W",
+        "formatted": "Prinzmetal W"
+      },
+      {
+        "last": "Ivry",
+        "first": "Richard",
+        "initials": "R",
+        "formatted": "Ivry R"
+      },
+      {
+        "last": "Maddox",
+        "first": "W Todd",
+        "initials": "WT",
+        "formatted": "Maddox WT"
+      }
+    ],
+    "autoCleaned": 1,
+    "citedByLink": "http://scholar.google.com/scholar?hl=en&lr=&num=30&cites=http://dx.doi.org/10.1037/0033-295x.103.1.165",
+    "citekey": "Ashby1996-rc",
+    "created": 1753825402.074,
+    "doi": "10.1037/0033-295x.103.1.165",
+    "dup_sha1": "61675742d297040e8b8a6cb8bb74f59596dd54c0",
+    "folders": [
+      "2be42804-adb1-4867-87ff-9d438a7d6d1a"
+    ],
+    "foldersNamed": [
+      "ivry publications"
+    ],
+    "id_list": [
+      "sha1:6cc1124c4496c805d7edd87ae2e6a0927ac3965e",
+      "dup_sha1:61675742d297040e8b8a6cb8bb74f59596dd54c0",
+      "doi:10.1037/0033-295x.103.1.165",
+      "pmid:8650297",
+      "url:http://dx.doi.org/10.1037/0033-295x.103.1.165",
+      "url:https://pubmed.ncbi.nlm.nih.gov/8650297/",
+      "url:https://www.ncbi.nlm.nih.gov/pubmed/8650297",
+      "url:https://doi.apa.org/doi/10.1037/0033-295X.103.1.165"
+    ],
+    "incomplete": 0,
+    "issn": "0033-295X",
+    "issn_alt": "1939-1471",
+    "issue": "1",
+    "journal": "Psychol. Rev.",
+    "journalfull": "Psychological review",
+    "labels": [],
+    "owner": "778D449898E211EC881CD318FB271251",
+    "pages": "165-192",
+    "pdf_restricted": 1,
+    "pmid": "8650297",
+    "published": {
+      "year": "1996",
+      "month": "1"
+    },
+    "publisher": "American Psychological Association (APA)",
+    "pubtype": "PP_ARTICLE",
+    "sha1": "6cc1124c4496c805d7edd87ae2e6a0927ac3965e",
+    "subfolders": [
+      "All Papers/A"
+    ],
+    "title": "A formal theory of feature binding in object perception",
+    "url": [
+      "http://dx.doi.org/10.1037/0033-295x.103.1.165",
+      "https://doi.apa.org/doi/10.1037/0033-295X.103.1.165",
+      "https://pubmed.ncbi.nlm.nih.gov/8650297/",
+      "https://www.ncbi.nlm.nih.gov/pubmed/8650297"
+    ],
+    "volume": "103"
+  },
+  {
+    "_id": "f663ff5b-ee9c-0116-b976-03ee5810b1fc",
+    "abstract": "The brain localization of motor sequence learning was studied in normal subjects with positron emission tomography. Subjects performed a serial reaction time (SRT) task by responding to a series of stimuli that occurred at four different spatial positions. The stimulus locations were either determined randomly or according to a 6-element sequence that cycled continuously. The SRT task was performed under two conditions. With attentional interference from a secondary counting task there was no development of awareness of the sequence. Learning-related increases of cerebral blood flow were located in contralateral motor effector areas including motor cortex, supplementary motor area, and putamen, consistent with the hypothesis that nondeclarative motor learning occurs in cerebral areas that control limb movements. Additional cortical sites included the rostral prefrontal cortex and parietal cortex. The SRT learning task was then repeated with a new sequence and no attentional interference. In this condition, 7 of 12 subjects developed awareness of the sequence. Learning-related blood flow increases were present in right dorsolateral prefrontal cortex, right premotor cortex, right ventral putamen, and biparieto-occipital cortex. The right dorsolateral prefrontal and parietal areas have been previously implicated in spatial working memory and right prefrontal cortex is also implicated in retrieval tasks of verbal episodic memory. Awareness of the sequence at the end of learning was associated with greater activity in bilateral parietal, superior temporal, and right premotor cortex. Motor learning can take place in different cerebral areas, contingent on the attentional demands of the task.",
+    "accessed": {
+      "year": "2025",
+      "month": "7",
+      "day": "29"
+    },
+    "attachments": [
+      {
+        "_id": "20654460-2f00-4b0a-9465-5685fb0b552f",
+        "mimeType": "application/pdf",
+        "pub_id": "f663ff5b-ee9c-0116-b976-03ee5810b1fc",
+        "source_filename": "jocn.1995.7.4.497.pdf",
+        "filename": "All Papers/G/Grafton et al. 1995 - Functional mapping of sequence learning in normal humans.pdf",
+        "md5": "6af1e8924ac56707ec6b3f65b7fdd9bc",
+        "article_pdf": 1,
+        "filesize": 2082638,
+        "created": 1753825372.353,
+        "s3_md5": "6af1e8924ac56707ec6b3f65b7fdd9bc"
+      }
+    ],
+    "author": [
+      {
+        "first": "S T",
+        "last": "Grafton",
+        "initials": "ST",
+        "formatted": "Grafton ST"
+      },
+      {
+        "first": "E",
+        "last": "Hazeltine",
+        "initials": "E",
+        "formatted": "Hazeltine E"
+      },
+      {
+        "first": "R",
+        "last": "Ivry",
+        "initials": "R",
+        "formatted": "Ivry R"
+      }
+    ],
+    "autoCleaned": 1,
+    "citedByLink": "http://scholar.google.com/scholar?hl=en&lr=&num=30&cites=http://dx.doi.org/10.1162/jocn.1995.7.4.497",
+    "citekey": "Grafton1995-ix",
+    "created": 1753825369.458,
+    "doi": "10.1162/jocn.1995.7.4.497",
+    "dup_sha1": "403a75c5a130458ba6aa9eca93e740e779b6161d",
+    "folders": [
+      "2be42804-adb1-4867-87ff-9d438a7d6d1a"
+    ],
+    "foldersNamed": [
+      "ivry publications"
+    ],
+    "id_list": [
+      "sha1:311d087829da872069e033108c2c3892266dd1f5",
+      "dup_sha1:403a75c5a130458ba6aa9eca93e740e779b6161d",
+      "doi:10.1162/jocn.1995.7.4.497",
+      "pmid:23961907",
+      "url:http://dx.doi.org/10.1162/jocn.1995.7.4.497",
+      "url:https://pubmed.ncbi.nlm.nih.gov/23961907/",
+      "url:https://www.ncbi.nlm.nih.gov/pubmed/23961907",
+      "url:https://direct.mit.edu/jocn/article/7/4/497/3187/Functional-Mapping-of-Sequence-Learning-in-Normal"
+    ],
+    "incomplete": 0,
+    "issn": "0898-929X",
+    "issn_alt": "1530-8898",
+    "issue": "4",
+    "journal": "J. Cogn. Neurosci.",
+    "journalfull": "Journal of cognitive neuroscience",
+    "kind": "Research Article",
+    "labels": [],
+    "language": "en",
+    "owner": "778D449898E211EC881CD318FB271251",
+    "pages": "497-510",
+    "pdf_restricted": 0,
+    "pmid": "23961907",
+    "published": {
+      "year": "1995",
+      "season": "Fall"
+    },
+    "publisher": "MIT Press - Journals",
+    "pubtype": "PP_ARTICLE",
+    "sha1": "311d087829da872069e033108c2c3892266dd1f5",
+    "subfolders": [
+      "All Papers/G"
+    ],
+    "title": "Functional mapping of sequence learning in normal humans",
+    "url": [
+      "http://dx.doi.org/10.1162/jocn.1995.7.4.497",
+      "https://direct.mit.edu/jocn/article/7/4/497/3187/Functional-Mapping-of-Sequence-Learning-in-Normal",
+      "https://pubmed.ncbi.nlm.nih.gov/23961907/",
+      "https://www.ncbi.nlm.nih.gov/pubmed/23961907"
+    ],
+    "volume": "7"
+  },
+  {
+    "_id": "bad246d4-22ee-0a3e-9434-6d00bdf3a99d",
+    "abstract": "A probabilistic multidimensional model of location discrimination is developed and applied to data from an experiment in which subjects are required to determine whether a briefly presented horizontal and vertical bar are touching. The proposed gap-detection model assumes that errors in perception are due to variability in the perceived location and/or in the perceived length of the bars. A series of gap-detection models that allow variability only in perceived location were rejected on the basis of likelihood-ratio tests of overall goodness of fit. However, when the models were modified to account for: (a) a compression of the distance perceived between the bars (Wolford, 1975), or (b) the bisection illusion (Künnapas, 1955), excellent absolute fits to the data were obtained. A pair of models that suggests that the horizontal/vertical illusion or a response bias was operative failed. Applications of the model to more conventional object-perception experiments (e.g., the illusory-conjunction experiment) are discussed.",
+    "accessed": {
+      "year": "2025",
+      "month": "7",
+      "day": "29"
+    },
+    "attachments": [
+      {
+        "_id": "94e59e40-f782-43ee-87e0-a59f6031804b",
+        "mimeType": "application/pdf",
+        "pub_id": "bad246d4-22ee-0a3e-9434-6d00bdf3a99d",
+        "source_filename": "bf00419713.pdf",
+        "filename": "All Papers/M/Maddox et al. 1994 - A probabilistic multidimensional model of location information.pdf",
+        "md5": "f18cd0d61764e0a9b9265a23b5203a4d",
+        "article_pdf": 1,
+        "filesize": 1486086,
+        "created": 1753825315.0249999,
+        "s3_md5": "f18cd0d61764e0a9b9265a23b5203a4d"
+      }
+    ],
+    "author": [
+      {
+        "first": "W T",
+        "last": "Maddox",
+        "initials": "WT",
+        "formatted": "Maddox WT"
+      },
+      {
+        "first": "W",
+        "last": "Prinzmetal",
+        "initials": "W",
+        "formatted": "Prinzmetal W"
+      },
+      {
+        "first": "R B",
+        "last": "Ivry",
+        "initials": "RB",
+        "formatted": "Ivry RB"
+      },
+      {
+        "first": "F G",
+        "last": "Ashby",
+        "initials": "FG",
+        "formatted": "Ashby FG"
+      }
+    ],
+    "autoCleaned": 1,
+    "citedByLink": "http://scholar.google.com/scholar?hl=en&lr=&num=30&cites=http://dx.doi.org/10.1007/bf00419713",
+    "citekey": "Maddox1994-xr",
+    "created": 1753825314.507,
+    "doi": "10.1007/bf00419713",
+    "dup_sha1": "4ecaa4caee32fbd2c2d1b4363ae0af363fa61bec",
+    "folders": [
+      "2be42804-adb1-4867-87ff-9d438a7d6d1a"
+    ],
+    "foldersNamed": [
+      "ivry publications"
+    ],
+    "id_list": [
+      "sha1:d2f3149f2045b3085211b4662aa76bd0f2458582",
+      "dup_sha1:4ecaa4caee32fbd2c2d1b4363ae0af363fa61bec",
+      "doi:10.1007/bf00419713",
+      "pmid:8153245",
+      "url:http://dx.doi.org/10.1007/bf00419713",
+      "url:http://dx.doi.org/10.1007/BF00419713",
+      "url:https://link.springer.com/article/10.1007/BF00419713",
+      "url:http://link.springer.com/10.1007/BF00419713",
+      "url:https://www.ncbi.nlm.nih.gov/pubmed/8153245",
+      "url:https://link.springer.com/content/pdf/10.1007/BF00419713.pdf"
+    ],
+    "incomplete": 0,
+    "issn": "0340-0727",
+    "issn_alt": "1430-2772",
+    "issue": "2",
+    "journal": "Psychol. Res.",
+    "journalfull": "Psychological research",
+    "kind": "Research Article",
+    "labels": [],
+    "language": "en",
+    "owner": "778D449898E211EC881CD318FB271251",
+    "pages": "66-77",
+    "pdf_restricted": 0,
+    "pmid": "8153245",
+    "published": {
+      "year": "1994",
+      "month": "2"
+    },
+    "publisher": "Springer Nature",
+    "pubtype": "PP_ARTICLE",
+    "sha1": "d2f3149f2045b3085211b4662aa76bd0f2458582",
+    "subfolders": [
+      "All Papers/M"
+    ],
+    "title": "A probabilistic multidimensional model of location information",
+    "url": [
+      "http://dx.doi.org/10.1007/BF00419713",
+      "http://dx.doi.org/10.1007/bf00419713",
+      "https://link.springer.com/article/10.1007/BF00419713",
+      "http://link.springer.com/10.1007/BF00419713",
+      "https://link.springer.com/content/pdf/10.1007/BF00419713.pdf",
+      "https://www.ncbi.nlm.nih.gov/pubmed/8153245"
+    ],
+    "volume": "56"
+  },
+  {
+    "_id": "ed77f609-7b2a-0ad2-ba73-1277fbc42ec1",
+    "abstract": "This review describes some characteristics of patients with cerebellar lesions, including limb movements, changes in motor planning and disturbances in time-dependent perception. The delay in movement initiation can be explained by a delay in onset of movement-related discharge of neurons in motor cortex. Disorders of movement termination (hypermetria) are accompanied by asymmetric velocity profiles and by prolonged agonist and delayed antagonist EMG activity necessary to brake the movement. During complex movements in three-dimensional space, the cerebellum contributes to timing between single components of a movement, scales the size of muscular action, and coordinates the sequence of agonists and antagonists. The basic structure of motor programs is not generated exclusively within the cerebellum and patients with cerebellar lesions can use precuing information to improve their motor performance. Time-dependent perception in the auditory and visual domains are disturbed in patients with cerebellar lesions.",
+    "accessed": {
+      "year": "2025",
+      "month": "7",
+      "day": "29"
+    },
+    "attachments": [
+      {
+        "_id": "f995ac42-c582-4ef6-9e9b-f0897b3e302a",
+        "mimeType": "application/pdf",
+        "pub_id": "ed77f609-7b2a-0ad2-ba73-1277fbc42ec1",
+        "source_filename": "div-class-title-cerebellar-dysfunction-of-movement-and-perception-div.pdf",
+        "filename": "All Papers/D/Diener et al. 1993 - Cerebellar dysfunction of movement and perception.pdf",
+        "md5": "673d87a4db58e996c268bcaca6bb90a8",
+        "article_pdf": 1,
+        "filesize": 3008828,
+        "created": 1753825234.1,
+        "s3_md5": "673d87a4db58e996c268bcaca6bb90a8"
+      }
+    ],
+    "author": [
+      {
+        "first": "H C",
+        "last": "Diener",
+        "initials": "HC",
+        "formatted": "Diener HC"
+      },
+      {
+        "first": "J",
+        "last": "Hore",
+        "initials": "J",
+        "formatted": "Hore J"
+      },
+      {
+        "first": "R",
+        "last": "Ivry",
+        "initials": "R",
+        "formatted": "Ivry R"
+      },
+      {
+        "first": "J",
+        "last": "Dichgans",
+        "initials": "J",
+        "formatted": "Dichgans J"
+      }
+    ],
+    "autoCleaned": 1,
+    "citedByLink": "http://scholar.google.com/scholar?hl=en&lr=&num=30&cites=http://dx.doi.org/10.1017/s031716710004854x",
+    "citekey": "Diener1993-ii",
+    "created": 1753825228.918,
+    "doi": "10.1017/s031716710004854x",
+    "dup_sha1": "b7cd921d6c0a88740f6d24430101b8368f9eaaa3",
+    "folders": [
+      "2be42804-adb1-4867-87ff-9d438a7d6d1a"
+    ],
+    "foldersNamed": [
+      "ivry publications"
+    ],
+    "id_list": [
+      "sha1:7dd27c74ba47f230a97bd3702bb258740eaf9553",
+      "dup_sha1:b7cd921d6c0a88740f6d24430101b8368f9eaaa3",
+      "doi:10.1017/s031716710004854x",
+      "pmid:8334593",
+      "url:http://dx.doi.org/10.1017/s031716710004854x",
+      "url:https://pubmed.ncbi.nlm.nih.gov/8334593/",
+      "url:https://www.ncbi.nlm.nih.gov/pubmed/8334593",
+      "url:https://www.cambridge.org/core/product/identifier/S031716710004854X/type/journal_article"
+    ],
+    "incomplete": 0,
+    "issn": "0317-1671",
+    "issn_alt": "2057-0155",
+    "journal": "Can. J. Neurol. Sci.",
+    "journalfull": "The Canadian journal of neurological sciences. Le journal canadien des sciences neurologiques",
+    "kind": "Review",
+    "labels": [],
+    "language": "en",
+    "owner": "778D449898E211EC881CD318FB271251",
+    "pages": "S62-9",
+    "pdf_restricted": 0,
+    "pmid": "8334593",
+    "published": {
+      "year": "1993",
+      "month": "5"
+    },
+    "publisher": "Can J Neurol Sci",
+    "pubtype": "PP_ARTICLE",
+    "sha1": "7dd27c74ba47f230a97bd3702bb258740eaf9553",
+    "subfolders": [
+      "All Papers/D"
+    ],
+    "title": "Cerebellar dysfunction of movement and perception",
+    "url": [
+      "http://dx.doi.org/10.1017/s031716710004854x",
+      "https://www.cambridge.org/core/product/identifier/S031716710004854X/type/journal_article",
+      "https://pubmed.ncbi.nlm.nih.gov/8334593/",
+      "https://www.ncbi.nlm.nih.gov/pubmed/8334593"
+    ],
+    "volume": "20 Suppl 3"
+  },
+  {
+    "_id": "81053149-65e2-0666-b364-f419d1ae5231",
+    "abstract": "The study examined timing control in clumsy children and employed the Wing-Kristofferson (1973) model of repetitive movements in an attempt to identify the locus of timing control difficulties in clumsy children. Two groups of children classified as normal and clumsy (ages 6-7 and 9-10) performed tapping and perception of duration and loudness tasks. Results indicated that clumsy children were significantly more variable than normal children in maintaining a set rate of tapping and in accurately judging time intervals. Evidence indicated that the source of timing control problems in clumsy children may be in a central timekeeping mechanism, possibly the cerebellum.",
+    "accessed": {
+      "year": "2025",
+      "month": "7",
+      "day": "29"
+    },
+    "attachments": [
+      {
+        "_id": "04fdcbbd-414b-4daf-b864-7b7a24849faa",
+        "mimeType": "application/pdf",
+        "pub_id": "81053149-65e2-0666-b364-f419d1ae5231",
+        "source_filename": "Timing and Motor Control in Clumsy Children.pdf",
+        "filename": "All Papers/W/Williams et al. 1992 - Timing and motor control in clumsy children.pdf",
+        "md5": "db9a8a7cc0de02e6e8096bb8d89f404a",
+        "article_pdf": 1,
+        "filesize": 949971,
+        "created": 1753825217.082,
+        "s3_md5": "db9a8a7cc0de02e6e8096bb8d89f404a"
+      }
+    ],
+    "author": [
+      {
+        "first": "H G",
+        "last": "Williams",
+        "initials": "HG",
+        "formatted": "Williams HG"
+      },
+      {
+        "first": "M H",
+        "last": "Woollacott",
+        "initials": "MH",
+        "formatted": "Woollacott MH"
+      },
+      {
+        "first": "R",
+        "last": "Ivry",
+        "initials": "R",
+        "formatted": "Ivry R"
+      }
+    ],
+    "autoCleaned": 1,
+    "citedByLink": "http://scholar.google.com/scholar?hl=en&lr=&num=30&cites=http://dx.doi.org/10.1080/00222895.1992.9941612",
+    "citekey": "Williams1992-an",
+    "created": 1753825209.76,
+    "doi": "10.1080/00222895.1992.9941612",
+    "dup_sha1": "75db00a54bc7b50387809b92818988cb4f76f5a5",
+    "folders": [
+      "2be42804-adb1-4867-87ff-9d438a7d6d1a"
+    ],
+    "foldersNamed": [
+      "ivry publications"
+    ],
+    "id_list": [
+      "sha1:e1e2c8ddbf69793654db878399b27f4277e58c4b",
+      "dup_sha1:75db00a54bc7b50387809b92818988cb4f76f5a5",
+      "doi:10.1080/00222895.1992.9941612",
+      "pmid:14977616",
+      "url:http://dx.doi.org/10.1080/00222895.1992.9941612",
+      "url:https://pubmed.ncbi.nlm.nih.gov/14977616/",
+      "url:https://www.ncbi.nlm.nih.gov/pubmed/14977616",
+      "url:http://www.tandfonline.com/doi/abs/10.1080/00222895.1992.9941612"
+    ],
+    "incomplete": 0,
+    "issn": "0022-2895",
+    "issn_alt": "1940-1027",
+    "issue": "2",
+    "journal": "J. Mot. Behav.",
+    "journalfull": "Journal of motor behavior",
+    "kind": "Research Article",
+    "labels": [],
+    "language": "en",
+    "owner": "778D449898E211EC881CD318FB271251",
+    "pages": "165-172",
+    "pdf_restricted": 0,
+    "pmid": "14977616",
+    "published": {
+      "year": "1992",
+      "month": "6"
+    },
+    "publisher": "Informa UK Limited",
+    "pubtype": "PP_ARTICLE",
+    "sha1": "e1e2c8ddbf69793654db878399b27f4277e58c4b",
+    "subfolders": [
+      "All Papers/W"
+    ],
+    "title": "Timing and motor control in clumsy children",
+    "url": [
+      "http://dx.doi.org/10.1080/00222895.1992.9941612",
+      "http://www.tandfonline.com/doi/abs/10.1080/00222895.1992.9941612",
+      "https://pubmed.ncbi.nlm.nih.gov/14977616/",
+      "https://www.ncbi.nlm.nih.gov/pubmed/14977616"
+    ],
+    "volume": "24"
+  },
+  {
+    "_id": "84048484-8475-0c77-96c5-edfb2b8c186b",
+    "abstract": "//static.cambridge.org/content/id/urn%3Acambridge.org%3Aid%3Aarticle%3AS0140525X00056971/resource/name/firstPage-S0140525X00056971a.jpg",
+    "accessed": {
+      "year": "2025",
+      "month": "7",
+      "day": "29"
+    },
+    "attachments": [
+      {
+        "_id": "299e2bd3-d710-43e0-b416-22c885f65404",
+        "mimeType": "application/pdf",
+        "pub_id": "84048484-8475-0c77-96c5-edfb2b8c186b",
+        "source_filename": "[article_pdf].pdf",
+        "filename": "All Papers/P/Prinzmetal and Ivry 1989 - Damn the (behavioral) data, full steam ahead.pdf",
+        "md5": "d83f46b68c60b8c59fef48e1fad90a1f",
+        "article_pdf": 1,
+        "filesize": 7288909,
+        "created": 1753825116.714,
+        "s3_md5": "d83f46b68c60b8c59fef48e1fad90a1f"
+      }
+    ],
+    "author": [
+      {
+        "last": "Prinzmetal",
+        "first": "William",
+        "initials": "W",
+        "formatted": "Prinzmetal W"
+      },
+      {
+        "last": "Ivry",
+        "first": "Richard",
+        "initials": "R",
+        "formatted": "Ivry R"
+      }
+    ],
+    "autoCleaned": 1,
+    "citedByLink": "http://scholar.google.com/scholar?hl=en&lr=&num=30&cites=http://dx.doi.org/10.1017/s0140525x00056971",
+    "citekey": "Prinzmetal1989-ye",
+    "created": 1753825114.743,
+    "doi": "10.1017/s0140525x00056971",
+    "dup_sha1": "8989f300a584e0382dbedb5d0c639a0fc50deb9e",
+    "folders": [
+      "2be42804-adb1-4867-87ff-9d438a7d6d1a"
+    ],
+    "foldersNamed": [
+      "ivry publications"
+    ],
+    "id_list": [
+      "sha1:e136ada468d0050b43c60a52829712a19ff1d0ee",
+      "dup_sha1:8989f300a584e0382dbedb5d0c639a0fc50deb9e",
+      "doi:10.1017/s0140525x00056971",
+      "url:http://dx.doi.org/10.1017/s0140525x00056971",
+      "url:https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/damn-the-behavioral-data-full-steam-ahead/947079C7F45CB3FCC83FA5F1904684C5",
+      "url:https://www.cambridge.org/core/services/aop-cambridge-core/content/view/947079C7F45CB3FCC83FA5F1904684C5/S0140525X00056971a.pdf/div-class-title-damn-the-behavioral-data-full-steam-ahead-div.pdf",
+      "url:http://dx.doi.org/10.1017/S0140525X00056971",
+      "url:https://www.cambridge.org/core/product/identifier/S0140525X00056971/type/journal_article"
+    ],
+    "incomplete": 0,
+    "issn": "1469-1825",
+    "issn_alt": "0140-525X",
+    "issue": "3",
+    "journal": "Behav. Brain Sci.",
+    "journalfull": "The behavioral and brain sciences",
+    "labels": [],
+    "language": "en",
+    "owner": "778D449898E211EC881CD318FB271251",
+    "pages": "413-414",
+    "pdf_restricted": 0,
+    "published": {
+      "year": "1989",
+      "month": "9"
+    },
+    "publisher": "Cambridge University Press (CUP)",
+    "pubtype": "PP_ARTICLE",
+    "sha1": "e136ada468d0050b43c60a52829712a19ff1d0ee",
+    "subfolders": [
+      "All Papers/P"
+    ],
+    "title": "Damn the (behavioral) data, full steam ahead",
+    "url": [
+      "http://dx.doi.org/10.1017/S0140525X00056971",
+      "http://dx.doi.org/10.1017/s0140525x00056971",
+      "https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/damn-the-behavioral-data-full-steam-ahead/947079C7F45CB3FCC83FA5F1904684C5",
+      "https://www.cambridge.org/core/product/identifier/S0140525X00056971/type/journal_article",
+      "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/947079C7F45CB3FCC83FA5F1904684C5/S0140525X00056971a.pdf/div-class-title-damn-the-behavioral-data-full-steam-ahead-div.pdf"
+    ],
+    "volume": "12"
+  },
+  {
+    "_id": "a25fccec-a3cd-0a7b-b64b-6aa8bed4a0c6",
+    "abstract": "Six experiments investigated the preattentive segregation of line-like patterns composed of discrete elements in a background of distractors. The results indicate that other factors in addition to spatial density influence line segregation. Edge alignment, edge length and principal axis orientation also affect line segregation. Differences in the outputs of Gabor filters fail to account for the perceived segregation of the lines. Possible models of line segregation based on element grouping, feature density and search are briefly discussed.",
+    "accessed": {
+      "year": "2025",
+      "month": "7",
+      "day": "29"
+    },
+    "author": [
+      {
+        "first": "J",
+        "last": "Beck",
+        "initials": "J",
+        "formatted": "Beck J"
+      },
+      {
+        "first": "A",
+        "last": "Rosenfeld",
+        "initials": "A",
+        "formatted": "Rosenfeld A"
+      },
+      {
+        "first": "R",
+        "last": "Ivry",
+        "initials": "R",
+        "formatted": "Ivry R"
+      }
+    ],
+    "autoCleaned": 1,
+    "citedByLink": "http://scholar.google.com/scholar?hl=en&lr=&num=30&cites=http://dx.doi.org/10.1163/156856889x00068",
+    "citekey": "Beck1989-ly",
+    "created": 1753825075.684,
+    "doi": "10.1163/156856889x00068",
+    "dup_sha1": "d003fcd92fa1c41f360cede06d00c37399ef38a1",
+    "folders": [
+      "2be42804-adb1-4867-87ff-9d438a7d6d1a"
+    ],
+    "foldersNamed": [
+      "ivry publications"
+    ],
+    "id_list": [
+      "sha1:98b1ad12887eee18ccafcb1464bd7edf5ac5bace",
+      "dup_sha1:d003fcd92fa1c41f360cede06d00c37399ef38a1",
+      "doi:10.1163/156856889x00068",
+      "pmid:2487165",
+      "url:http://dx.doi.org/10.1163/156856889x00068",
+      "url:https://pubmed.ncbi.nlm.nih.gov/2487165/",
+      "url:https://www.ncbi.nlm.nih.gov/pubmed/2487165",
+      "url:https://brill.com/view/journals/sv/4/2-3/article-p75_2.xml"
+    ],
+    "incomplete": 0,
+    "issn": "0169-1015",
+    "issn_alt": "1568-5683",
+    "issue": "2-3",
+    "journal": "Spat. Vis.",
+    "journalfull": "Spatial vision",
+    "kind": "Research Article",
+    "labels": [],
+    "language": "en",
+    "owner": "778D449898E211EC881CD318FB271251",
+    "pages": "75-101",
+    "pdf_restricted": 1,
+    "pmid": "2487165",
+    "published": {
+      "year": "1989"
+    },
+    "publisher": "Brill",
+    "pubtype": "PP_ARTICLE",
+    "sha1": "98b1ad12887eee18ccafcb1464bd7edf5ac5bace",
+    "subfolders": [
+      "All Papers/B"
+    ],
+    "title": "Line segregation",
+    "url": [
+      "http://dx.doi.org/10.1163/156856889x00068",
+      "https://brill.com/view/journals/sv/4/2-3/article-p75_2.xml",
+      "https://pubmed.ncbi.nlm.nih.gov/2487165/",
+      "https://www.ncbi.nlm.nih.gov/pubmed/2487165"
+    ],
+    "volume": "4"
+  },
+  {
+    "_id": "693ee87d-cdca-0cdc-a969-f724a0aeba7e",
+    "abstract": "Metelli (1974) made an important contribution by identifying order and magnitude restrictions for a pattern of intensities and showing that when they are satisfied the perception of transparency readily occurs. These restrictions were derived from a physical model of transparency. We argue that the visual system does not use intensity information to compute indices of transmittance and reflectance analogous to what an optical engineer might do in describing a physical instance of transparency. Rather, a lightness pattern affects perceptual transparency, just as geometric properties do, through processes that impose an organization on sensory information rather than through processes that recover quantitative descriptions. In the absence of depth cues, such as stereopsis and motion parallax, the perception of transparency occurs when the lightness relations in a pattern favor the perception of a continuous boundary across x-junctions. We present evidence for two kinds of violations of the order and magnitude restrictions: simple and strong. Transparency judgments, although reduced in number, still occur for simple violations of the order and the magnitude restrictions. Transparency judgments occur relatively infrequently for strong violations. A physical model of transparency fails to capture the difference between simple and strong violations of the order and magnitude restrictions. We discuss (1) the basis for differentiating between simple and strong violations of the order and magnitude restrictions, (2) the effect simple and strong violations have on the perception of transparency, and (3) the occurrence of transparency with and without color constancy (i.e., the color seen through the transparent surface looks or fails to look the same as the color seen directly).",
+    "accessed": {
+      "year": "2025",
+      "month": "7",
+      "day": "29"
+    },
+    "attachments": [
+      {
+        "_id": "7c90bce8-d1ea-4838-8fe1-e88784f18fd1",
+        "mimeType": "application/pdf",
+        "pub_id": "693ee87d-cdca-0cdc-a969-f724a0aeba7e",
+        "source_filename": "BF03207492.pdf",
+        "filename": "All Papers/B/Beck and Ivry 1988 - On the role of figural organization in perceptual transparency.pdf",
+        "md5": "9271eb4e648f83fc740ebe8bfa070e97",
+        "article_pdf": 1,
+        "filesize": 1686793,
+        "created": 1753825049.6299999,
+        "s3_md5": "9271eb4e648f83fc740ebe8bfa070e97"
+      }
+    ],
+    "author": [
+      {
+        "first": "J",
+        "last": "Beck",
+        "initials": "J",
+        "formatted": "Beck J"
+      },
+      {
+        "first": "R",
+        "last": "Ivry",
+        "initials": "R",
+        "formatted": "Ivry R"
+      }
+    ],
+    "autoCleaned": 1,
+    "citedByLink": "http://scholar.google.com/scholar?hl=en&lr=&num=30&cites=http://dx.doi.org/10.3758/BF03207492",
+    "citekey": "Beck1988-wv",
+    "created": 1753825046.1,
+    "doi": "10.3758/BF03207492",
+    "dup_sha1": "e4075c89b22fe577c5397a72825ef5a2c71a3340",
+    "folders": [
+      "2be42804-adb1-4867-87ff-9d438a7d6d1a"
+    ],
+    "foldersNamed": [
+      "ivry publications"
+    ],
+    "id_list": [
+      "sha1:3cbcff0ae3cf92d14bb412db06eaa30ca5b1967c",
+      "dup_sha1:e4075c89b22fe577c5397a72825ef5a2c71a3340",
+      "doi:10.3758/BF03207492",
+      "pmid:3200676",
+      "url:http://dx.doi.org/10.3758/BF03207492",
+      "url:http://dx.doi.org/10.3758/bf03207492",
+      "url:https://pubmed.ncbi.nlm.nih.gov/3200676/",
+      "url:https://www.ncbi.nlm.nih.gov/pubmed/3200676",
+      "url:http://link.springer.com/10.3758/BF03207492"
+    ],
+    "incomplete": 0,
+    "issn": "0031-5117",
+    "issue": "6",
+    "journal": "Perception & psychophysics",
+    "journalfull": "Perception & psychophysics",
+    "labels": [],
+    "owner": "778D449898E211EC881CD318FB271251",
+    "pdf_restricted": 0,
+    "pmid": "3200676",
+    "published": {
+      "year": "1988",
+      "month": "12"
+    },
+    "publisher": "Percept Psychophys",
+    "pubtype": "PP_ARTICLE",
+    "sha1": "3cbcff0ae3cf92d14bb412db06eaa30ca5b1967c",
+    "subfolders": [
+      "All Papers/B"
+    ],
+    "title": "On the role of figural organization in perceptual transparency",
+    "url": [
+      "http://dx.doi.org/10.3758/bf03207492",
+      "http://dx.doi.org/10.3758/BF03207492",
+      "http://link.springer.com/10.3758/BF03207492",
+      "https://pubmed.ncbi.nlm.nih.gov/3200676/",
+      "https://www.ncbi.nlm.nih.gov/pubmed/3200676"
+    ],
+    "volume": "44"
+  },
+  {
+    "_id": "4a42d7a7-b0b9-0e3a-9b54-6257fbdbefe2",
+    "abstract": "The literature suggests that both spatial frequency components and grouping processes affect texture segregation. The experiments we report investigated texture segregation in a three-part (tripartite) pattern in which each part contains equal numbers of two different squares that are arranged in vertical stripes in the top and bottom parts and in a checkerboard in the center part. We found: (1) A difference in sign of contrast yields strong texture segregation. (2) Texture segregation is a negatively accelerated function of the ratio of the Rayleigh contrasts of the low-luminance and high-luminance squares. (3) Size and contrast are not independent attributes but can cancel each other. High spatial frequency differences are not sufficient to cause segregation in the presence of contradictory information from the low spatial frequency channels. (4) Hue is a weak feature relative to contrast. Hue differences are not sufficient to cause texture segregation in the presence of contradictory contrast information. The results of the experiments support the argument that the higher order processes in texture segregation have access to information corresponding to the outputs of the spatial frequency channels. They are qualitatively consistent with the hypothesis that tripartite segregation is primarily a function of spatial frequency components and not of grouping processes.",
+    "accessed": {
+      "year": "2025",
+      "month": "7",
+      "day": "29"
+    },
+    "author": [
+      {
+        "last": "Beck",
+        "first": "Jacob",
+        "initials": "J",
+        "formatted": "Beck J"
+      },
+      {
+        "last": "Sutter",
+        "first": "Anne",
+        "initials": "A",
+        "formatted": "Sutter A"
+      },
+      {
+        "last": "Ivry",
+        "first": "Richard",
+        "initials": "R",
+        "formatted": "Ivry R"
+      }
+    ],
+    "autoCleaned": 1,
+    "citedByLink": "http://scholar.google.com/scholar?hl=en&lr=&num=30&cites=http://dx.doi.org/10.1016/s0734-189x(87)80006-3",
+    "citekey": "Beck1987-nb",
+    "created": 1753824964.887,
+    "doi": "10.1016/s0734-189x(87)80006-3",
+    "dup_sha1": "6e99728f6d11f8f10b02f445fa9cf6f5d5a959f3",
+    "folders": [
+      "2be42804-adb1-4867-87ff-9d438a7d6d1a"
+    ],
+    "foldersNamed": [
+      "ivry publications"
+    ],
+    "id_list": [
+      "sha1:b9f1f29276a96bb8458e46bde2e42024c8050ad0",
+      "dup_sha1:6e99728f6d11f8f10b02f445fa9cf6f5d5a959f3",
+      "doi:10.1016/s0734-189x(87)80006-3",
+      "url:http://dx.doi.org/10.1016/s0734-189x(87)80006-3",
+      "url:http://dx.doi.org/10.1016/S0734-189X(87)80006-3",
+      "url:https://www.sciencedirect.com/science/article/pii/S0734189X87800063",
+      "url:https://linkinghub.elsevier.com/retrieve/pii/S0734189X87800063"
+    ],
+    "incomplete": 0,
+    "issn": "0734-189X",
+    "issn_alt": "1557-895X",
+    "issue": "2",
+    "journal": "Comput. Vis. Graph. Image Process.",
+    "journalfull": "Computer vision, graphics, and image processing",
+    "labels": [],
+    "language": "en",
+    "owner": "778D449898E211EC881CD318FB271251",
+    "pages": "299-325",
+    "pdf_restricted": 1,
+    "published": {
+      "year": "1987",
+      "month": "2",
+      "day": "1"
+    },
+    "publisher": "Elsevier BV",
+    "pubtype": "PP_ARTICLE",
+    "sha1": "b9f1f29276a96bb8458e46bde2e42024c8050ad0",
+    "subfolders": [
+      "All Papers/B"
+    ],
+    "title": "Spatial frequency channels and perceptual grouping in texture segregation",
+    "url": [
+      "http://dx.doi.org/10.1016/S0734-189X(87)80006-3",
+      "http://dx.doi.org/10.1016/s0734-189x(87)80006-3",
+      "https://www.sciencedirect.com/science/article/pii/S0734189X87800063",
+      "https://linkinghub.elsevier.com/retrieve/pii/S0734189X87800063"
+    ],
+    "volume": "37"
+  },
+  {
+    "_id": "06b8320b-382b-0eff-8ac8-b133b228bf92",
+    "attachments": [
+      {
+        "_id": "3d198b90-7bdc-4710-8ef6-61c4e2549fbc",
+        "mimeType": "application/pdf",
+        "pub_id": "06b8320b-382b-0eff-8ac8-b133b228bf92",
+        "source_filename": "BF03203917.pdf",
+        "filename": "All Papers/B/Beck et al. 1984 - The perception of transparency with achromatic colors.pdf",
+        "md5": "c02abbf1de0f168b5b8e94553765ea96",
+        "article_pdf": 1,
+        "filesize": 1879812,
+        "created": 1753824918.2389998,
+        "s3_md5": "c02abbf1de0f168b5b8e94553765ea96"
+      }
+    ],
+    "author": [
+      {
+        "first": "J",
+        "last": "Beck",
+        "initials": "J",
+        "formatted": "Beck J"
+      },
+      {
+        "first": "K",
+        "last": "Prazdny",
+        "initials": "K",
+        "formatted": "Prazdny K"
+      },
+      {
+        "first": "R",
+        "last": "Ivry",
+        "initials": "R",
+        "formatted": "Ivry R"
+      }
+    ],
+    "autoCleaned": 1,
+    "citedByLink": "http://scholar.google.com/scholar?hl=en&lr=&num=30&cites=http://dx.doi.org/10.3758/bf03203917",
+    "citekey": "Beck1984-ht",
+    "created": 1753824917.428,
+    "doi": "10.3758/bf03203917",
+    "dup_sha1": "042f26ea6842a4aec2551c3298676173fd857989",
+    "folders": [
+      "2be42804-adb1-4867-87ff-9d438a7d6d1a"
+    ],
+    "foldersNamed": [
+      "ivry publications"
+    ],
+    "id_list": [
+      "sha1:70583d6a7396451c27f31c6b858c01818be15015",
+      "dup_sha1:042f26ea6842a4aec2551c3298676173fd857989",
+      "doi:10.3758/bf03203917",
+      "pmid:6462867",
+      "url:http://dx.doi.org/10.3758/bf03203917",
+      "url:https://pubmed.ncbi.nlm.nih.gov/6462867/",
+      "url:https://www.ncbi.nlm.nih.gov/pubmed/6462867",
+      "url:http://link.springer.com/10.3758/BF03203917"
+    ],
+    "incomplete": 0,
+    "issn": "0031-5117",
+    "issn_alt": "1532-5962",
+    "issue": "5",
+    "journal": "Percept. Psychophys.",
+    "journalfull": "Perception & psychophysics",
+    "kind": "Research Article",
+    "labels": [],
+    "language": "en",
+    "owner": "778D449898E211EC881CD318FB271251",
+    "pages": "407-422",
+    "pdf_restricted": 0,
+    "pmid": "6462867",
+    "published": {
+      "year": "1984",
+      "month": "5"
+    },
+    "publisher": "Springer Science and Business Media LLC",
+    "pubtype": "PP_ARTICLE",
+    "sha1": "70583d6a7396451c27f31c6b858c01818be15015",
+    "subfolders": [
+      "All Papers/B"
+    ],
+    "title": "The perception of transparency with achromatic colors",
+    "url": [
+      "http://dx.doi.org/10.3758/bf03203917",
+      "http://link.springer.com/10.3758/BF03203917",
+      "https://pubmed.ncbi.nlm.nih.gov/6462867/",
+      "https://www.ncbi.nlm.nih.gov/pubmed/6462867"
+    ],
+    "volume": "35"
+  },
+  {
     "_id": "5d7dbc71-6733-0f04-bf85-36845326dd4c",
     "attachments": [
       {
@@ -7328,10 +8987,12 @@
     "doi": "10.1016/j.bandl.2015.08.004",
     "dup_sha1": "f514760095cd6f4d007e8b154475a8d5a3b4cc40",
     "folders": [
-      "2be42804-adb1-4867-87ff-9d438a7d6d1a"
+      "2be42804-adb1-4867-87ff-9d438a7d6d1a",
+      "266c5b07-74d6-465f-bc56-1bb09f90e664"
     ],
     "foldersNamed": [
-      "ivry publications"
+      "ivry publications",
+      "F31"
     ],
     "id_list": [
       "sha1:0d812702aa0025f76dfb354c07c83277115b2b78",
@@ -9649,22 +11310,22 @@
     ],
     "author": [
       {
-        "initials": "N",
         "first": "Nola",
-        "formatted": "Klemfuss N",
-        "last": "Klemfuss"
+        "last": "Klemfuss",
+        "initials": "N",
+        "formatted": "Klemfuss N"
       },
       {
-        "initials": "W",
-        "first": "William",
-        "formatted": "Prinzmetal W",
-        "last": "Prinzmetal"
+        "first": "B",
+        "last": "Prinzmetal",
+        "initials": "B",
+        "formatted": "Prinzmetal B"
       },
       {
-        "initials": "RB",
         "first": "Richard B",
-        "formatted": "Ivry RB",
-        "last": "Ivry"
+        "last": "Ivry",
+        "initials": "RB",
+        "formatted": "Ivry RB"
       }
     ],
     "citedByLink": "http://scholar.google.com/scholar?hl=en&lr=&num=30&cites=http://dx.doi.org/10.3389/fpsyg.2012.00078",
@@ -9679,13 +11340,12 @@
       "ivry publications"
     ],
     "id_list": [
-      "sha1:e80887753932e81d1abca52dc2fdd415ac9f2044",
+      "sha1:ee0ca312a21546b63a4cf31064e021c26cebe503",
       "dup_sha1:9dc5f18bb3af14eb1b0a39cea44a33c6a82d2c52",
       "doi:10.3389/fpsyg.2012.00078",
       "pmc:PMC3308142",
       "pmid:22454625",
       "url:http://dx.doi.org/10.3389/fpsyg.2012.00078",
-      "url:http://dx.doi.org/10.3389/fpsyg.2012.00078/abstract",
       "url:http://journal.frontiersin.org/article/10.3389/fpsyg.2012.00078/abstract",
       "url:https://www.ncbi.nlm.nih.gov/pubmed/22454625",
       "url:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3308142"
@@ -9709,10 +11369,9 @@
     },
     "publisher": "Frontiers Media SA",
     "pubtype": "PP_ARTICLE",
-    "sha1": "e80887753932e81d1abca52dc2fdd415ac9f2044",
+    "sha1": "ee0ca312a21546b63a4cf31064e021c26cebe503",
     "title": "How does language change perception: a cautionary note",
     "url": [
-      "http://dx.doi.org/10.3389/fpsyg.2012.00078/abstract",
       "http://journal.frontiersin.org/article/10.3389/fpsyg.2012.00078/abstract",
       "http://dx.doi.org/10.3389/fpsyg.2012.00078",
       "https://www.ncbi.nlm.nih.gov/pubmed/22454625",
@@ -12628,7 +14287,7 @@
         "article_pdf": 1,
         "created": 1751222806.096,
         "filesize": 50068,
-        "filename": "All Papers/D/Derakhshan 2004 - Hugo Liepmann revisited, this time with numbers.pdf",
+        "filename": "All Papers/D/Derakhshan, I., Diedrichsen, J., Haze... 2004 - Hugo Liepmann revisited, this time with numbers.pdf",
         "source_filename": "2004_derakhshanjournal_of_neur.pdf",
         "pub_id": "5915504e-566e-0d9c-84c7-f7e789b8e2e2",
         "mimeType": "application/pdf",
@@ -12638,17 +14297,16 @@
     ],
     "author": [
       {
-        "initials": "I",
-        "first": "Iraj",
-        "formatted": "Derakhshan I",
-        "last": "Derakhshan"
+        "collective": "Derakhshan, I., Diedrichsen, J., Hazeltine, E., & Ivry, R.B.",
+        "formatted": "Derakhshan, I., Diedrichsen, J., Hazeltine, E., & Ivry, R.B.",
+        "initials": ""
       }
     ],
     "citedByLink": "http://scholar.google.com/scholar?hl=en&lr=&num=30&cites=http://dx.doi.org/10.1152/jn.00990.2003",
-    "citekey": "Derakhshan2004-fz",
+    "citekey": "Derakhshan-I-Diedrichsen-J-Hazeltine-E-Ivry-RB2004-lx",
     "created": 1751222806.042,
     "doi": "10.1152/jn.00990.2003",
-    "dup_sha1": "6a949279c08b03fbf341a815069e5713142aad00",
+    "dup_sha1": "1a302321473eb47839202407c9f4b4f34617a42f",
     "folders": [
       "2be42804-adb1-4867-87ff-9d438a7d6d1a"
     ],
@@ -12656,8 +14314,8 @@
       "ivry publications"
     ],
     "id_list": [
-      "sha1:5d6ac58bade3c6494e680d30a107fb67d16c2a34",
-      "dup_sha1:6a949279c08b03fbf341a815069e5713142aad00",
+      "sha1:fe79c7c3fc3a74d684f8487669fee5ec95b2cf3d",
+      "dup_sha1:1a302321473eb47839202407c9f4b4f34617a42f",
       "doi:10.1152/jn.00990.2003",
       "pmid:15136607",
       "url:http://dx.doi.org/10.1152/jn.00990.2003",
@@ -12682,11 +14340,11 @@
     },
     "publisher": "American Physiological Society",
     "pubtype": "PP_ARTICLE",
-    "sha1": "5d6ac58bade3c6494e680d30a107fb67d16c2a34",
+    "sha1": "fe79c7c3fc3a74d684f8487669fee5ec95b2cf3d",
     "title": "Hugo Liepmann revisited, this time with numbers",
     "url": [
-      "http://dx.doi.org/10.1152/jn.00990.2003",
       "https://www.physiology.org/doi/10.1152/jn.00990.2003",
+      "http://dx.doi.org/10.1152/jn.00990.2003",
       "https://www.ncbi.nlm.nih.gov/pubmed/15136607"
     ],
     "volume": "91",
@@ -14911,7 +16569,7 @@
         "article_pdf": 1,
         "created": 1751222802.018,
         "filesize": 559267,
-        "filename": "All Papers/A/Aziz-Zadeh and Ivry 2009 - The human mirror neuron system and embodied representations.pdf",
+        "filename": "All Papers/A/Aziz-Zadeh, L., & Ivry, R.B. 2009 - The human mirror neuron system and embodied representations.pdf",
         "source_filename": "2009_aziz_zadeh_ivryprogress_i.pdf",
         "pub_id": "f3941daa-dc73-0938-be7c-f9b7df672203",
         "mimeType": "application/pdf",
@@ -14921,23 +16579,16 @@
     ],
     "author": [
       {
-        "initials": "L",
-        "first": "Lisa",
-        "formatted": "Aziz-Zadeh L",
-        "last": "Aziz-Zadeh"
-      },
-      {
-        "initials": "RB",
-        "first": "Richard B",
-        "formatted": "Ivry RB",
-        "last": "Ivry"
+        "collective": "Aziz-Zadeh, L., & Ivry, R.B.",
+        "formatted": "Aziz-Zadeh, L., & Ivry, R.B.",
+        "initials": ""
       }
     ],
     "citedByLink": "http://scholar.google.com/scholar?hl=en&lr=&num=30&cites=http://dx.doi.org/10.1007/978-0-387-77064-2_18",
-    "citekey": "Aziz-Zadeh2009-lh",
+    "citekey": "Aziz-Zadeh-L-Ivry-RB2009-pm",
     "created": 1751222801.968,
     "doi": "10.1007/978-0-387-77064-2_18",
-    "dup_sha1": "2980159343e1e6d8d1681dbd1ce2190d09e69ba4",
+    "dup_sha1": "7e72c1e7287262b7fa3d9740be4cee11084b4f81",
     "folders": [
       "2be42804-adb1-4867-87ff-9d438a7d6d1a"
     ],
@@ -14945,8 +16596,8 @@
       "ivry publications"
     ],
     "id_list": [
-      "sha1:c103c9b46fdb161d339ecd9c4cffef3c20c6c462",
-      "dup_sha1:2980159343e1e6d8d1681dbd1ce2190d09e69ba4",
+      "sha1:c1626a85f01d57ed9693442c989998574095aa9f",
+      "dup_sha1:7e72c1e7287262b7fa3d9740be4cee11084b4f81",
       "doi:10.1007/978-0-387-77064-2_18",
       "pmid:19227509",
       "url:http://dx.doi.org/10.1007/978-0-387-77064-2_18",
@@ -14968,11 +16619,11 @@
       "year": "2009"
     },
     "pubtype": "PP_ARTICLE",
-    "sha1": "c103c9b46fdb161d339ecd9c4cffef3c20c6c462",
+    "sha1": "c1626a85f01d57ed9693442c989998574095aa9f",
     "title": "The human mirror neuron system and embodied representations",
     "url": [
-      "http://dx.doi.org/10.1007/978-0-387-77064-2_18",
       "http://link.springer.com/10.1007/978-0-387-77064-2_18",
+      "http://dx.doi.org/10.1007/978-0-387-77064-2_18",
       "https://www.ncbi.nlm.nih.gov/pubmed/19227509"
     ],
     "volume": "629"
@@ -22516,5 +24167,115 @@
       "https://www.ncbi.nlm.nih.gov/pubmed/4011376"
     ],
     "volume": "37"
+  },
+  {
+    "_id": "776eb0fa-573e-0256-b5a9-a356a97ae0a7",
+    "abstract": "Traditionally, motor learning has been studied as an implicit learning process, one in which movement errors are used to improve performance in a continuous, gradual manner. The cerebellum figures prominently in this literature given well-established ideas about the role of this system in error-based learning and the production of automatized skills. Recent developments have brought into focus the relevance of multiple learning mechanisms for sensorimotor learning. These include processes involving repetition, reinforcement learning, and strategy utilization. We examine these developments, considering their implications for understanding cerebellar function and how this structure interacts with other neural systems to support motor learning. Converging lines of evidence from behavioral, computational, and neuropsychological studies suggest a fundamental distinction between processes that use error information to improve action execution or action selection. While the cerebellum is clearly linked to the former, its role in the latter remains an open question.",
+    "accessed": {
+      "year": "2025",
+      "month": "1",
+      "day": "15"
+    },
+    "attachments": [
+      {
+        "_id": "0581ca1e-7e3c-4060-bccf-0bd43f35be17",
+        "owner": "778D449898E211EC881CD318FB271251",
+        "article_pdf": 0,
+        "created": 1751222810.818,
+        "filesize": 1992169,
+        "filename": "All Papers/T/Taylor and Ivry 2014 - 2014_taylor_ivryprogress_in_br.pdf",
+        "source_filename": "2014_taylor_ivryprogress_in_br.pdf",
+        "pub_id": "776eb0fa-573e-0256-b5a9-a356a97ae0a7",
+        "mimeType": "application/pdf",
+        "md5": "29be71f7d6b2a73d0426172588db70c8",
+        "s3_md5": "29be71f7d6b2a73d0426172588db70c8"
+      },
+      {
+        "_id": "67a23024-4118-4b3c-adab-cd424b4a275a",
+        "mimeType": "application/pdf",
+        "pub_id": "776eb0fa-573e-0256-b5a9-a356a97ae0a7",
+        "source_filename": "nihms608046.pdf",
+        "filename": "All Papers/T/Taylor and Ivry 2014 - Cerebellar and prefrontal cortex contributions to adaptation, strategies, and reinforcement learning.pdf",
+        "md5": "a99d18c70987afc70d143fee2f63d5f4",
+        "article_pdf": 1,
+        "filesize": 1350336,
+        "created": 1739833550.7549999,
+        "s3_md5": "a99d18c70987afc70d143fee2f63d5f4"
+      }
+    ],
+    "author": [
+      {
+        "first": "Jordan A",
+        "last": "Taylor",
+        "initials": "JA",
+        "formatted": "Taylor JA"
+      },
+      {
+        "first": "Richard B",
+        "last": "Ivry",
+        "initials": "RB",
+        "formatted": "Ivry RB"
+      }
+    ],
+    "autoCleaned": 1,
+    "citedByLink": "http://scholar.google.com/scholar?hl=en&lr=&num=30&cites=http://dx.doi.org/10.1016/B978-0-444-63356-9.00009-1",
+    "citekey": "Taylor2014-pi",
+    "created": 1737166294.205,
+    "doi": "10.1016/B978-0-444-63356-9.00009-1",
+    "dup_sha1": "ec8cb0acaff90b7deb01e02e799d13cad2071993",
+    "folders": [
+      "0e2855fa-fcbb-4606-be05-efd626b1478f",
+      "2be42804-adb1-4867-87ff-9d438a7d6d1a"
+    ],
+    "foldersNamed": [
+      "QUALS",
+      "ivry publications"
+    ],
+    "id_list": [
+      "sha1:93855aafe8a3c01fd356285552571d972380122f",
+      "dup_sha1:ec8cb0acaff90b7deb01e02e799d13cad2071993",
+      "doi:10.1016/B978-0-444-63356-9.00009-1",
+      "pmc:PMC4118688",
+      "pmid:24916295",
+      "url:http://dx.doi.org/10.1016/B978-0-444-63356-9.00009-1",
+      "url:https://www.sciencedirect.com/science/article/pii/B9780444633569000091",
+      "url:https://linkinghub.elsevier.com/retrieve/pii/B9780444633569000091",
+      "url:https://www.ncbi.nlm.nih.gov/pubmed/24916295",
+      "url:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4118688"
+    ],
+    "incomplete": 0,
+    "issn": "0079-6123",
+    "issn_alt": "1875-7855",
+    "journal": "Prog. Brain Res.",
+    "journalfull": "Progress in brain research",
+    "keywords": "adaptation; ataxia; basal ganglia; cerebellum; error-based learning; prefrontal cortex; reinforcement learning; sensorimotor learning; systems interaction",
+    "kind": "Review",
+    "labels": [],
+    "language": "en",
+    "owner": "778D449898E211EC881CD318FB271251",
+    "pages": "217-253",
+    "pdf_restricted": 1,
+    "pmc": "PMC4118688",
+    "pmid": "24916295",
+    "published": {
+      "year": "2014",
+      "month": "1",
+      "day": "1"
+    },
+    "publisher": "Elsevier",
+    "pubtype": "PP_ARTICLE",
+    "sha1": "93855aafe8a3c01fd356285552571d972380122f",
+    "subfolders": [
+      "All Papers/T"
+    ],
+    "title": "Cerebellar and prefrontal cortex contributions to adaptation, strategies, and reinforcement learning",
+    "url": [
+      "http://dx.doi.org/10.1016/B978-0-444-63356-9.00009-1",
+      "https://www.sciencedirect.com/science/article/pii/B9780444633569000091",
+      "https://linkinghub.elsevier.com/retrieve/pii/B9780444633569000091",
+      "https://www.ncbi.nlm.nih.gov/pubmed/24916295",
+      "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4118688"
+    ],
+    "volume": "210"
   }
 ]
