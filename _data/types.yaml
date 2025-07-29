@@ -65,6 +65,11 @@ address:
   text: Address
   tooltip: Address
 
+cv:
+  icon: fa-solid fa-file-pdf
+  text: CV
+  tooltip: Curriculum Vitae
+  
 search:
   icon: fa-solid fa-magnifying-glass
   text: Search

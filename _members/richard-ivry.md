@@ -4,7 +4,7 @@ image: images/Rich_org.jpg
 role: principal-investigator
 email: ivry@berkeley.edu
 links:
-    email: ivry[@]berkeley.edu
+    email: ivry@berkeley.edu
     cv: files/cv/ivry_vita_May_2025.pdf
 order: 1
 
