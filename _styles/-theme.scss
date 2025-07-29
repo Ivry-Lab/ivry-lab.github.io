@@ -52,3 +52,7 @@
   --shadow: 0 0 10px 0 var(--overlay);
   --transition: 0.2s ease;
 }
+// increase base font size for all text
+html {
+  font-size: 18px; // default is usually 16px
+}
