@@ -1,7 +1,7 @@
 ---
 title: Join the lab
 nav:
-  order: 4
+  order: 5
   tooltip: How to get involved
 ---
 

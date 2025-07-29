@@ -24277,5 +24277,139 @@
       "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4118688"
     ],
     "volume": "210"
+  },
+  {
+    "_id": "cb41d351-1632-0e14-9b42-bd5cde82fbc5",
+    "abstract": "We introduce a novel perspective on how the cerebellum might contribute to cognition, hypothesizing that this structure supports dynamic transformations of mental representations. In support of this hypothesis, we report a series of neuropsychological experiments comparing the performance of individuals with degenerative cerebellar disorders (CD) on tasks that either entail continuous, movement-like mental operations or more discrete mental operations. In the domain of visual cognition, the CD group exhibited an impaired rate of mental rotation, an operation hypothesized to require the continuous manipulation of a visual representation. In contrast, the CD group showed a normal processing rate when scanning items in visual working memory, an operation hypothesized to require the maintenance and retrieval of remembered items. In the domain of mathematical cognition, the CD group was impaired at single-digit addition, an operation hypothesized to primarily require iterative manipulations along a mental number-line; this group was not impaired on arithmetic tasks linked to memory retrieval (e.g., single-digit multiplication). These results, obtained in tasks from two disparate domains, point to a potential constraint on the contribution of the cerebellum to cognitive tasks. Paralleling its role in motor control, the cerebellum may be essential for coordinating dynamic, movement-like transformations in a mental workspace.",
+    "affiliation": "Department of Psychology, Yale University, New Haven CT 06511, USA. Department of Psychology, University of California, Berkeley, Berkeley CA 94704, USA. Helen Wills Neuroscience Institute, University of California, Berkeley, Berkeley CA 94704, USA. Department of Psychology, Princeton University, Princeton NJ 08540 USA. Princeton Neuroscience Institute, Princeton University, Princeton NJ 08540 USA.",
+    "attachments": [
+      {
+        "_id": "60e5f09b-45e2-0977-8f87-e6c2cbb5f570",
+        "owner": "778D449898E211EC881CD318FB271251",
+        "article_pdf": 1,
+        "created": 1646264001.321777,
+        "filesize": 3392862,
+        "filename": "All Papers/M/McDougle et al. 2022 - Continuous manipulation of mental representations is compromised in cerebellar degeneration.pdf",
+        "pub_id": "cb41d351-1632-0e14-9b42-bd5cde82fbc5",
+        "source_filename": "[article_pdf].pdf",
+        "mimeType": "application/pdf",
+        "md5": "73c18c42d034168276dadfe3d0d34aad",
+        "s3_md5": "73c18c42d034168276dadfe3d0d34aad",
+        "pdf_indexing_status": "indexed"
+      },
+      {
+        "_id": "bc030ac2-674e-4fc5-a023-1b8a104d1d10",
+        "owner": "778D449898E211EC881CD318FB271251",
+        "article_pdf": 0,
+        "created": 1751222867.084,
+        "filesize": 1483799,
+        "filename": "All Papers/M/McDougle et al. 2022 - 2022_mcdougle_et_al_continuous.pdf",
+        "source_filename": "2022_mcdougle_et_al_continuous.pdf",
+        "pub_id": "cb41d351-1632-0e14-9b42-bd5cde82fbc5",
+        "mimeType": "application/pdf",
+        "md5": "0aac627f19bb02b2f47310594f37ddad",
+        "s3_md5": "0aac627f19bb02b2f47310594f37ddad"
+      }
+    ],
+    "author": [
+      {
+        "initials": "SD",
+        "first": "Samuel D",
+        "formatted": "McDougle SD",
+        "orcid": "0000-0001-8100-4238",
+        "last": "McDougle"
+      },
+      {
+        "initials": "JS",
+        "first": "Jonathan S",
+        "formatted": "Tsay JS",
+        "last": "Tsay"
+      },
+      {
+        "initials": "B",
+        "first": "Benjamin",
+        "formatted": "Pitt B",
+        "last": "Pitt"
+      },
+      {
+        "initials": "M",
+        "first": "Maedbh",
+        "formatted": "King M",
+        "last": "King"
+      },
+      {
+        "initials": "W",
+        "first": "William",
+        "formatted": "Saban W",
+        "orcid": "0000-0003-4215-2478",
+        "last": "Saban"
+      },
+      {
+        "initials": "JA",
+        "first": "Jordan A",
+        "formatted": "Taylor JA",
+        "last": "Taylor"
+      },
+      {
+        "initials": "RB",
+        "first": "Richard B",
+        "formatted": "Ivry RB",
+        "last": "Ivry"
+      }
+    ],
+    "citedByLink": "http://scholar.google.com/scholar?hl=en&lr=&num=30&cites=http://dx.doi.org/10.1093/brain/awac072",
+    "citekey": "McDougle2022-im",
+    "crawl_urls": [
+      "http://dx.doi.org/10.1093/brain/awac072",
+      "https://dx.doi.org/10.1093/brain/awac072",
+      "https://academic.oup.com/brain/advance-article/doi/10.1093/brain/awac072/6535860"
+    ],
+    "created": 1646264001.219514,
+    "doi": "10.1093/brain/awac072",
+    "dup_sha1": "15867b05570001b2ea09562976b2e548e371647e",
+    "folders": [
+      "3cedb993-f721-05eb-8e0e-b77e427e9858",
+      "2be42804-adb1-4867-87ff-9d438a7d6d1a"
+    ],
+    "foldersNamed": [
+      "Cerebellum",
+      "ivry publications"
+    ],
+    "id_list": [
+      "sha1:277065af3387553423f9d5640bf805e9ac882617",
+      "dup_sha1:15867b05570001b2ea09562976b2e548e371647e",
+      "doi:10.1093/brain/awac072",
+      "pmid:35202465",
+      "url:http://dx.doi.org/10.1093/brain/awac072",
+      "url:https://www.ncbi.nlm.nih.gov/pubmed/35202465",
+      "url:https://academic.oup.com/brain/article-lookup/doi/10.1093/brain/awac072",
+      "url:https://dx.doi.org/10.1093/brain/awac072",
+      "url:https://academic.oup.com/brain/advance-article/doi/10.1093/brain/awac072/6535860"
+    ],
+    "incomplete": 0,
+    "issn": "0006-8950",
+    "issn_alt": "1460-2156",
+    "journal": "Brain",
+    "journalfull": "Brain: a journal of neurology",
+    "keywords": "cerebellum; mental imagery; mental operations; spinocerebellar ataxia",
+    "kind": "Research Article",
+    "labels": [],
+    "language": "en",
+    "owner": "778D449898E211EC881CD318FB271251",
+    "pii": "6535860",
+    "pmid": "35202465",
+    "published": {
+      "month": "2",
+      "day": "24",
+      "year": "2022"
+    },
+    "pubtype": "PP_ARTICLE",
+    "sha1": "277065af3387553423f9d5640bf805e9ac882617",
+    "title": "Continuous manipulation of mental representations is compromised in cerebellar degeneration",
+    "url": [
+      "http://dx.doi.org/10.1093/brain/awac072",
+      "https://www.ncbi.nlm.nih.gov/pubmed/35202465",
+      "https://academic.oup.com/brain/article-lookup/doi/10.1093/brain/awac072"
+    ]
   }
 ]
