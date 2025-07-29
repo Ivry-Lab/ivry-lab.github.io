@@ -28,4 +28,4 @@ Undergrads interested in volunteering as a CognAc research assistant can use the
 ---
 
 ## CognAc Lab Policies
-You can view the CognAc lab policies [here](/files/CognAc%20LAB%20POLICIES%20May2023.pdf).
+You can view the CognAc lab policies [here](/files/CognAc%20LAB%20POLICIES%20July2025.pdf).
