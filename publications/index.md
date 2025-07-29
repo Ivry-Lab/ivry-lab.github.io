@@ -15,12 +15,12 @@ nav:
     {% assign year = "Unknown" %}
   {% endif %}
   
-**{{ year }}**
+  **{{ year }}**
 
 {% assign sorted_pubs = year_group.items | sort: "title" %}
 {% for pub in sorted_pubs %}
 {% assign pdf_attachment = pub.attachments | where: "article_pdf", 1 | first %}
-{% if pdf_attachment and pdf_attachment.source_filename %}[{{ pub.title | default: "Untitled" }}]({{ site.baseurl }}/files/organized_pubs_pdfs/{{ pdf_attachment.source_filename }}){% else %}{{ pub.title | default: "Untitled" }}{% endif %}{% if pub.author %} - {% for author in pub.author %}{% if author.formatted %}{{ author.formatted }}{% else %}{{ author.first }} {{ author.last }}{% endif %}{% unless forloop.last %}, {% endunless %}{% endfor %}{% endif %}{% if pub.journal %} - *{{ pub.journal }}*{% endif %}{% if pub.doi %} - [DOI](https://doi.org/{{ pub.doi }}){% endif %}
+{{ pub.title | default: "Untitled" }}{% if pub.author %} - {% for author in pub.author %}{% if author.formatted %}{{ author.formatted }}{% else %}{{ author.first }} {{ author.last }}{% endif %}{% unless forloop.last %}, {% endunless %}{% endfor %}{% endif %}{% if pub.journal %} - *{{ pub.journal }}*{% endif %}{% if pub.doi %} - [Link](https://doi.org/{{ pub.doi }}){% endif %}{% if pdf_attachment %}{% assign pdf_file = pdf_attachment.source_filename | default: pdf_attachment.filename %}{% if pdf_file %} - [PDF]({{ site.baseurl }}/files/organized_pubs_pdfs/{{ pdf_file | split: "/" | last }}){% endif %}{% endif %}
 
 {% endfor %}
 
