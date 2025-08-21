@@ -1,9 +1,14 @@
-- title: Podcast
-  subtitle: BRAIN PONDERINGS podcast with Mark Mattson
+- title: BRAIN PONDERINGS podcast with Mark Mattson
   group: featured
   link: https://www.youtube.com/watch?v=2n7e04cgaho
   description: Check out Prof. Ivry discussing the role of the cerebellum in timing, error correction, and cognition
   image: https://img.youtube.com/vi/2n7e04cgaho/maxresdefault.jpg
+
+- title: SciFusion Shorts 
+  description: Video interview with the Prestos Lab discussing skilled movements
+  link: https://www.youtube.com/watch?v=SkA7tu0KaTk
+  group: featured
+  image: https://www.youtube.com/watch?v=SkA7tu0KaTk/maxresdefault.jpg
 
 - title: Lab Newsletter
   description: Stay updated with the latest news from our lab.
