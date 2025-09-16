@@ -12,7 +12,7 @@
         "_id": "3131b4e8-4667-4404-a930-68b374a2ac96",
         "mimeType": "application/pdf",
         "pub_id": "756357f2-b389-0d28-8005-ee6d62642a28",
-        "source_filename": "King et al. 2025 - Transcriptomic gradients of the human cerebellum.pdf",
+        "source_filename": "imag_a_00494.pdf",
         "filename": "All Papers/K/King et al. 2025 - Transcriptomic gradients of the human cerebellum.pdf",
         "md5": "debf4e67157333dfbfc0113cc884ec2c",
         "article_pdf": 1,
@@ -118,7 +118,7 @@
         "_id": "b14617c3-8199-4d29-b131-e741a98660d4",
         "mimeType": "application/pdf",
         "pub_id": "97cb75e8-698e-0d02-bae7-37bc544d6add",
-        "source_filename": "Labruna et al. 2024 - Kilohertz transcranial magnetic perturbation (kTMP) - A new non-invasive method to modulate cortical excitability.pdf",
+        "source_filename": "92088-v2.pdf",
         "filename": "All Papers/L/Labruna et al. 2024 - Kilohertz transcranial magnetic perturbation (kTMP) - A new non-invasive method to modulate cortical excitability.pdf",
         "md5": "67cbd135fe5540e809745defff2bf947",
         "article_pdf": 1,
@@ -24277,6 +24277,117 @@
       "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4118688"
     ],
     "volume": "210"
+  },
+  {
+    "_id": "3b0c1611-be08-0aee-9532-d603e5930c4b",
+    "abstract": "While resting-state fMRI studies have provided a broad picture of the connectivity between human neocortex and cerebellum, the degree of convergence of cortical inputs onto cerebellar circuits remains unknown. Does each cerebellar region receive input from a single cortical area or convergent inputs from multiple cortical areas? Here, we use task-based fMRI data to build a range of cortico-cerebellar connectivity models, each allowing for a different degree of convergence. We compared these models by their ability to predict cerebellar activity patterns for novel Task Sets. Models that allow some degree of convergence provided the best predictions, arguing for convergence of multiple cortical inputs onto single cerebellar voxels. Importantly, the degree of convergence varied across the cerebellum with the highest convergence observed in areas linked to language, working memory, and social cognition. These findings suggest important differences in the way that functional subdivisions of the cerebellum support motor and cognitive function.",
+    "affiliation": "Department of Psychology, University of California, Berkeley, Berkeley, United States. Western Institute for Neuroscience, Western University, London, Canada. Helen Wills Neuroscience Institute, University of California, Berkeley, Berkeley, United States. Department of Statistical and Actuarial Sciences, Western University, London, Canada. Department of Computer Science, Western University, London, Ontario, Canada.",
+    "attachments": [
+      {
+        "_id": "40bd94d3-a4a0-0595-8bc0-1e22370ffc20",
+        "owner": "778D449898E211EC881CD318FB271251",
+        "article_pdf": 1,
+        "created": 1702330030.938121,
+        "filesize": 4958469,
+        "filename": "All Papers/K/King et al. 2023 - A task-general connectivity model reveals variation in convergence of cortical inputs to functional regions of the cerebellum.pdf",
+        "source_filename": "[article_pdf].pdf",
+        "pub_id": "3b0c1611-be08-0aee-9532-d603e5930c4b",
+        "mimeType": "application/pdf",
+        "md5": "618bd4829961394d7268117621ec25bc",
+        "s3_md5": "618bd4829961394d7268117621ec25bc",
+        "pdf_indexing_status": "indexed"
+      }
+    ],
+    "author": [
+      {
+        "initials": "M",
+        "first": "Maedbh",
+        "orcid": "0000-0001-5374-1011",
+        "formatted": "King M",
+        "last": "King"
+      },
+      {
+        "initials": "L",
+        "first": "Ladan",
+        "orcid": "0000-0001-6189-9994",
+        "formatted": "Shahshahani L",
+        "last": "Shahshahani"
+      },
+      {
+        "initials": "RB",
+        "first": "Richard B",
+        "orcid": "0000-0003-4728-5130",
+        "formatted": "Ivry RB",
+        "last": "Ivry"
+      },
+      {
+        "initials": "J",
+        "first": "Jörn",
+        "orcid": "0000-0003-0264-8532",
+        "formatted": "Diedrichsen J",
+        "last": "Diedrichsen"
+      }
+    ],
+    "citedByLink": "http://scholar.google.com/scholar?hl=en&lr=&num=30&cites=http://dx.doi.org/10.7554/eLife.81511",
+    "citekey": "King2023-zn",
+    "crawl_urls": [
+      "https://elifesciences.org/articles/81511.pdf",
+      "http://dx.doi.org/10.7554/eLife.81511",
+      "https://dx.doi.org/10.7554/eLife.81511",
+      "https://elifesciences.org/articles/81511"
+    ],
+    "created": 1702330029.285358,
+    "doi": "10.7554/eLife.81511",
+    "dup_sha1": "299b0d7a24b3f0cdefb0ef2e49ba6ebd5373185d",
+    "folders": [
+      "3cedb993-f721-05eb-8e0e-b77e427e9858",
+      "2be42804-adb1-4867-87ff-9d438a7d6d1a"
+    ],
+    "foldersNamed": [
+      "Cerebellum",
+      "ivry publications"
+    ],
+    "id_list": [
+      "sha1:229a4d749cf868d23018582f6c9678ff33c9bee3",
+      "dup_sha1:299b0d7a24b3f0cdefb0ef2e49ba6ebd5373185d",
+      "doi:10.7554/eLife.81511",
+      "pmc:PMC10129326",
+      "pmid:37083692",
+      "url:http://dx.doi.org/10.7554/eLife.81511",
+      "url:https://www.ncbi.nlm.nih.gov/pubmed/37083692",
+      "url:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10129326",
+      "url:https://elifesciences.org/articles/81511.pdf",
+      "url:https://dx.doi.org/10.7554/eLife.81511",
+      "url:https://elifesciences.org/articles/81511"
+    ],
+    "incomplete": 0,
+    "issn": "2050-084X",
+    "journal": "Elife",
+    "journalfull": "eLife",
+    "keywords": "cerebellum; connectivity; cortical parcellations; human; multi-domain task battery; neuroscience; predictive modeling; task-based fMRI",
+    "kind": "Research Article",
+    "labels": [],
+    "language": "en",
+    "owner": "778D449898E211EC881CD318FB271251",
+    "pdf_restricted": 0,
+    "pii": "81511",
+    "pmc": "PMC10129326",
+    "pmid": "37083692",
+    "published": {
+      "month": "4",
+      "day": "21",
+      "year": "2023"
+    },
+    "pubtype": "PP_ARTICLE",
+    "sha1": "229a4d749cf868d23018582f6c9678ff33c9bee3",
+    "title": "A task-general connectivity model reveals variation in convergence of cortical inputs to functional regions of the cerebellum",
+    "url": [
+      "http://dx.doi.org/10.7554/eLife.81511",
+      "https://www.ncbi.nlm.nih.gov/pubmed/37083692",
+      "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10129326",
+      "https://elifesciences.org/articles/81511.pdf"
+    ],
+    "volume": "12"
   },
   {
     "_id": "cb41d351-1632-0e14-9b42-bd5cde82fbc5",
