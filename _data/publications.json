@@ -24390,6 +24390,141 @@
     "volume": "12"
   },
   {
+    "_id": "5f79e110-b886-001c-a358-6d0fba4f6dd9",
+    "abstract": "There is compelling evidence that the human cerebellum is engaged in a wide array of motor and cognitive tasks. A fundamental question centers on whether the cerebellum is organized into distinct functional subregions. To address this question, we employed a rich task battery designed to tap into a broad range of cognitive processes. During four functional MRI sessions, participants performed a battery of 26 diverse tasks comprising 47 unique conditions. Using the data from this multi-domain task battery, we derived a comprehensive functional parcellation of the cerebellar cortex and evaluated it by predicting functional boundaries in a novel set of tasks. The new parcellation successfully identified distinct functional subregions, providing significant improvements over existing parcellations derived from task-free data. Lobular boundaries, commonly used to summarize functional data, did not coincide with functional subdivisions. The new parcellation provides a functional atlas to guide future neuroimaging studies.",
+    "affiliation": "Department of Psychology, University of California, CA, Berkeley, USA. Brain and Mind Institute, Western University, Ontario, London, Canada. Department of Psychology, Stanford University, CA, Stanford, USA. Brain and Mind Institute, Western University, Ontario, London, Canada. jdiedric@uwo.ca. Department of Statistical and Actuarial Sciences, Western University, London, Ontario, Canada. jdiedric@uwo.ca. Department of Computer Science, Western University, London, Ontario, Canada. jdiedric@uwo.ca.",
+    "attachments": [
+      {
+        "_id": "a5384d45-ef06-4e6e-ac06-8dff37cc88b7",
+        "owner": "778D449898E211EC881CD318FB271251",
+        "article_pdf": 0,
+        "created": 1751222837.159,
+        "filesize": 2879699,
+        "filename": "All Papers/K/King et al. 2019 - 2019_king_et_al_mdtb.pdf",
+        "source_filename": "2019_king_et_al_mdtb.pdf",
+        "pub_id": "5f79e110-b886-001c-a358-6d0fba4f6dd9",
+        "mimeType": "application/pdf",
+        "md5": "7ed36c66e8494363a977d638e8d7f236",
+        "s3_md5": "7ed36c66e8494363a977d638e8d7f236"
+      },
+      {
+        "_id": "dc3c84e7-02ed-0fa0-b1e9-4c22e3f44315",
+        "owner": "778D449898E211EC881CD318FB271251",
+        "article_pdf": 1,
+        "created": 1666198223.992496,
+        "filesize": 2188055,
+        "filename": "All Papers/K/King et al. 2019 - Functional boundaries in the human cerebellum revealed by a multi-domain task battery.pdf",
+        "source_filename": "[article_pdf].pdf",
+        "pub_id": "5f79e110-b886-001c-a358-6d0fba4f6dd9",
+        "mimeType": "application/pdf",
+        "md5": "80369bb6e05fdf2a71e12fe1bc3fb867",
+        "s3_md5": "80369bb6e05fdf2a71e12fe1bc3fb867",
+        "pdf_indexing_status": "indexed"
+      }
+    ],
+    "author": [
+      {
+        "initials": "M",
+        "first": "Maedbh",
+        "formatted": "King M",
+        "last": "King"
+      },
+      {
+        "initials": "CR",
+        "first": "Carlos R",
+        "formatted": "Hernandez-Castillo CR",
+        "last": "Hernandez-Castillo"
+      },
+      {
+        "initials": "RA",
+        "first": "Russell A",
+        "formatted": "Poldrack RA",
+        "last": "Poldrack"
+      },
+      {
+        "initials": "RB",
+        "first": "Richard B",
+        "formatted": "Ivry RB",
+        "last": "Ivry"
+      },
+      {
+        "initials": "J",
+        "first": "Jörn",
+        "orcid": "0000-0003-0264-8532",
+        "formatted": "Diedrichsen J",
+        "last": "Diedrichsen"
+      }
+    ],
+    "citedByLink": "http://scholar.google.com/scholar?hl=en&lr=&num=30&cites=http://dx.doi.org/10.1038/s41593-019-0436-x",
+    "citekey": "King2019-zm",
+    "crawl_urls": [
+      "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8312478/pdf/nihms-1720742.pdf",
+      "http://dx.doi.org/10.1038/s41593-019-0436-x",
+      "https://dx.doi.org/10.1038/s41593-019-0436-x",
+      "http://www.nature.com/articles/s41593-019-0436-x"
+    ],
+    "created": 1666198223.549205,
+    "doi": "10.1038/s41593-019-0436-x",
+    "dup_sha1": "438b27a82d27ce5739ba8646041128dc239669a1",
+    "folders": [
+      "3cedb993-f721-05eb-8e0e-b77e427e9858",
+      "25ea1e01-c731-0c18-967b-6ff54ab47d2f",
+      "266c5b07-74d6-465f-bc56-1bb09f90e664",
+      "2be42804-adb1-4867-87ff-9d438a7d6d1a"
+    ],
+    "foldersNamed": [
+      "Cerebellum",
+      "grant210",
+      "F31",
+      "ivry publications"
+    ],
+    "id_list": [
+      "sha1:7e48bbc6689e9ff47f81bd26cab4343147e25ed2",
+      "dup_sha1:438b27a82d27ce5739ba8646041128dc239669a1",
+      "doi:10.1038/s41593-019-0436-x",
+      "pmc:PMC8312478",
+      "pmid:31285616",
+      "url:http://dx.doi.org/10.1038/s41593-019-0436-x",
+      "url:https://www.ncbi.nlm.nih.gov/pubmed/31285616",
+      "url:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8312478",
+      "url:https://doi.org/10.1038/s41593-019-0436-x",
+      "url:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8312478/pdf/nihms-1720742.pdf",
+      "url:https://dx.doi.org/10.1038/s41593-019-0436-x",
+      "url:http://www.nature.com/articles/s41593-019-0436-x"
+    ],
+    "incomplete": 0,
+    "issn": "1097-6256",
+    "issn_alt": "1546-1726",
+    "issue": "8",
+    "journal": "Nat. Neurosci.",
+    "journalfull": "Nature neuroscience",
+    "kind": "Research Article",
+    "labels": [],
+    "language": "en",
+    "owner": "778D449898E211EC881CD318FB271251",
+    "pages": "1371-1378",
+    "pdf_restricted": 0,
+    "pii": "10.1038/s41593-019-0436-x",
+    "pmc": "PMC8312478",
+    "pmid": "31285616",
+    "published": {
+      "month": "8",
+      "year": "2019"
+    },
+    "pubtype": "PP_ARTICLE",
+    "sha1": "7e48bbc6689e9ff47f81bd26cab4343147e25ed2",
+    "title": "Functional boundaries in the human cerebellum revealed by a multi-domain task battery",
+    "url": [
+      "http://dx.doi.org/10.1038/s41593-019-0436-x",
+      "https://www.ncbi.nlm.nih.gov/pubmed/31285616",
+      "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8312478",
+      "https://doi.org/10.1038/s41593-019-0436-x",
+      "https://github.com/maedbhk/MDTBCerebellum",
+      "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8312478/pdf/nihms-1720742.pdf"
+    ],
+    "volume": "22"
+  },
+  {
     "_id": "cb41d351-1632-0e14-9b42-bd5cde82fbc5",
     "abstract": "We introduce a novel perspective on how the cerebellum might contribute to cognition, hypothesizing that this structure supports dynamic transformations of mental representations. In support of this hypothesis, we report a series of neuropsychological experiments comparing the performance of individuals with degenerative cerebellar disorders (CD) on tasks that either entail continuous, movement-like mental operations or more discrete mental operations. In the domain of visual cognition, the CD group exhibited an impaired rate of mental rotation, an operation hypothesized to require the continuous manipulation of a visual representation. In contrast, the CD group showed a normal processing rate when scanning items in visual working memory, an operation hypothesized to require the maintenance and retrieval of remembered items. In the domain of mathematical cognition, the CD group was impaired at single-digit addition, an operation hypothesized to primarily require iterative manipulations along a mental number-line; this group was not impaired on arithmetic tasks linked to memory retrieval (e.g., single-digit multiplication). These results, obtained in tasks from two disparate domains, point to a potential constraint on the contribution of the cerebellum to cognitive tasks. Paralleling its role in motor control, the cerebellum may be essential for coordinating dynamic, movement-like transformations in a mental workspace.",
     "affiliation": "Department of Psychology, Yale University, New Haven CT 06511, USA. Department of Psychology, University of California, Berkeley, Berkeley CA 94704, USA. Helen Wills Neuroscience Institute, University of California, Berkeley, Berkeley CA 94704, USA. Department of Psychology, Princeton University, Princeton NJ 08540 USA. Princeton Neuroscience Institute, Princeton University, Princeton NJ 08540 USA.",
