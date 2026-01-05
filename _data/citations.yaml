@@ -260,15 +260,15 @@
 - id: doi:10.1101/2023.06.27.546738
   title: Implicit reward-based motor learning
   authors:
-  - Nina M. Van Mastrigt
+  - Nina M. van Mastrigt
   - Jonathan S. Tsay
   - Tianhe Wang
   - Guy Avraham
   - Sabrina J. Abram
-  - Katinka Van Der Kooij
+  - Katinka van der Kooij
   - Jeroen B. J. Smeets
   - Richard B. Ivry
-  publisher: Neuroscience
+  publisher: Cold Spring Harbor Laboratory
   date: '2023-06-28'
   link: https://doi.org/g9cg3m
   orcid: 0000-0003-4728-5130
@@ -751,6 +751,24 @@
   orcid: 0000-0003-4728-5130
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.31234/osf.io/hwmpy
+  title: 'OnPoint: A package for online experiments in motor control and motor learning'
+  authors:
+  - Jonathan Sanching Tsay
+  - Alan S. Lee
+  - Guy Avraham
+  - Darius E. Parvin
+  - Jeremy Ho
+  - Matthew Boggess
+  - Riley Woo
+  - Ken Nakayama
+  - Richard Ivry
+  publisher: Center for Open Science
+  date: '2020-07-01'
+  link: https://doi.org/hbbm9z
+  orcid: 0000-0003-4728-5130
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1101/2020.04.29.068197
   title: Continuous Reports of Sensed Hand Position During Sensorimotor Adaptation
   authors:
@@ -775,6 +793,22 @@
   publisher: Cold Spring Harbor Laboratory
   date: '2020-03-17'
   link: https://doi.org/gk3shc
+  orcid: 0000-0003-4728-5130
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.31234/osf.io/dxpv4
+  title: How can neuroscientists respond to the climate emergency?
+  authors:
+  - Adam Robert Aron
+  - Richard Ivry
+  - Kate Jeffrey
+  - Russell Poldrack
+  - Robert Schmidt
+  - Christopher Summerfield
+  - Anne E Urai
+  publisher: Center for Open Science
+  date: '2020-02-04'
+  link: https://doi.org/hbbm92
   orcid: 0000-0003-4728-5130
   plugin: orcid.py
   file: orcid.yaml
@@ -818,6 +852,17 @@
   publisher: eLife
   date: '2019-04-29'
   link: https://doi.org/ghcspc
+  orcid: 0000-0003-4728-5130
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.31234/osf.io/a5gn6
+  title: Spatial constraints in saccadic inhibition of return
+  authors:
+  - Brent D. Parsons
+  - Richard Ivry
+  publisher: Center for Open Science
+  date: '2019-02-18'
+  link: https://doi.org/hbbm93
   orcid: 0000-0003-4728-5130
   plugin: orcid.py
   file: orcid.yaml
