@@ -26,15 +26,6 @@ header a {
   max-width: 100%;
 }
 
-.logo {
-  height: 40px;
-}
-
-.logo > * {
-  width: unset;
-  height: 100%;
-}
-
 .title-text {
   display: flex;
   justify-content: flex-start;
@@ -48,11 +39,6 @@ header a {
 
 .title {
   font-size: var(--large);
-}
-
-.subtitle {
-  opacity: 0.65;
-  font-weight: var(--thin);
 }
 
 .nav-toggle {
@@ -101,47 +87,20 @@ nav > a:hover {
 }
 
 @media (max-width: 700px) {
-  header:not([data-big]) {
+  header {
     justify-content: flex-end;
   }
-  header:not([data-big]) .nav-toggle {
+  .nav-toggle {
     display: flex;
   }
-  header:not([data-big]) .nav-toggle:not(:checked) + nav {
+  .nav-toggle:not(:checked) + nav {
     display: none;
   }
-  header:not([data-big]) nav {
+  nav {
     align-items: flex-end;
     flex-direction: column;
     width: 100%;
   }
-}
-
-header[data-big] {
-  justify-content: center;
-  align-items: center;
-  flex-direction: column;
-  padding: 35px 20px;
-  top: unset;
-}
-header[data-big] .home {
-  flex-direction: column;
-  flex-grow: 0;
-}
-header[data-big] .logo {
-  height: 80px;
-  flex-shrink: 0;
-}
-header[data-big] .title-text {
-  flex-direction: column;
-  align-items: center;
-  text-align: center;
-}
-header[data-big] .title {
-  font-size: var(--xxl);
-}
-header[data-big] .subtitle {
-  font-size: var(--large);
 }
 
 /*# sourceMappingURL=header.css.map */
