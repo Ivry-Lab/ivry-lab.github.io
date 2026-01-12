@@ -4,17 +4,19 @@ footer {
   align-items: center;
   flex-direction: column;
   gap: 20px;
-  padding: 40px;
+  padding: 30px;
+  background: #1e3a5f;
+  color: #ffffff;
   line-height: var(--spacing);
   box-shadow: var(--shadow);
 }
 
 footer a {
-  color: var(--text) !important;
+  color: #ffffff !important;
 }
 
 footer a:hover {
-  color: var(--primary) !important;
+  color: #7dd3fc !important;
 }
 
 footer .icon {
