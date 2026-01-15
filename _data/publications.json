@@ -24763,5 +24763,553 @@
         "doi": "10.1101/2024.09.03.611108"
       }
     ]
+  },
+  {
+    "_id": "1146d4ab-bd34-0c5e-89e9-72c2367d8113",
+    "abstract": "The functional domain of the cerebellum extends beyond sensorimotor control, with various lines of evidence pointing to its involvement in a range of cognitive and affective processes including decision making. However, its contributions to human value-based decision-making remain unclear, with prior neuropsychological research involving patients with cerebellar disorders yielding mixed findings. In this preregistered study, we addressed this problem by testing patients with cerebellar degeneration (CD) on a psychophysical task designed to disentangle the contributions of reinforcement learning (RL) and working memory (WM). In the RLWM task, participants used feedback to learn stimulus-response associations. The contribution of WM was assessed by varying the number of stimulus-response associations in the stimulus set under the assumption that WM can support learning for small sets but, due to capacity limits, there is a shift to RL for large sets. To further isolate RL, a test phase was conducted after a 15 min break during which the participants performed a N-back working memory task. This ensured that WM for the learned associations was eliminated due to the passage of time and interference from the N-back tasks. During the learning phase, both CD and healthy controls (HC) exhibited similar performance, with greater accuracy for stimuli from small sets compared to large sets. During the test phase, CD and HC groups performed similarly, with both showing a pronounced decline on small set stimuli. N-back performance also did not differ between groups. Together, these results suggest that the cerebellum may not be critical for value-based decision-making, as well as the RL and WM processes that support it.",
+    "attachments": [
+      {
+        "_id": "344350c8-1c7a-4fb6-8058-bb616dd92c2b",
+        "article_pdf": 1,
+        "created": 1768451519.946,
+        "filename": "All Papers/C/Cisneros et al. 2025 - No evidence for the role of the cerebellum in value-based decision making.pdf",
+        "filesize": 1513868,
+        "mimeType": "application/pdf",
+        "owner": "778D449898E211EC881CD318FB271251",
+        "pub_id": "1146d4ab-bd34-0c5e-89e9-72c2367d8113",
+        "source_filename": "Cisneros_RLDM_2025.pdf",
+        "xor_hash": [
+          "JfiHA1NTbAVuLjuLVQdXOOLdEE4="
+        ]
+      }
+    ],
+    "author": [
+      {
+        "first": "Elizabeth",
+        "last": "Cisneros",
+        "initials": "E",
+        "formatted": "Cisneros E"
+      },
+      {
+        "first": "Kiely",
+        "last": "Bol",
+        "initials": "K",
+        "formatted": "Bol K"
+      },
+      {
+        "first": "Anne",
+        "last": "Ge",
+        "initials": "A",
+        "formatted": "Ge A"
+      },
+      {
+        "first": "Collins Sabrina",
+        "last": "Abram",
+        "initials": "CS",
+        "formatted": "Abram CS"
+      },
+      {
+        "first": "Richard B",
+        "last": "Ivry",
+        "initials": "RB",
+        "formatted": "Ivry RB"
+      },
+      {
+        "first": "Jonathan S",
+        "last": "Tsay",
+        "initials": "JS",
+        "formatted": "Tsay JS"
+      }
+    ],
+    "citekey": "Cisneros2025-gz",
+    "conference": "Multi-disciplinary Conference on Reinforcement Learning and Decision Making",
+    "created": 1768451519.573,
+    "dup_sha1": "f4809eec7ff6b97ddf763c92e19e6b1e95692b69",
+    "folders": [
+      "2be42804-adb1-4867-87ff-9d438a7d6d1a"
+    ],
+    "foldersNamed": [
+      "ivry publications"
+    ],
+    "id_list": [
+      "sha1:1f60bec15fcacb0e6542176ddb67a76e2d9b9d9b",
+      "dup_sha1:f4809eec7ff6b97ddf763c92e19e6b1e95692b69"
+    ],
+    "incomplete": 0,
+    "labels": [],
+    "owner": "778D449898E211EC881CD318FB271251",
+    "published": {
+      "year": "2025"
+    },
+    "pubtype": "PP_MISC",
+    "sha1": "1f60bec15fcacb0e6542176ddb67a76e2d9b9d9b",
+    "title": "No evidence for the role of the cerebellum in value-based decision making"
+  },
+  {
+    "_id": "90e88af4-bbfd-08f9-b59d-f1b31b1c02cf",
+    "abstract": "The sensorimotor system continuously uses error signals to remain precisely calibrated. We examined how attention influences this automatic and implicit learning process in humans (male and female). Focusing first on spatial attention, we compared conditions in which attention was oriented either toward or away from the visual feedback that defined the error signal. Surprisingly, this manipulation had no effect on the rate of sensorimotor adaptation. Using dual-task methods, we next examined the influence of attentional resources on adaptation. Again, we found no effect of attention, with the rate of adaptation similar under focused and divided attention conditions. However, we found that attention modulates adaptation in an indirect manner: The rate of adaptation was significantly attenuated when the attended stimulus changed from the end of one trial to the start of the next trial. In contrast, similar changes to unattended stimuli had no impact on adaptation. These results suggest that visual attention defines the cues that establish the context for sensorimotor learning.",
+    "accessed": {
+      "year": "2026",
+      "month": "1",
+      "day": "14"
+    },
+    "attachments": [
+      {
+        "_id": "555e7b8b-b1b7-4c62-9920-ff64bad3acbc",
+        "article_pdf": 1,
+        "created": 1768451152.16,
+        "filename": "All Papers/W/Wang et al. 2025 - Attention defines the context for implicit sensorimotor adaptation.pdf",
+        "filesize": 1224898,
+        "mimeType": "application/pdf",
+        "owner": "778D449898E211EC881CD318FB271251",
+        "pub_id": "90e88af4-bbfd-08f9-b59d-f1b31b1c02cf",
+        "source_filename": "wang_li_ivry_2025.pdf",
+        "xor_hash": [
+          "5LWBWovFEzKtzthdZlcXc86Sb5w="
+        ]
+      }
+    ],
+    "author": [
+      {
+        "first": "Tianhe",
+        "last": "Wang",
+        "initials": "T",
+        "orcid": "0000-0002-0131-850X",
+        "formatted": "Wang T"
+      },
+      {
+        "first": "Jialin",
+        "last": "Li",
+        "initials": "J",
+        "orcid": "0009-0001-1861-6861",
+        "formatted": "Li J"
+      },
+      {
+        "first": "Richard B",
+        "last": "Ivry",
+        "initials": "RB",
+        "orcid": "0000-0003-4728-5130",
+        "formatted": "Ivry RB"
+      }
+    ],
+    "autoCleaned": 1,
+    "citedByLink": "http://scholar.google.com/scholar?hl=en&lr=&num=30&cites=http://dx.doi.org/10.1523/JNEUROSCI.0117-25.2025",
+    "citekey": "Wang2025-oo",
+    "copyright": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+    "created": 1768450708.881,
+    "doi": "10.1523/JNEUROSCI.0117-25.2025",
+    "dup_sha1": "a6acfbd87f7edc8a8e13ad128a2259bb7b0ff408",
+    "folders": [
+      "2be42804-adb1-4867-87ff-9d438a7d6d1a"
+    ],
+    "foldersNamed": [
+      "ivry publications"
+    ],
+    "id_list": [
+      "sha1:b6c216b3bde6a588fe18d41883a622d644603702",
+      "dup_sha1:a6acfbd87f7edc8a8e13ad128a2259bb7b0ff408",
+      "doi:10.1523/JNEUROSCI.0117-25.2025",
+      "pmc:PMC12491766",
+      "pmid:40858500",
+      "url:http://dx.doi.org/10.1523/JNEUROSCI.0117-25.2025",
+      "url:https://www.jneurosci.org/content/jneuro/45/40/e0117252025.full.pdf",
+      "url:https://www.jneurosci.org/content/45/40/e0117252025.abstract",
+      "url:https://www.jneurosci.org/content/45/40/e0117252025",
+      "url:https://www.ncbi.nlm.nih.gov/pubmed/40858500",
+      "url:https://www.jneurosci.org/lookup/doi/10.1523/JNEUROSCI.0117-25.2025",
+      "url:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12491766"
+    ],
+    "incomplete": 0,
+    "issn": "0270-6474",
+    "issn_alt": "1529-2401",
+    "issue": "40",
+    "journal": "J. Neurosci.",
+    "journalfull": "The Journal of Neuroscience: The Official Journal of the Society for Neuroscience",
+    "keywords": "cognitive resources; contextual modulation; implicit learning; sensorimotor adaptation; spatial attention",
+    "kind": "Research Article",
+    "labels": [],
+    "language": "en",
+    "owner": "778D449898E211EC881CD318FB271251",
+    "pages": "e0117252025",
+    "pdf_restricted": 1,
+    "pmc": "PMC12491766",
+    "pmid": "40858500",
+    "published": {
+      "year": "2025",
+      "month": "10",
+      "day": "1"
+    },
+    "publisher": "Society for Neuroscience",
+    "pubtype": "PP_ARTICLE",
+    "sha1": "b6c216b3bde6a588fe18d41883a622d644603702",
+    "subfolders": [
+      "All Papers/W"
+    ],
+    "title": "Attention defines the context for implicit sensorimotor adaptation",
+    "url": [
+      "http://dx.doi.org/10.1523/JNEUROSCI.0117-25.2025",
+      "https://www.jneurosci.org/lookup/doi/10.1523/JNEUROSCI.0117-25.2025",
+      "https://www.jneurosci.org/content/45/40/e0117252025.abstract",
+      "https://www.jneurosci.org/content/45/40/e0117252025",
+      "https://www.jneurosci.org/content/jneuro/45/40/e0117252025.full.pdf",
+      "https://www.ncbi.nlm.nih.gov/pubmed/40858500",
+      "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12491766"
+    ],
+    "volume": "45",
+    "xref": [
+      {
+        "type": "UpdateOf",
+        "pmid": "39282258"
+      },
+      {
+        "type": "HasPreprint",
+        "doi": "10.1101/2024.09.03.611108"
+      }
+    ]
+  },
+  {
+    "_id": "519a2be3-fe5f-0044-b66d-ad800db6cae4",
+    "abstract": "Goal-directed movements can fail due to errors in our perceptual and motor systems. While these errors may arise from random noise within these sources, they also reflect systematic motor biases that vary with the location of the target. The origin of these systematic biases remains controversial. Drawing on data from an extensive array of reaching tasks conducted over the past 30 years, we evaluated the merits of various computational models regarding the origin of motor biases. Contrary to previous theories, we show that motor biases do not arise from systematic errors associated with the sensed hand position during motor planning or from the biomechanical constraints imposed during motor execution. Rather, motor biases are primarily caused by a misalignment between eye-centric and body-centric representations of position. This model can account for motor biases across a wide range of contexts, encompassing movements with the right versus left hand, finger versus hand movements, visible and occluded starting positions, as well as before and after sensorimotor adaptation.",
+    "accessed": {
+      "year": "2026",
+      "month": "1",
+      "day": "14"
+    },
+    "attachments": [
+      {
+        "_id": "99f40a55-51e1-4137-b2a3-8db33403420f",
+        "article_pdf": 1,
+        "created": 1768451074.141,
+        "filename": "All Papers/W/Wang et al. 2026 - Motor biases reflect a misalignment between visual and proprioceptive reference frames.pdf",
+        "filesize": 2212357,
+        "mimeType": "application/pdf",
+        "owner": "778D449898E211EC881CD318FB271251",
+        "pub_id": "519a2be3-fe5f-0044-b66d-ad800db6cae4",
+        "source_filename": "wang_tsay_2026.pdf",
+        "xor_hash": [
+          "LuebAAhrVPTvlDndH8saFvuLxsI="
+        ]
+      }
+    ],
+    "author": [
+      {
+        "last": "Wang",
+        "first": "Tianhe",
+        "orcid": "0000-0002-0131-850X",
+        "initials": "T",
+        "formatted": "Wang T"
+      },
+      {
+        "last": "Morehead",
+        "first": "Ryan J",
+        "orcid": "0000-0001-5724-3028",
+        "initials": "RJ",
+        "formatted": "Morehead RJ"
+      },
+      {
+        "last": "Jiang",
+        "first": "Amber",
+        "initials": "A",
+        "formatted": "Jiang A"
+      },
+      {
+        "last": "Ivry",
+        "first": "Richard B",
+        "initials": "RB",
+        "formatted": "Ivry RB"
+      },
+      {
+        "last": "Tsay",
+        "first": "Jonathan S",
+        "orcid": "0000-0002-3992-9023",
+        "initials": "JS",
+        "formatted": "Tsay JS"
+      }
+    ],
+    "autoCleaned": 1,
+    "citedByLink": "http://scholar.google.com/scholar?hl=en&lr=&num=30&cites=http://dx.doi.org/10.7554/elife.100715.3",
+    "citekey": "Wang2026-ca",
+    "created": 1768450695.039,
+    "doi": "10.7554/elife.100715.3",
+    "dup_sha1": "cf993b8aba2de86e7f11658eb53d35132e5b1ca8",
+    "folders": [
+      "2be42804-adb1-4867-87ff-9d438a7d6d1a"
+    ],
+    "foldersNamed": [
+      "ivry publications"
+    ],
+    "id_list": [
+      "sha1:46e683ea2e1301da469526e11d634858ec48939f",
+      "dup_sha1:cf993b8aba2de86e7f11658eb53d35132e5b1ca8",
+      "doi:10.7554/elife.100715.3",
+      "url:http://dx.doi.org/10.7554/elife.100715.3",
+      "url:http://dx.doi.org/10.7554/eLife.100715.3",
+      "url:https://elifesciences.org/reviewed-preprints/100715",
+      "url:https://elifesciences.org/reviewed-preprints/100715v3",
+      "url:https://elifesciences.org/reviewed-preprints/100715.pdf"
+    ],
+    "incomplete": 0,
+    "institution": "eLife",
+    "journal": "eLife",
+    "labels": [],
+    "language": "en",
+    "owner": "778D449898E211EC881CD318FB271251",
+    "pdf_restricted": 1,
+    "published": {
+      "year": "2026",
+      "month": "1",
+      "day": "8"
+    },
+    "publisher": "eLife Sciences Publications, Ltd",
+    "pubtype": "PP_PREPRINT",
+    "sha1": "46e683ea2e1301da469526e11d634858ec48939f",
+    "subfolders": [
+      "All Papers/W"
+    ],
+    "title": "Motor biases reflect a misalignment between visual and proprioceptive reference frames",
+    "url": [
+      "http://dx.doi.org/10.7554/eLife.100715.3",
+      "http://dx.doi.org/10.7554/elife.100715.3",
+      "https://elifesciences.org/reviewed-preprints/100715",
+      "https://elifesciences.org/reviewed-preprints/100715v3",
+      "https://elifesciences.org/reviewed-preprints/100715.pdf"
+    ]
+  },
+  {
+    "_id": "29d5835c-0f28-07a2-93f1-172690c56459",
+    "abstract": "The nervous system uses prior information to enhance movement accuracy, yet the underlying computational mechanisms remain relatively unclear. Prevailing motor control models emphasize Bayesian inference, where prior information is integrated to optimally estimate the current state. An alternative framework, efficient coding, proposes that the system dynamically reallocates encoding resources on the basis of environmental statistics-a mechanism highlighted in perception while underappreciated in motor control. We compared these frameworks in reaching movements, focusing on how the system leverages short-term priors in unpredictable environments. Unexpectedly, sequential effects aligned with the efficient coding model and contradicted Bayesian models. Specifically, current movements were biased in the opposite direction of previous movements, and movement variability decreased when successive reaches were similar. We further explored the temporal dynamics of these effects and showed that sequential bias is enhanced by intrinsic motor variability. These findings, accompanied by model comparisons, further support efficient coding in motor planning.",
+    "accessed": {
+      "year": "2026",
+      "month": "1",
+      "day": "14"
+    },
+    "attachments": [
+      {
+        "_id": "0086bd2c-9ada-4c04-b810-d0db0b2f4bf4",
+        "article_pdf": 1,
+        "created": 1768450678.931,
+        "filename": "All Papers/W/Wang et al. 2025 - Sequential effects in reaching reveal efficient coding in motor planning.pdf",
+        "filesize": 1687487,
+        "mimeType": "application/pdf",
+        "pub_id": "29d5835c-0f28-07a2-93f1-172690c56459",
+        "source_filename": "sciadv.adv6572.pdf",
+        "xor_hash": [
+          "cUHkzTbE6t62Z2wMViEy3pJFwik="
+        ]
+      },
+      {
+        "_id": "7645e22a-31e7-4c01-90a5-37c4c43fc35e",
+        "article_pdf": 0,
+        "created": 1768451384.399,
+        "filename": "All Papers/W/Wang et al. 2025 - wang_fang_whitney_2025.pdf",
+        "filesize": 1687776,
+        "mimeType": "application/pdf",
+        "owner": "778D449898E211EC881CD318FB271251",
+        "pub_id": "29d5835c-0f28-07a2-93f1-172690c56459",
+        "source_filename": "wang_fang_whitney_2025.pdf",
+        "xor_hash": [
+          "zSkzsQ4oWWmBjk/fODOmUj6/vU8="
+        ]
+      }
+    ],
+    "author": [
+      {
+        "first": "Tianhe",
+        "last": "Wang",
+        "initials": "T",
+        "orcid": "0000-0002-0131-850X",
+        "formatted": "Wang T"
+      },
+      {
+        "first": "Yifan",
+        "last": "Fang",
+        "initials": "Y",
+        "orcid": "0009-0008-9880-9946",
+        "formatted": "Fang Y"
+      },
+      {
+        "first": "David",
+        "last": "Whitney",
+        "initials": "D",
+        "orcid": "0000-0002-4531-5570",
+        "formatted": "Whitney D"
+      }
+    ],
+    "autoCleaned": 1,
+    "citedByLink": "http://scholar.google.com/scholar?hl=en&lr=&num=30&cites=http://dx.doi.org/10.1126/sciadv.adv6572",
+    "citekey": "Wang2025-ft",
+    "created": 1768450676.9490001,
+    "doi": "10.1126/sciadv.adv6572",
+    "dup_sha1": "eb11cc6ed2ca8ff3a064542c76cd45f9011c784e",
+    "folders": [
+      "2be42804-adb1-4867-87ff-9d438a7d6d1a"
+    ],
+    "foldersNamed": [
+      "ivry publications"
+    ],
+    "id_list": [
+      "sha1:20c4872db418ce58fbcd99647adbb21e142a6ce9",
+      "dup_sha1:eb11cc6ed2ca8ff3a064542c76cd45f9011c784e",
+      "doi:10.1126/sciadv.adv6572",
+      "pmid:40864697",
+      "url:http://dx.doi.org/10.1126/sciadv.adv6572",
+      "url:https://www.science.org/doi/full/10.1126/sciadv.adv6572",
+      "url:https://www.science.org/doi/10.1126/sciadv.adv6572",
+      "url:https://www.ncbi.nlm.nih.gov/pubmed/40864697"
+    ],
+    "incomplete": 0,
+    "issn": "2375-2548",
+    "issue": "35",
+    "journal": "Sci. Adv.",
+    "journalfull": "Science Advances",
+    "kind": "Research Article",
+    "labels": [],
+    "language": "en",
+    "number": "eadv6572",
+    "owner": "778D449898E211EC881CD318FB271251",
+    "pages": "eadv6572",
+    "pdf_restricted": 0,
+    "pmid": "40864697",
+    "published": {
+      "year": "2025",
+      "month": "8",
+      "day": "29"
+    },
+    "publisher": "American Association for the Advancement of Science (AAAS)",
+    "pubtype": "PP_ARTICLE",
+    "sha1": "20c4872db418ce58fbcd99647adbb21e142a6ce9",
+    "subfolders": [
+      "All Papers/W"
+    ],
+    "title": "Sequential effects in reaching reveal efficient coding in motor planning",
+    "url": [
+      "http://dx.doi.org/10.1126/sciadv.adv6572",
+      "https://www.science.org/doi/10.1126/sciadv.adv6572",
+      "https://www.science.org/doi/full/10.1126/sciadv.adv6572",
+      "https://www.ncbi.nlm.nih.gov/pubmed/40864697"
+    ],
+    "volume": "11",
+    "xref": [
+      {
+        "type": "UpdateOf",
+        "pmid": "39416082"
+      },
+      {
+        "type": "HasPreprint",
+        "doi": "10.1101/2024.09.30.615975"
+      }
+    ]
+  },
+  {
+    "_id": "71ee92c7-d007-025c-9b21-6c417e5e958d",
+    "abstract": "The cerebellum is crucial for sensorimotor adaptation, using error information to keep the sensorimotor system well calibrated. Here, we introduce a population-coding model to explore this process, focusing on how implicit adaptation is modulated by context. The model consists of a two-layered network, designed to capture activity in both the cerebellar cortex and deep cerebellar nuclei. A core feature of the model is that within each layer, the processing units are tuned to both movement direction and the direction of movement error. The model recapitulates a large range of contextual effects such as how prior learning, error uncertainty, or temporal delay affect the rate of adaptation. While these effects have traditionally been taken to indicate a form of meta-learning or context-dependent memory within the adaptation system, the current results show that they can emerge from the population activity of a cerebellar-like hierarchical network that does not represent context.",
+    "accessed": {
+      "year": "2026",
+      "month": "1",
+      "day": "14"
+    },
+    "attachments": [
+      {
+        "_id": "0ca5028a-6782-41de-ba8c-436c10d9120e",
+        "article_pdf": 0,
+        "created": 1768451436.2779999,
+        "filename": "All Papers/W/Wang and Ivry 2025 - 2025_wang_ivry.pdf",
+        "filesize": 1872025,
+        "mimeType": "application/pdf",
+        "owner": "778D449898E211EC881CD318FB271251",
+        "pub_id": "71ee92c7-d007-025c-9b21-6c417e5e958d",
+        "source_filename": "2025_wang_ivry.pdf",
+        "xor_hash": [
+          "pPXgfjFUP5rHSlJwRdOwEcazwFs="
+        ]
+      },
+      {
+        "_id": "ca84e88b-a4ed-4a5a-9be6-fc98f13df40e",
+        "article_pdf": 1,
+        "created": 1768450666.854,
+        "filename": "All Papers/W/Wang and Ivry 2025 - Contextual effects during sensorimotor adaptation a ... emergent property of population coding in a cerebellar-inspired model.pdf",
+        "filesize": 1871598,
+        "mimeType": "application/pdf",
+        "pub_id": "71ee92c7-d007-025c-9b21-6c417e5e958d",
+        "source_filename": "sciadv.adr4540.pdf",
+        "xor_hash": [
+          "b1FmmwD8jZcYSc+2JXJnKjkVVok="
+        ]
+      }
+    ],
+    "author": [
+      {
+        "first": "Tianhe",
+        "last": "Wang",
+        "initials": "T",
+        "orcid": "0000-0002-0131-850X",
+        "formatted": "Wang T"
+      },
+      {
+        "first": "Richard B",
+        "last": "Ivry",
+        "initials": "RB",
+        "orcid": "0000-0003-4728-5130",
+        "formatted": "Ivry RB"
+      }
+    ],
+    "autoCleaned": 1,
+    "citedByLink": "http://scholar.google.com/scholar?hl=en&lr=&num=30&cites=http://dx.doi.org/10.1126/sciadv.adr4540",
+    "citekey": "Wang2025-cq",
+    "created": 1768450664.933,
+    "doi": "10.1126/sciadv.adr4540",
+    "dup_sha1": "59968f839024a9e5c99748cf30972d9118ad84c6",
+    "folders": [
+      "2be42804-adb1-4867-87ff-9d438a7d6d1a"
+    ],
+    "foldersNamed": [
+      "ivry publications"
+    ],
+    "id_list": [
+      "sha1:b202e42c5a75bcb0a6aa1510247b3b6429b9b48f",
+      "dup_sha1:59968f839024a9e5c99748cf30972d9118ad84c6",
+      "doi:10.1126/sciadv.adr4540",
+      "pmc:PMC12571086",
+      "pmid:41160689",
+      "url:http://dx.doi.org/10.1126/sciadv.adr4540",
+      "url:https://www.science.org/doi/full/10.1126/sciadv.adr4540",
+      "url:https://www.science.org/doi/10.1126/sciadv.adr4540",
+      "url:https://www.ncbi.nlm.nih.gov/pubmed/41160689",
+      "url:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12571086"
+    ],
+    "incomplete": 0,
+    "issn": "2375-2548",
+    "issue": "44",
+    "journal": "Sci. Adv.",
+    "journalfull": "Science Advances",
+    "kind": "Research Article",
+    "labels": [],
+    "language": "en",
+    "number": "eadr4540",
+    "owner": "778D449898E211EC881CD318FB271251",
+    "pages": "eadr4540",
+    "pdf_restricted": 0,
+    "pmc": "PMC12571086",
+    "pmid": "41160689",
+    "published": {
+      "year": "2025",
+      "month": "10",
+      "day": "31"
+    },
+    "publisher": "American Association for the Advancement of Science (AAAS)",
+    "pubtype": "PP_ARTICLE",
+    "sha1": "b202e42c5a75bcb0a6aa1510247b3b6429b9b48f",
+    "subfolders": [
+      "All Papers/W"
+    ],
+    "title": "Contextual effects during sensorimotor adaptation are an emergent property of population coding in a cerebellar-inspired model",
+    "url": [
+      "http://dx.doi.org/10.1126/sciadv.adr4540",
+      "https://www.science.org/doi/10.1126/sciadv.adr4540",
+      "https://www.science.org/doi/full/10.1126/sciadv.adr4540",
+      "https://www.ncbi.nlm.nih.gov/pubmed/41160689",
+      "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12571086"
+    ],
+    "volume": "11"
   }
 ]

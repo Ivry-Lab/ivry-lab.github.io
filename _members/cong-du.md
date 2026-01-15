@@ -1,8 +1,8 @@
 ---
 name: Cong Du
 image: images/cong.jpg
-role: Full-time research assistant
-email:  congdu@berkeley.edu 
+role: Research Assistant
+email: congdu@berkeley.edu
 order: 10
 ---
 
