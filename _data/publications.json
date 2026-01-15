@@ -24659,112 +24659,6 @@
     ]
   },
   {
-    "_id": "90e88af4-bbfd-08f9-b59d-f1b31b1c02cf",
-    "abstract": "The sensorimotor system continuously uses error signals to remain precisely calibrated. We examined how attention influences this automatic and implicit learning process in humans (male and female). Focusing first on spatial attention, we compared conditions in which attention was oriented either toward or away from the visual feedback that defined the error signal. Surprisingly, this manipulation had no effect on the rate of sensorimotor adaptation. Using dual-task methods, we next examined the influence of attentional resources on adaptation. Again, we found no effect of attention, with the rate of adaptation similar under focused and divided attention conditions. However, we found that attention modulates adaptation in an indirect manner: The rate of adaptation was significantly attenuated when the attended stimulus changed from the end of one trial to the start of the next trial. In contrast, similar changes to unattended stimuli had no impact on adaptation. These results suggest that visual attention defines the cues that establish the context for sensorimotor learning.",
-    "accessed": {
-      "year": "2026",
-      "month": "1",
-      "day": "14"
-    },
-    "author": [
-      {
-        "first": "Tianhe",
-        "last": "Wang",
-        "initials": "T",
-        "orcid": "0000-0002-0131-850X",
-        "formatted": "Wang T"
-      },
-      {
-        "first": "Jialin",
-        "last": "Li",
-        "initials": "J",
-        "orcid": "0009-0001-1861-6861",
-        "formatted": "Li J"
-      },
-      {
-        "first": "Richard B",
-        "last": "Ivry",
-        "initials": "RB",
-        "orcid": "0000-0003-4728-5130",
-        "formatted": "Ivry RB"
-      }
-    ],
-    "autoCleaned": 1,
-    "citedByLink": "http://scholar.google.com/scholar?hl=en&lr=&num=30&cites=http://dx.doi.org/10.1523/JNEUROSCI.0117-25.2025",
-    "citekey": "Wang2025-oo",
-    "copyright": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-    "created": 1768450708.881,
-    "doi": "10.1523/JNEUROSCI.0117-25.2025",
-    "dup_sha1": "a6acfbd87f7edc8a8e13ad128a2259bb7b0ff408",
-    "folders": [
-      "2be42804-adb1-4867-87ff-9d438a7d6d1a"
-    ],
-    "foldersNamed": [
-      "ivry publications"
-    ],
-    "id_list": [
-      "sha1:b6c216b3bde6a588fe18d41883a622d644603702",
-      "dup_sha1:a6acfbd87f7edc8a8e13ad128a2259bb7b0ff408",
-      "doi:10.1523/JNEUROSCI.0117-25.2025",
-      "pmc:PMC12491766",
-      "pmid:40858500",
-      "url:http://dx.doi.org/10.1523/JNEUROSCI.0117-25.2025",
-      "url:https://www.jneurosci.org/content/jneuro/45/40/e0117252025.full.pdf",
-      "url:https://www.jneurosci.org/content/45/40/e0117252025.abstract",
-      "url:https://www.jneurosci.org/content/45/40/e0117252025",
-      "url:https://www.ncbi.nlm.nih.gov/pubmed/40858500",
-      "url:https://www.jneurosci.org/lookup/doi/10.1523/JNEUROSCI.0117-25.2025",
-      "url:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12491766"
-    ],
-    "incomplete": 0,
-    "issn": "0270-6474",
-    "issn_alt": "1529-2401",
-    "issue": "40",
-    "journal": "J. Neurosci.",
-    "journalfull": "The Journal of Neuroscience: The Official Journal of the Society for Neuroscience",
-    "keywords": "cognitive resources; contextual modulation; implicit learning; sensorimotor adaptation; spatial attention",
-    "kind": "Research Article",
-    "labels": [],
-    "language": "en",
-    "owner": "778D449898E211EC881CD318FB271251",
-    "pages": "e0117252025",
-    "pdf_restricted": 1,
-    "pmc": "PMC12491766",
-    "pmid": "40858500",
-    "published": {
-      "year": "2025",
-      "month": "10",
-      "day": "1"
-    },
-    "publisher": "Society for Neuroscience",
-    "pubtype": "PP_ARTICLE",
-    "sha1": "b6c216b3bde6a588fe18d41883a622d644603702",
-    "subfolders": [
-      "All Papers/W"
-    ],
-    "title": "Attention defines the context for implicit sensorimotor adaptation",
-    "url": [
-      "http://dx.doi.org/10.1523/JNEUROSCI.0117-25.2025",
-      "https://www.jneurosci.org/lookup/doi/10.1523/JNEUROSCI.0117-25.2025",
-      "https://www.jneurosci.org/content/45/40/e0117252025.abstract",
-      "https://www.jneurosci.org/content/45/40/e0117252025",
-      "https://www.jneurosci.org/content/jneuro/45/40/e0117252025.full.pdf",
-      "https://www.ncbi.nlm.nih.gov/pubmed/40858500",
-      "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12491766"
-    ],
-    "volume": "45",
-    "xref": [
-      {
-        "type": "UpdateOf",
-        "pmid": "39282258"
-      },
-      {
-        "type": "HasPreprint",
-        "doi": "10.1101/2024.09.03.611108"
-      }
-    ]
-  },
-  {
     "_id": "1146d4ab-bd34-0c5e-89e9-72c2367d8113",
     "abstract": "The functional domain of the cerebellum extends beyond sensorimotor control, with various lines of evidence pointing to its involvement in a range of cognitive and affective processes including decision making. However, its contributions to human value-based decision-making remain unclear, with prior neuropsychological research involving patients with cerebellar disorders yielding mixed findings. In this preregistered study, we addressed this problem by testing patients with cerebellar degeneration (CD) on a psychophysical task designed to disentangle the contributions of reinforcement learning (RL) and working memory (WM). In the RLWM task, participants used feedback to learn stimulus-response associations. The contribution of WM was assessed by varying the number of stimulus-response associations in the stimulus set under the assumption that WM can support learning for small sets but, due to capacity limits, there is a shift to RL for large sets. To further isolate RL, a test phase was conducted after a 15 min break during which the participants performed a N-back working memory task. This ensured that WM for the learned associations was eliminated due to the passage of time and interference from the N-back tasks. During the learning phase, both CD and healthy controls (HC) exhibited similar performance, with greater accuracy for stimuli from small sets compared to large sets. During the test phase, CD and HC groups performed similarly, with both showing a pronounced decline on small set stimuli. N-back performance also did not differ between groups. Together, these results suggest that the cerebellum may not be critical for value-based decision-making, as well as the RL and WM processes that support it.",
     "attachments": [
@@ -25092,7 +24986,7 @@
         "filesize": 1687487,
         "mimeType": "application/pdf",
         "pub_id": "29d5835c-0f28-07a2-93f1-172690c56459",
-        "source_filename": "sciadv.adv6572.pdf",
+        "source_filename": "wang_fang_whitney_2025.pdf",
         "xor_hash": [
           "cUHkzTbE6t62Z2wMViEy3pJFwik="
         ]
@@ -25231,7 +25125,7 @@
         "filesize": 1871598,
         "mimeType": "application/pdf",
         "pub_id": "71ee92c7-d007-025c-9b21-6c417e5e958d",
-        "source_filename": "sciadv.adr4540.pdf",
+        "source_filename": "2025_wang_ivry.pdf",
         "xor_hash": [
           "b1FmmwD8jZcYSc+2JXJnKjkVVok="
         ]
@@ -25311,5 +25205,56 @@
       "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12571086"
     ],
     "volume": "11"
+  },
+  {
+    "_id": "a9604e79-8a5d-016f-be65-549cc16d3b5f",
+    "abstract": "Savings refers to the gain in performance upon relearning. In sensorimotor adaptation, savings is tested by having participants adapt to perturbed feedback and, following a washout block during which the system resets to baseline, presenting the same perturbation again. While savings has been observed with these tasks, we have shown that the contribution from implicit adaptation, a process that uses errors to recalibrate the sensorimotor map, is attenuated upon relearning ( Avraham et al., 2021). Here, we test the hypothesis that this attenuation is due to interference arising from the different relationship between the movement and the feedback during washout. Removing the perturbation at the start of the washout block typically results in a salient error signal in the opposite direction to that observed during learning. We first replicated the finding that implicit adaptation is attenuated following a washout period that introduces salient opposite errors. When we eliminated feedback during washout, relearning was no longer attenuated, consistent with the interference hypothesis. Next, we created a scenario in which the perceived errors during washout were not salient, falling within the range of motor noise. Nonetheless, attenuation was still prominent. Inspired by this observation, we tested participants with an extended initial experience with veridical feedback and found that this was sufficient to attenuate adaptation during the first learning block. This effect was context specific and did not generalize to other movements. Taken together, the implicit sensorimotor adaptation system is highly sensitive to memory interference from a recent experience with a discrepant action-outcome contingency.",
+    "attachments": [
+      {
+        "_id": "4725a124-c563-4a56-99ba-f0313e9f1361",
+        "article_pdf": 1,
+        "created": 1768498857.373,
+        "filename": "All Papers/A/Avraham and Ivry 2025 - Interference underlies attenuation upon relearning in sensorimotor adaptation.pdf",
+        "filesize": 2565969,
+        "mimeType": "application/pdf",
+        "owner": "778D449898E211EC881CD318FB271251",
+        "pub_id": "a9604e79-8a5d-016f-be65-549cc16d3b5f",
+        "source_filename": "2025_avraham_ivry_eneuro.pdf",
+        "xor_hash": [
+          "hHCg1qvCXuAD6FW2rU2ZPpHU2AQ="
+        ]
+      }
+    ],
+    "author": [
+      {
+        "initials": "G",
+        "first": "Guy",
+        "formatted": "Avraham G",
+        "orcid": "0000-0002-6170-1041",
+        "last": "Avraham"
+      },
+      {
+        "initials": "RB",
+        "first": "Richard B",
+        "formatted": "Ivry RB",
+        "orcid": "0000-0003-4728-5130",
+        "last": "Ivry"
+      }
+    ],
+    "doi": "10.1523/ENEURO.0132-25.2025",
+    "issn": "2373-2822",
+    "issue": "6",
+    "journal": "eNeuro",
+    "journalfull": "eNeuro",
+    "keywords": "associative learning; memory; reaching; sensorimotor adaptation",
+    "pmc": "PMC12203768",
+    "pmid": "40473468",
+    "published": {
+      "month": "6",
+      "year": "2025"
+    },
+    "pubtype": "PP_ARTICLE",
+    "title": "Interference underlies attenuation upon relearning in sensorimotor adaptation",
+    "volume": "12"
   }
 ]
