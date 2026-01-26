@@ -25256,5 +25256,107 @@
     "pubtype": "PP_ARTICLE",
     "title": "Interference underlies attenuation upon relearning in sensorimotor adaptation",
     "volume": "12"
+  },
+  {
+    "_id": "7e06e69a-ab9b-059b-a528-fb42c864bf49",
+    "abstract": "Cerebellar involvement in language processing has received considerable attention in the neuroimaging and neuropsychology literatures. Building off the motor control literature, one account of this involvement centers on the idea of internal models. In the context of language, this hypothesis suggests that the cerebellum is essential for building semantic models that, in concert with the cerebral cortex, help anticipate or predict linguistic input. To date, supportive evidence has primarily come from neuroimaging studies showing that cerebellar activation increases in contexts in which semantic predictions are generated and violated. Taking a neuropsychological approach, we put the internal model hypothesis to the test, asking if individuals with cerebellar degeneration (n = 14) show reduced sensitivity to semantic prediction. Using a sentence verification task, we compare reaction time to sentences that vary in terms of cloze probability. We also evaluated a more constrained variant of the prediction hypothesis, asking if the cerebellum facilitates the generation of semantic predictions when the content of a sentence refers to a dynamic rather than static mental transformation. The results failed to support either hypothesis: Compared to matched control participants (n = 17), individuals with cerebellar degeneration showed a similar reduction in reaction time for sentences with high cloze probability and no selective impairment in predictions involving dynamic transformations. These results challenge current theorizing about the role of the cerebellum in language processing, pointing to a misalignment between neuroimaging and neuropsychology research on this topic.",
+    "accessed": {
+      "month": "10",
+      "day": "12",
+      "year": "2024"
+    },
+    "attachments": [
+      {
+        "_id": "73e491e5-1ef7-4985-bfee-b7d359f3f91d",
+        "article_pdf": 1,
+        "created": 1728788928.638,
+        "filename": "files/organized_pubs_pdfs/2024_king_ivry.pdf",
+        "filesize": 580191,
+        "mimeType": "application/pdf",
+        "owner": "778D449898E211EC881CD318FB271251",
+        "pub_id": "7e06e69a-ab9b-059b-a528-fb42c864bf49",
+        "source_filename": "nol_a_00083.pdf"
+      }
+    ],
+    "author": [
+      {
+        "initials": "M",
+        "first": "Maedbh",
+        "formatted": "King M",
+        "orcid": "0000-0001-5374-1011",
+        "last": "King"
+      },
+      {
+        "initials": "S",
+        "first": "Sienna",
+        "formatted": "Bruinsma S",
+        "orcid": "0000-0003-3314-306X",
+        "last": "Bruinsma"
+      },
+      {
+        "initials": "RB",
+        "first": "Richard B",
+        "formatted": "Ivry RB",
+        "orcid": "0000-0003-4728-5130",
+        "last": "Ivry"
+      }
+    ],
+    "citedByLink": "http://scholar.google.com/scholar?hl=en&lr=&num=30&cites=http://dx.doi.org/10.1162/nol_a_00083",
+    "citekey": "King2024-cq",
+    "copyright": "https://creativecommons.org/licenses/by/4.0/",
+    "created": 1728788924.401,
+    "doi": "10.1162/nol_a_00083",
+    "dup_sha1": "d06eee14f06f5adb53d265d21a225de41f809e28",
+    "folders": [
+      "2be42804-adb1-4867-87ff-9d438a7d6d1a"
+    ],
+    "foldersNamed": [
+      "ivry publications"
+    ],
+    "id_list": [
+      "sha1:a17543c97f3d4c3b062cd769fc11d14057f1def4",
+      "dup_sha1:d06eee14f06f5adb53d265d21a225de41f809e28",
+      "doi:10.1162/nol_a_00083",
+      "pmc:PMC11338309",
+      "pmid:39175790",
+      "url:http://dx.doi.org/10.1162/nol_a_00083",
+      "url:https://dx.doi.org/10.1162/nol_a_00083",
+      "url:https://direct.mit.edu/nol/article/5/3/635/113249/No-Evidence-for-Semantic-Prediction-Deficits-in",
+      "url:https://www.ncbi.nlm.nih.gov/pubmed/39175790",
+      "url:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11338309",
+      "url:https://direct.mit.edu/nol/article-pdf/5/3/635/2465637/nol_a_00083.pdf"
+    ],
+    "incomplete": 0,
+    "issn": "2641-4368",
+    "issue": "3",
+    "journal": "Neurobiol. Lang. (Camb.)",
+    "journalfull": "Neurobiology of language (Cambridge, Mass.)",
+    "keywords": "cerebellar degeneration; cerebellum; internal model; prediction; semantic prediction",
+    "kind": "Research Article",
+    "labels": [],
+    "language": "en",
+    "owner": "778D449898E211EC881CD318FB271251",
+    "pages": "635-651",
+    "pdf_restricted": 0,
+    "pmc": "PMC11338309",
+    "pmid": "39175790",
+    "published": {
+      "month": "8",
+      "day": "15",
+      "year": "2024"
+    },
+    "publisher": "MIT Press",
+    "pubtype": "PP_ARTICLE",
+    "sha1": "a17543c97f3d4c3b062cd769fc11d14057f1def4",
+    "title": "No evidence for semantic prediction deficits in individuals with cerebellar degeneration",
+    "url": [
+      "https://direct.mit.edu/nol/article-pdf/5/3/635/2465637/nol_a_00083.pdf",
+      "https://dx.doi.org/10.1162/nol_a_00083",
+      "https://direct.mit.edu/nol/article/5/3/635/113249/No-Evidence-for-Semantic-Prediction-Deficits-in",
+      "https://www.ncbi.nlm.nih.gov/pubmed/39175790",
+      "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11338309",
+      "http://dx.doi.org/10.1162/nol_a_00083"
+    ],
+    "volume": "5"
   }
 ]
