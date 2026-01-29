@@ -1,5 +1,17 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1126/sciadv.adr4540
+  title: Contextual effects during sensorimotor adaptation are an emergent property
+    of population coding in a cerebellar-inspired model
+  authors:
+  - Tianhe Wang
+  - Richard B. Ivry
+  publisher: Science Advances
+  date: '2025-10-31'
+  link: https://doi.org/g98xjx
+  orcid: 0000-0003-4728-5130
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1523/JNEUROSCI.0117-25.2025
   title: Attention Defines the Context for Implicit Sensorimotor Adaptation
   authors:
@@ -124,7 +136,7 @@
   - Sheer Karny
   - Richard B. Ivry
   - Jonathan S. Tsay
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2024-07-04'
   link: https://doi.org/g9cg25
   orcid: 0000-0003-4728-5130
@@ -137,7 +149,7 @@
   - Sabrina J. Abram
   - Richard B. Ivry
   - Jonathan S. Tsay
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2024-07-01'
   link: https://doi.org/g9cg27
   orcid: 0000-0003-4728-5130
@@ -163,7 +175,7 @@
   authors:
   - Guy Avraham
   - Richard B Ivry
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2024-06-01'
   link: https://doi.org/g9cg29
   orcid: 0000-0003-4728-5130
@@ -239,7 +251,7 @@
   authors:
   - Tianhe Wang
   - Richard B. Ivry
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2023-07-04'
   link: https://doi.org/g9cg3j
   orcid: 0000-0003-4728-5130
@@ -248,15 +260,15 @@
 - id: doi:10.1101/2023.06.27.546738
   title: Implicit reward-based motor learning
   authors:
-  - Nina M. Van Mastrigt
+  - Nina M. van Mastrigt
   - Jonathan S. Tsay
   - Tianhe Wang
   - Guy Avraham
   - Sabrina J. Abram
-  - Katinka Van Der Kooij
+  - Katinka van der Kooij
   - Jeroen B. J. Smeets
   - Richard B. Ivry
-  publisher: Neuroscience
+  publisher: openRxiv
   date: '2023-06-28'
   link: https://doi.org/g9cg3m
   orcid: 0000-0003-4728-5130
@@ -275,7 +287,7 @@
   - Robert T. Knight
   - Richard B. Ivry
   - Harrison C. Walker
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2023-05-24'
   link: https://doi.org/g9cg3n
   orcid: 0000-0003-4728-5130
@@ -304,7 +316,7 @@
   - Caroline Nettekoven
   - Richard Ivry
   - "J\xF6rn Diedrichsen"
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2023-01-26'
   link: https://doi.org/g9cg3r
   orcid: 0000-0003-4728-5130
@@ -322,7 +334,7 @@
   - "Alessandro Farn\xE8"
   - Richard B. Ivry
   - Fabrice R. Sarlegna
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2023-01-20'
   link: https://doi.org/g9cg3s
   orcid: 0000-0003-4728-5130
@@ -337,7 +349,7 @@
   - Jeremy Wilmer
   - Richard B. Ivry
   - Ken Nakayama
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2023-01-20'
   link: https://doi.org/gsxxw3
   orcid: 0000-0003-4728-5130
@@ -349,7 +361,7 @@
   - Jonathan S. Tsay
   - Lauren Schuck
   - Richard B. Ivry
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2022-10-07'
   link: https://doi.org/g9cg3v
   orcid: 0000-0003-4728-5130
@@ -390,7 +402,7 @@
   - Jonathan S. Tsay
   - Carolyn Irving
   - Richard B. Ivry
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2022-07-04'
   link: https://doi.org/g9cg3z
   orcid: 0000-0003-4728-5130
@@ -404,7 +416,7 @@
   - Ladan Shahshahani
   - Richard Ivry
   - "J\xF6rn Diedrichsen"
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2022-05-08'
   link: https://doi.org/gsx5sn
   orcid: 0000-0003-4728-5130
@@ -451,7 +463,7 @@
   - Lauren Schuck
   - Tianhe Wang
   - Richard B. Ivry
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2022-03-14'
   link: https://doi.org/gszgpb
   orcid: 0000-0003-4728-5130
@@ -466,7 +478,7 @@
   - Alissa R. Stover
   - Richard B. Ivry
   - J. Ryan Morehead
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2022-01-21'
   link: https://doi.org/gsz4vj
   orcid: 0000-0003-4728-5130
@@ -481,7 +493,7 @@
   - Marlena Chu
   - Richard B. Ivry
   - Emily A. Cooper
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2022-01-04'
   link: https://doi.org/gszfdj
   orcid: 0000-0003-4728-5130
@@ -495,7 +507,7 @@
   - Hyosub E. Kim
   - Adrian M. Haith
   - Richard B. Ivry
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2021-12-23'
   link: https://doi.org/gsxbcp
   orcid: 0000-0003-4728-5130
@@ -525,7 +537,7 @@
   - Darius E Parvin
   - Timothy Verstynen
   - Richard B Ivry
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2021-10-22'
   link: https://doi.org/gm7xrq
   orcid: 0000-0003-4728-5130
@@ -580,7 +592,7 @@
   - Adrian M. Haith
   - Richard B. Ivry
   - Hyosub E. Kim
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2021-06-20'
   link: https://doi.org/gsw973
   orcid: 0000-0003-4728-5130
@@ -595,7 +607,7 @@
   - Assaf Breska
   - Arohi Saxena
   - Richard B. Ivry
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2021-04-06'
   link: https://doi.org/g9cg4b
   orcid: 0000-0003-4728-5130
@@ -609,7 +621,7 @@
   - Alan S. Lee
   - Richard B. Ivry
   - Guy Avraham
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2021-02-01'
   link: https://doi.org/gsvr5t
   orcid: 0000-0003-4728-5130
@@ -621,7 +633,7 @@
   authors:
   - Assaf Breska
   - Richard B. Ivry
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2021-01-15'
   link: https://doi.org/g9cg4d
   orcid: 0000-0003-4728-5130
@@ -677,7 +689,7 @@
   - Darius E. Parvin
   - Alissa R. Stover
   - Richard B. Ivry
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2020-10-03'
   link: https://doi.org/g9cg4j
   orcid: 0000-0003-4728-5130
@@ -704,7 +716,7 @@
   - Joni D. Wallis
   - Richard B. Ivry
   - Jose M. Carmena
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2020-09-23'
   link: https://doi.org/gk6kxn
   orcid: 0000-0003-4728-5130
@@ -719,7 +731,7 @@
   - Assaf Breska
   - Richard B. Ivry
   - Samuel D. McDougle
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2020-09-15'
   link: https://doi.org/gpbndz
   orcid: 0000-0003-4728-5130
@@ -733,9 +745,27 @@
   - J Ryan Morehead
   - Hyosub E Kim
   - Richard B Ivry
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2020-07-16'
   link: https://doi.org/g9cg4m
+  orcid: 0000-0003-4728-5130
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.31234/osf.io/hwmpy
+  title: 'OnPoint: A package for online experiments in motor control and motor learning'
+  authors:
+  - Jonathan Sanching Tsay
+  - Alan S. Lee
+  - Guy Avraham
+  - Darius E. Parvin
+  - Jeremy Ho
+  - Matthew Boggess
+  - Riley Woo
+  - Ken Nakayama
+  - Richard Ivry
+  publisher: Center for Open Science
+  date: '2020-07-01'
+  link: https://doi.org/hbbm9z
   orcid: 0000-0003-4728-5130
   plugin: orcid.py
   file: orcid.yaml
@@ -745,7 +775,7 @@
   - Jonathan S. Tsay
   - Darius E. Parvin
   - Richard B. Ivry
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2020-04-30'
   link: https://doi.org/g9cg4p
   orcid: 0000-0003-4728-5130
@@ -760,9 +790,25 @@
   - Darius E. Parvin
   - Zixuan Wang
   - Richard B. Ivry
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2020-03-17'
   link: https://doi.org/gk3shc
+  orcid: 0000-0003-4728-5130
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.31234/osf.io/dxpv4
+  title: How can neuroscientists respond to the climate emergency?
+  authors:
+  - Adam Robert Aron
+  - Richard Ivry
+  - Kate Jeffrey
+  - Russell Poldrack
+  - Robert Schmidt
+  - Christopher Summerfield
+  - Anne E Urai
+  publisher: Center for Open Science
+  date: '2020-02-04'
+  link: https://doi.org/hbbm92
   orcid: 0000-0003-4728-5130
   plugin: orcid.py
   file: orcid.yaml
@@ -779,7 +825,7 @@
   - Mark Mon-Williams
   - Jordan A. Taylor
   - Richard B. Ivry
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2019-11-25'
   link: https://doi.org/ggzhfp
   orcid: 0000-0003-4728-5130
@@ -791,7 +837,7 @@
   - Kristy V. Dang
   - Darius E. Parvin
   - Richard B. Ivry
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2019-05-20'
   link: https://doi.org/gkxm88
   orcid: 0000-0003-4728-5130
@@ -809,6 +855,17 @@
   orcid: 0000-0003-4728-5130
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.31234/osf.io/a5gn6
+  title: Spatial constraints in saccadic inhibition of return
+  authors:
+  - Brent D. Parsons
+  - Richard Ivry
+  publisher: Center for Open Science
+  date: '2019-02-18'
+  link: https://doi.org/hbbm93
+  orcid: 0000-0003-4728-5130
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1101/423509
   title: A Multi-Domain Task Battery Reveals Functional Boundaries in the Human Cerebellum
   authors:
@@ -817,7 +874,7 @@
   - Russell A. Poldrack
   - Richard B. Ivry
   - "J\xF6rn Diedrichsen"
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2018-09-21'
   link: https://doi.org/gkvng4
   orcid: 0000-0003-4728-5130
@@ -829,7 +886,7 @@
   - Hyosub Kim
   - Darius Parvin
   - Richard Ivry
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2018-07-06'
   link: https://doi.org/gkwmz5
   orcid: 0000-0003-4728-5130
@@ -858,7 +915,7 @@
   - Darius E. Parvin
   - Reza Moazzezi
   - Richard B. Ivry
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2017-09-15'
   link: https://doi.org/gktrdb
   orcid: 0000-0003-4728-5130
@@ -874,7 +931,7 @@
   - David Rydz
   - John W. Krakauer
   - Jordan A. Taylor
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2017-05-17'
   link: https://doi.org/gkvnzm
   orcid: 0000-0003-4728-5130
