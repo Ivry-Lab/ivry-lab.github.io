@@ -19,6 +19,8 @@ Lab updates, announcements, and newsletters from the Cognition and Action Lab.
 
 ## Newsletters
 
-{% include list.html data="news" component="card" filter="group == 'newsletter'"%}
+<div class="newsletter-grid">
+{% include list.html data="news" component="card" filter="group == 'newsletter'" style="small" %}
+</div>
 
 {% include section.html %}

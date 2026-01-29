@@ -38,7 +38,7 @@ Research projects in the lab involve: motor learning and control, action selecti
 
 {%
   include button.html
-  link="projects"
+  link="research"
   text="Browse our projects"
   icon="fa-solid fa-arrow-right"
   flip=true
@@ -49,8 +49,8 @@ Research projects in the lab involve: motor learning and control, action selecti
 
 {%
   include feature.html
-  image="images/photo.jpg"
-  link="projects"
+  image="images/kinarm_project_photo.jpg"
+  link="research"
   title="Our Projects"
   flip=true
   style="bare"

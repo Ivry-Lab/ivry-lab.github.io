@@ -26,6 +26,11 @@ Undergrads interested in volunteering as a CognAc research assistant can use the
 - If the URAP application is closed, you can still apply through our [online application form](https://docs.google.com/a/berkeley.edu/forms/d/e/1FAIpQLSf17VCJfhZuyymCeKDvsn0BpHdj_HRUCS0HQJUXDrFuPUy6Ig/viewform).
 
 ---
+## Interested High School Students 
+High school students interesed in doing an internship can check if the lab is currently accepting high school interns [here](/files/high_school_interest_letter.pdf). 
 
+Please note at this time (Fall 2025) the lab is not currently offering high school internship positions. 
+
+---
 ## CognAc Lab Policies
 You can view the CognAc lab policies [here](/files/CognAc%20LAB%20POLICIES%20July2025.pdf).
