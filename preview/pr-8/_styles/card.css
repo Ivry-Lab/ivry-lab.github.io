@@ -47,4 +47,17 @@
   font-style: italic;
 }
 
+.newsletter-grid {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+  gap: 20px;
+}
+
+.newsletter-grid .card {
+  width: 200px;
+  margin: 0;
+}
+
 /*# sourceMappingURL=card.css.map */
