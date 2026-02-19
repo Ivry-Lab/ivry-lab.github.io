@@ -16,7 +16,7 @@ No post-doctoral positions are available in the Cognition and Action lab at UC B
 For information on joining CognAc as a graduate student, [read here](/files/applying_to_berkeley_2020.pdf).  
 For general information on graduate programs at UC Berkeley relevant to cognitive neuroscience, [read here](https://neurograd.berkeley.edu/).
 
-**NOTE:** Prof. Ivry is **NOT** recruiting new graduate students for the 2023-24 academic year.
+**NOTE:** Recruitment for new graduate students starting 2026-27 academic year is completed. Inquiries regarding following years should be sent to Prof. Ivry, ivry@berkeley.edu starting in August 2026. He will not have information about 2027-28 year until then.
 
 ---
 
@@ -29,7 +29,7 @@ Undergrads interested in volunteering as a CognAc research assistant can use the
 ## Interested High School Students 
 High school students interesed in doing an internship can check if the lab is currently accepting high school interns [here](/files/high_school_interest_letter.pdf). 
 
-Please note at this time (Fall 2025) the lab is not currently offering high school internship positions. 
+**NOTE:** The lab is not currently offering high school internship positions.
 
 ---
 ## CognAc Lab Policies
