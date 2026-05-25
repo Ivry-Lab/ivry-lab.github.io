@@ -1,5 +1,19 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1038/s41562-026-02468-7
+  title: A systematic investigation reveals dissociable effects of ageing on implicit
+    and explicit components of sensorimotor learning
+  authors:
+  - Elizabeth Cisneros
+  - Sheer Karny
+  - Richard B. Ivry
+  - Jonathan S. Tsay
+  publisher: Nature Human Behaviour
+  date: '2026-05-19'
+  link: https://doi.org/hb5gdq
+  orcid: 0000-0003-4728-5130
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.7554/eLife.100715
   title: Motor biases reflect a misalignment between visual and proprioceptive reference
     frames
