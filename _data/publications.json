@@ -266,6 +266,86 @@
     "title": "No evidence for the role of the cerebellum in value-based decision making"
   },
   {
+    "_id": "a3f72b1c-9d45-0e8f-bc23-6d7e8f9a0b1c",
+    "abstract": "Our sense of agency influences our decisions. The extent to which we have agency depends on whether we are free to select actions and whether our execution of those actions determines their outcomes. Past research suggests that free choice adds value—we prefer options that we freely selected compared to those we were forced to select. This selection bias also appears to be asymmetrical, increasing the value of successful options but not influencing the value of unsuccessful ones. We hypothesize that a different source of agency—control over the outcome of our actions—impacts how we perceive options linked to negative outcomes. In this study, we manipulated these two sources of agency to examine how they impact choice biases. We conducted three experiments in which the participants were either free to choose between two options or forced to select one, and where the outcome was either determined by a lottery or movement accuracy. During the training phase, we manipulated the reward probabilities for each option. To examine selection and execution biases, we presented paired options of identical value during a test phase. In the first experiment, we manipulated agency in action execution and found that the bias was restricted to outcomes associated with negative outcomes. In the second experiment, we manipulated agency in either selection or execution. With agency in action selection, participants exhibited a bias towards options associated with positive outcomes; in contrast, with agency in action execution, participants exhibited a bias towards options associated with negative outcomes. In the third experiment, we found that these two sources of bias were additive. Collectively, these findings demonstrate how different sources of agency give rise to distinct biases.",
+    "attachments": [
+      {
+        "_id": "b4e83c2d-1a56-4f7e-9034-7e8f9a0b1c2d",
+        "article_pdf": 1,
+        "created": 1768451519.946,
+        "filename": "All Papers/A/Abram et al. 2025 - Agency in action selection and action execution produce distinct biases in decision making.pdf",
+        "filesize": 566886,
+        "mimeType": "application/pdf",
+        "owner": "778D449898E211EC881CD318FB271251",
+        "pub_id": "a3f72b1c-9d45-0e8f-bc23-6d7e8f9a0b1c",
+        "source_filename": "2025_Abram_ivry_RLDM.pdf"
+      }
+    ],
+    "author": [
+      {
+        "first": "Sabrina J",
+        "last": "Abram",
+        "initials": "SJ",
+        "formatted": "Abram SJ",
+        "orcid": "0000-0001-5740-1874"
+      },
+      {
+        "first": "Luisa",
+        "last": "Bolo Dave",
+        "initials": "L",
+        "formatted": "Bolo Dave L"
+      },
+      {
+        "first": "Jonathan S",
+        "last": "Tsay",
+        "initials": "JS",
+        "formatted": "Tsay JS"
+      },
+      {
+        "first": "Tianhe",
+        "last": "Wang",
+        "initials": "T",
+        "formatted": "Wang T",
+        "orcid": "0000-0002-0131-850X"
+      },
+      {
+        "first": "Samuel D",
+        "last": "McDougle",
+        "initials": "SD",
+        "formatted": "McDougle SD"
+      },
+      {
+        "first": "Richard B",
+        "last": "Ivry",
+        "initials": "RB",
+        "formatted": "Ivry RB",
+        "orcid": "0000-0003-4728-5130"
+      }
+    ],
+    "citekey": "Abram2025-rldm",
+    "conference": "Multi-disciplinary Conference on Reinforcement Learning and Decision Making",
+    "created": 1768451519.573,
+    "folders": [
+      "2be42804-adb1-4867-87ff-9d438a7d6d1a"
+    ],
+    "foldersNamed": [
+      "ivry publications"
+    ],
+    "id_list": [
+      "sha1:a3f72b1c9d450e8fbc236d7e8f9a0b1c"
+    ],
+    "incomplete": 0,
+    "keywords": "Human decision making; choice biases; agency",
+    "labels": [],
+    "owner": "778D449898E211EC881CD318FB271251",
+    "published": {
+      "year": "2025"
+    },
+    "pubtype": "PP_MISC",
+    "sha1": "a3f72b1c9d450e8fbc236d7e8f9a0b1c",
+    "title": "Agency in action selection and action execution produce distinct biases in decision making"
+  },
+  {
     "_id": "90e88af4-bbfd-08f9-b59d-f1b31b1c02cf",
     "abstract": "The sensorimotor system continuously uses error signals to remain precisely calibrated. We examined how attention influences this automatic and implicit learning process in humans (male and female). Focusing first on spatial attention, we compared conditions in which attention was oriented either toward or away from the visual feedback that defined the error signal. Surprisingly, this manipulation had no effect on the rate of sensorimotor adaptation. Using dual-task methods, we next examined the influence of attentional resources on adaptation. Again, we found no effect of attention, with the rate of adaptation similar under focused and divided attention conditions. However, we found that attention modulates adaptation in an indirect manner: The rate of adaptation was significantly attenuated when the attended stimulus changed from the end of one trial to the start of the next trial. In contrast, similar changes to unattended stimuli had no impact on adaptation. These results suggest that visual attention defines the cues that establish the context for sensorimotor learning.",
     "accessed": {
