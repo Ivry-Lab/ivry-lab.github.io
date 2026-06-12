@@ -1,0 +1,17 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+manubot = "~=0.6"
+pyyaml = "~=6.0"
+diskcache = "~=5.6"
+rich = "~=13.6"
+python-dotenv = "~=0.21"
+google-search-results = "~=2.4"
+
+[dev-packages]
+
+[requires]
+python_version = "3.11"
