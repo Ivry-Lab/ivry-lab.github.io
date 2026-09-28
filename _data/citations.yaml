@@ -1,5 +1,39 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.64898/2026.09.05.749306
+  title: Understanding Strategic Motor Learning as a Process of Hypothesis Testing
+  authors:
+  - Anjuli Niyogi
+  - Elizabeth Cisneros
+  - Wei Ding
+  - Kelsey Allen
+  - Saurabh Vyas
+  - Richard Ivry
+  - Jonathan Tsay
+  publisher: openRxiv
+  date: '2026-09-12'
+  link: https://doi.org/hcjg2v
+  orcid: 0000-0003-4728-5130
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.64898/2026.07.29.741410
+  title: Dissociable thalamic oscillatory mechanisms support motor sequence learning
+  authors:
+  - Angela Voegtle
+  - Lars Buentjen
+  - Stefan Repplinger
+  - Slawomir J. Nasuto
+  - Adriano de Oliveira Andrade
+  - Matthias Deliano
+  - Robert T. Knight
+  - Richard B. Ivry
+  - Catherine M. Sweeney-Reed
+  publisher: openRxiv
+  date: '2026-07-31'
+  link: https://doi.org/hcddwd
+  orcid: 0000-0003-4728-5130
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1038/s41562-026-02468-7
   title: A systematic investigation reveals dissociable effects of ageing on implicit
     and explicit components of sensorimotor learning
