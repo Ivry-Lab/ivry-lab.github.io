@@ -1,7 +1,7 @@
 ---
 name: Cong Du
 image: images/cong.jpg
-role: Research Assistant
+role: PhD Student
 email: congdu@berkeley.edu
 order: 10
 ---
